@@ -191,6 +191,7 @@ foreach ($entry in ($themeCounts.GetEnumerator() | Sort-Object Value -Descending
 $totalViews = ($videos | ForEach-Object { To-Int64 $_.views } | Measure-Object -Sum).Sum
 $totalLikes = ($videos | ForEach-Object { To-Int64 $_.likes } | Measure-Object -Sum).Sum
 $totalComments = ($videos | ForEach-Object { To-Int64 $_.comments } | Measure-Object -Sum).Sum
+$channelSubscribers = if ($videos.Count -gt 0 -and $videos[0].PSObject.Properties["channel_subscribers"]) { To-Int64 $videos[0].channel_subscribers } else { 0 }
 $videosWithComments = @($videos | Where-Object { (To-Int64 $_.comments) -gt 0 }).Count
 $shortVideos = @($videos | Where-Object { Is-Short $_.title })
 $longVideos = @($videos | Where-Object { -not (Is-Short $_.title) })
@@ -201,6 +202,7 @@ $longViews = ($longVideos | ForEach-Object { To-Int64 $_.views } | Measure-Objec
 $dashboardRows = New-Object System.Collections.Generic.List[object]
 $dashboardRows.Add([object[]]@("Metric", "Value", "Notes", "", "", "")) | Out-Null
 $dashboardRows.Add([object[]]@("Videos analyzed", $videos.Count, "Latest complete local export", "", "", "")) | Out-Null
+$dashboardRows.Add([object[]]@("Channel subscribers", $channelSubscribers, "Public YouTube channel subscriber count", "", "", "")) | Out-Null
 $dashboardRows.Add([object[]]@("Comments fetched", $comments.Count, "Public comments from exported videos", "", "", "")) | Out-Null
 $dashboardRows.Add([object[]]@("Public views total", $totalViews, "", "", "", "")) | Out-Null
 $dashboardRows.Add([object[]]@("Public likes total", $totalLikes, "", "", "", "")) | Out-Null

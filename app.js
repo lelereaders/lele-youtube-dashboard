@@ -48,6 +48,7 @@ function renderKpis() {
   document.querySelector("#sourceWorkbook").textContent = data.sourceWorkbook;
   document.querySelector("#generatedAt").textContent = `Generated ${data.generatedAt}`;
   document.querySelector("#kpiVideos").textContent = numberFormat.format(value("Videos analyzed"));
+  document.querySelector("#kpiSubscribers").textContent = numberFormat.format(value("Channel subscribers"));
   document.querySelector("#kpiViews").textContent = numberFormat.format(value("Public views total"));
   document.querySelector("#kpiComments").textContent = numberFormat.format(value("Public comments total"));
   document.querySelector("#kpiFormats").textContent = `${value("Shorts count")} / ${value("Long-form count")}`;

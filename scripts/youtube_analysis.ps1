@@ -104,15 +104,19 @@ function Get-NumberOrZero {
 }
 
 function Get-VideoRow {
-  param($Video)
+  param(
+    $Video,
+    [int64]$SubscriberCount = 0
+  )
   [pscustomobject]@{
-    video_id     = $Video.id
-    title        = $Video.snippet.title
-    published_at = $Video.snippet.publishedAt
-    url          = "https://www.youtube.com/watch?v=$($Video.id)"
-    views        = Get-NumberOrZero $Video.statistics.viewCount
-    likes        = Get-NumberOrZero $Video.statistics.likeCount
-    comments     = Get-NumberOrZero $Video.statistics.commentCount
+    video_id            = $Video.id
+    title               = $Video.snippet.title
+    published_at        = $Video.snippet.publishedAt
+    url                 = "https://www.youtube.com/watch?v=$($Video.id)"
+    views               = Get-NumberOrZero $Video.statistics.viewCount
+    likes               = Get-NumberOrZero $Video.statistics.likeCount
+    comments            = Get-NumberOrZero $Video.statistics.commentCount
+    channel_subscribers = $SubscriberCount
   }
 }
 
@@ -186,6 +190,7 @@ if (-not $channelData.items -or $channelData.items.Count -eq 0) {
 
 $channel = $channelData.items[0]
 $uploadsPlaylistId = $channel.contentDetails.relatedPlaylists.uploads
+$channelSubscribers = Get-NumberOrZero $channel.statistics.subscriberCount
 
 $playlistItems = Get-YouTubePaged -Endpoint "playlistItems" -Params @{
   part       = "snippet,contentDetails"
@@ -292,7 +297,7 @@ foreach ($comment in $allCommentItems) {
 }
 
 $stamp = Get-Date -Format "yyyyMMdd_HHmmss"
-$videoRows = @($videos | ForEach-Object { Get-VideoRow $_ })
+$videoRows = @($videos | ForEach-Object { Get-VideoRow -Video $_ -SubscriberCount $channelSubscribers })
 $commentsPath = Join-Path $OutputDir "comments_$stamp.csv"
 $videosPath = Join-Path $OutputDir "videos_$stamp.csv"
 $rawPath = Join-Path $OutputDir "raw_$stamp.json"
@@ -327,6 +332,7 @@ $lines.Add("")
 $lines.Add("- Channel: $($channel.snippet.title)")
 $lines.Add("- Generated at: $(Get-Date -Format 'yyyy-MM-dd HH:mm')")
 $lines.Add("- Videos analyzed: $($videoRows.Count)")
+$lines.Add("- Channel subscribers: $('{0:N0}' -f $channelSubscribers)")
 $lines.Add("- Comments fetched: $($allCommentItems.Count)")
 $lines.Add("- Public views total: $('{0:N0}' -f $totalViews)")
 $lines.Add("- Public likes total: $('{0:N0}' -f $totalLikes)")
