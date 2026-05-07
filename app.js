@@ -19,7 +19,16 @@ function textIncludes(item, query) {
     .join(" ")
     .toLowerCase()
     .includes(query.toLowerCase());
+}function commentReplyUrl(comment) {
+  const videoUrl = comment["Video URL"] || `https://www.youtube.com/watch?v=${comment["Video ID"]}`;
+  const commentUrl = comment["Comment URL"] || comment["Reply URL"];
+  const commentId = comment["Comment ID"] || comment.comment_id;
+
+  if (commentUrl) return commentUrl;
+  if (commentId) return `${videoUrl}&lc=${encodeURIComponent(commentId)}`;
+  return `${videoUrl}#comments`;
 }
+
 
 function renderKpis() {
   document.querySelector("#sourceWorkbook").textContent = data.sourceWorkbook;
@@ -91,7 +100,6 @@ function renderThemes() {
     })
     .join("");
 }
-
 function renderComments() {
   const query = document.querySelector("#commentSearch").value.trim();
   const comments = data.comments
@@ -99,24 +107,32 @@ function renderComments() {
     .slice(0, 30);
 
   document.querySelector("#commentsTable").innerHTML = comments
-    .map((comment) => `
-      <div class="comment-row">
-        <div>
-          <strong>${comment.Author}</strong>
-          <small>${comment.Published}</small>
-          <span class="pill">${comment.Category}</span>
+    .map((comment) => {
+      const replyUrl = commentReplyUrl(comment);
+      return `
+        <div class="comment-row">
+          <div>
+            <strong>${comment.Author}</strong>
+            <small>${comment.Published}</small>
+            <span class="pill">${comment.Category}</span>
+            <a class="reply-link" href="${replyUrl}" target="_blank" rel="noreferrer">回覆留言</a>
+          </div>
+          <div>
+            <a class="video-title" href="${replyUrl}" target="_blank" rel="noreferrer">${comment["Video Title"]}</a>
+            <p>${comment.Comment}</p>
+          </div>
+          <div>
+            <small>回覆方向</small>
+            <p>${comment["Response Guidance"]}</p>
+            <a class="secondary-link" href="${comment["Video URL"]}" target="_blank" rel="noreferrer">開啟影片</a>
+          </div>
         </div>
-        <div>
-          <a class="video-title" href="${comment["Video URL"]}" target="_blank" rel="noreferrer">${comment["Video Title"]}</a>
-          <p>${comment.Comment}</p>
-        </div>
-        <div>
-          <small>回覆方向</small>
-          <p>${comment["Response Guidance"]}</p>
-        </div>
-      </div>
-    `)
+      `;
+    })
     .join("");
+}
+
+
 }
 
 function renderIdeas() {
