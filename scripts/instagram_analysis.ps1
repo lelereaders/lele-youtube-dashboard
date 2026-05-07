@@ -75,20 +75,9 @@ function Invoke-InstagramGet {
   }
   catch {
     $statusCode = $null
-    $responseBody = ""
+    $responseBody = $_.ErrorDetails.Message
     if ($_.Exception.Response) {
       $statusCode = [int]$_.Exception.Response.StatusCode
-      try {
-        $stream = $_.Exception.Response.GetResponseStream()
-        if ($stream) {
-          $reader = New-Object System.IO.StreamReader($stream)
-          $responseBody = $reader.ReadToEnd()
-          $reader.Close()
-        }
-      }
-      catch {
-        $responseBody = ""
-      }
     }
     $message = $_.Exception.Message
     if ($responseBody) {
@@ -157,7 +146,40 @@ function Get-InsightMap {
     return $map
   }
   catch {
-    return [ordered]@{}
+  return [ordered]@{}
+  }
+}
+
+function Get-InstagramProfile {
+  param([string]$InstagramUserId)
+
+  Invoke-InstagramGet -Path $InstagramUserId -Params @{
+    fields = "id,username,name,followers_count,media_count,profile_picture_url"
+  }
+}
+
+function Resolve-InstagramProfile {
+  param([string]$InputId)
+
+  try {
+    return Get-InstagramProfile -InstagramUserId $InputId
+  }
+  catch {
+    $instagramError = $_.Exception.Message
+    try {
+      $page = Invoke-InstagramGet -Path $InputId -Params @{
+        fields = "instagram_business_account{id,username}"
+      }
+      if ($page.instagram_business_account -and $page.instagram_business_account.id) {
+        Write-Host "Resolved Facebook Page ID to Instagram account @$($page.instagram_business_account.username)."
+        return Get-InstagramProfile -InstagramUserId $page.instagram_business_account.id
+      }
+      throw "The numeric ID looks like a Facebook Page, but it does not have instagram_business_account connected."
+    }
+    catch {
+      $pageError = $_.Exception.Message
+      throw "Could not resolve INSTAGRAM_USER_ID as an Instagram account or as a Facebook Page connected to Instagram. Instagram account attempt: $instagramError Page attempt: $pageError"
+    }
   }
 }
 
@@ -178,9 +200,8 @@ if (-not $maxCommentsValue) { $maxCommentsValue = "25" }
 $maxMedia = [int]$maxMediaValue
 $maxComments = [int]$maxCommentsValue
 
-$profile = Invoke-InstagramGet -Path $igUserId -Params @{
-  fields = "id,username,name,followers_count,media_count,profile_picture_url"
-}
+$profile = Resolve-InstagramProfile -InputId $igUserId
+$igUserId = $profile.id
 
 $mediaFields = "id,caption,media_type,media_product_type,media_url,thumbnail_url,permalink,timestamp,like_count,comments_count"
 $mediaItems = Get-PagedData -Path "$igUserId/media" -Params @{
