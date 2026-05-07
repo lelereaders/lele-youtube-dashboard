@@ -37,7 +37,8 @@ if (-not $latestCommentsCsv) {
 }
 
 Write-Host "Building workbook..."
-& $xlsxScript -VideosCsv $latestVideosCsv.FullName -CommentsCsv $latestCommentsCsv.FullName -OutputXlsx $resolvedWorkbookPath
+& $xlsxScript -VideosCsv $latestVideosCsv.FullName -CommentsCsv $latestCommentsCsv.FullName -OutputXlsx $WorkbookPath
+
 
 Write-Host "Exporting dashboard data..."
 & $exportScript -WorkbookPath $resolvedWorkbookPath -OutputPath "data/youtube-dashboard-data.js"
