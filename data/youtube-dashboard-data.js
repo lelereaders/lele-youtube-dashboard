@@ -1,0 +1,1452 @@
+﻿window.LELE_YOUTUBE_DASHBOARD = {
+    "generatedAt":  "2026-05-07 09:45",
+    "sourceWorkbook":  "YouTube_Comment_Insights_latest.xlsx",
+    "dashboard":  {
+                      "metrics":  {
+                                      "Videos analyzed":  100,
+                                      "Comments fetched":  14,
+                                      "Public views total":  24697,
+                                      "Public likes total":  182,
+                                      "Public comments total":  14,
+                                      "Videos with comments":  8,
+                                      "Shorts count":  51,
+                                      "Long-form count":  49
+                                  },
+                      "topVideos":  [
+                                        {
+                                            "rank":  1,
+                                            "title":  "想要月餅活動紙留言GROUP",
+                                            "views":  1830,
+                                            "likes":  10,
+                                            "comments":  0,
+                                            "url":  "https://www.youtube.com/watch?v=0iC4fAn_-fM"
+                                        },
+                                        {
+                                            "rank":  2,
+                                            "title":  "覺得自己中文不夠好就不敢陪孩子一起學嗎 #shorts",
+                                            "views":  1317,
+                                            "likes":  15,
+                                            "comments":  0,
+                                            "url":  "https://www.youtube.com/watch?v=TOtqkJORHhg"
+                                        },
+                                        {
+                                            "rank":  3,
+                                            "title":  "力玄華語對我的家族其實是外來語 #shorts",
+                                            "views":  1184,
+                                            "likes":  12,
+                                            "comments":  3,
+                                            "url":  "https://www.youtube.com/watch?v=MPw_QotGKng"
+                                        },
+                                        {
+                                            "rank":  4,
+                                            "title":  "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
+                                            "views":  1177,
+                                            "likes":  3,
+                                            "comments":  1,
+                                            "url":  "https://www.youtube.com/watch?v=anmOs42G-0I"
+                                        },
+                                        {
+                                            "rank":  5,
+                                            "title":  "因為拼音只是拼讀孩子可能會念卻寫不出換到另一個故事又完全卡住 #shorts",
+                                            "views":  1132,
+                                            "likes":  7,
+                                            "comments":  0,
+                                            "url":  "https://www.youtube.com/watch?v=_UGl6HqIlRA"
+                                        },
+                                        {
+                                            "rank":  6,
+                                            "title":  "我的母語是什麼 #shorts",
+                                            "views":  1113,
+                                            "likes":  8,
+                                            "comments":  5,
+                                            "url":  "https://www.youtube.com/watch?v=COr7Y8WQolA"
+                                        },
+                                        {
+                                            "rank":  7,
+                                            "title":  "如何在海外創造必須用中文的環境 #shorts",
+                                            "views":  1109,
+                                            "likes":  3,
+                                            "comments":  0,
+                                            "url":  "https://www.youtube.com/watch?v=2YXUzg9R--c"
+                                        },
+                                        {
+                                            "rank":  8,
+                                            "title":  "聽起來不可思議但太多家庭都遇到一樣的問題 #shorts",
+                                            "views":  1073,
+                                            "likes":  13,
+                                            "comments":  1,
+                                            "url":  "https://www.youtube.com/watch?v=1Yp-hUO3SpA"
+                                        },
+                                        {
+                                            "rank":  9,
+                                            "title":  "沒有一個更好的老師因為父母就是最好的老師  #shorts",
+                                            "views":  1026,
+                                            "likes":  7,
+                                            "comments":  0,
+                                            "url":  "https://www.youtube.com/watch?v=As_rvS90u0U"
+                                        },
+                                        {
+                                            "rank":  10,
+                                            "title":  "真正重要的不是字數而是他能不能讀懂故事 #shorts",
+                                            "views":  978,
+                                            "likes":  5,
+                                            "comments":  0,
+                                            "url":  "https://www.youtube.com/watch?v=0kqFdl85Ovw"
+                                        }
+                                    ],
+                      "formats":  [
+                                      {
+                                          "format":  "Shorts",
+                                          "count":  51,
+                                          "views":  18415,
+                                          "avgViews":  361.1
+                                      },
+                                      {
+                                          "format":  "Long-form",
+                                          "count":  49,
+                                          "views":  6282,
+                                          "avgViews":  128.2
+                                      }
+                                  ]
+                  },
+    "videos":  [
+                   {
+                       "Video ID":  "rIAHgQuHq2Q",
+                       "Title":  "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
+                       "Published":  "2026-05-05",
+                       "URL":  "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
+                       "Views":  3,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "NxeVOWfGP-k",
+                       "Title":  "Untitled #shorts",
+                       "Published":  "2026-05-02",
+                       "URL":  "https://www.youtube.com/watch?v=NxeVOWfGP-k",
+                       "Views":  103,
+                       "Likes":  4,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0388,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "Toc1mr7KORw",
+                       "Title":  "044｜【樂樂 Talk】為什麼閱讀比會說更重要？——海外家庭守護中文最需要知道的一件事｜S403",
+                       "Published":  "2026-04-28",
+                       "URL":  "https://www.youtube.com/watch?v=Toc1mr7KORw",
+                       "Views":  63,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0159,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "SQ781eMsfG0",
+                       "Title":  "🤔明明 6 歲前會雙語，為什麼一上學就不再說中文？ #shorts",
+                       "Published":  "2026-04-25",
+                       "URL":  "https://www.youtube.com/watch?v=SQ781eMsfG0",
+                       "Views":  154,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0065,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "CGnUHEeHlts",
+                       "Title":  "043｜【樂樂 Talk】共讀挑戰存在的理由——不是為了完美達成，而是為了讓你不再一個人撐｜S3E13",
+                       "Published":  "2026-04-21",
+                       "URL":  "https://www.youtube.com/watch?v=CGnUHEeHlts",
+                       "Views":  65,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0154,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "HFMQYNCYQw8",
+                       "Title":  "能講中文給孩子聽的，可能只有你。一旦錯過黃金期，中文就真的回不來。 💔 #shorts",
+                       "Published":  "2026-04-18",
+                       "URL":  "https://www.youtube.com/watch?v=HFMQYNCYQw8",
+                       "Views":  37,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "6kQxIMwsbKU",
+                       "Title":  "042｜【樂樂 Talk】比較，會讓你忘記為什麼出發——寫給每個走得很累的海外家長｜S4E02",
+                       "Published":  "2026-04-14",
+                       "URL":  "https://www.youtube.com/watch?v=6kQxIMwsbKU",
+                       "Views":  41,
+                       "Likes":  2,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0488,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "MY91MQwmI1A",
+                       "Title":  "語言一旦失去，不只是工具的消失，還會在親子心裡的溝通上，再多拉開一層距離 #shorts",
+                       "Published":  "2026-04-11",
+                       "URL":  "https://www.youtube.com/watch?v=MY91MQwmI1A",
+                       "Views":  86,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "dqYgH8is3JQ",
+                       "Title":  "041｜【樂樂 Talk】不是缺資源，而是缺陪伴——海外家庭為什麼需要訂閱電子報？｜S3E12",
+                       "Published":  "2026-04-07",
+                       "URL":  "https://www.youtube.com/watch?v=dqYgH8is3JQ",
+                       "Views":  12,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "G8NUQP4Kf84",
+                       "Title":  "了解自己的母語文化 讓孩子對自己的身份感到驕傲 #shorts",
+                       "Published":  "2026-04-04",
+                       "URL":  "https://www.youtube.com/watch?v=G8NUQP4Kf84",
+                       "Views":  101,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "QhEIUvMJso8",
+                       "Title":  "040｜【樂樂 Talk】孩子聽得懂中文卻不說？比起教導，他們更需要的是「安全感」",
+                       "Published":  "2026-03-31",
+                       "URL":  "https://www.youtube.com/watch?v=QhEIUvMJso8",
+                       "Views":  21,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0476,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "aAzQfQmMr30",
+                       "Title":  "語言不是天賦，而是輸入＋陪伴的奇蹟。❤️ #shorts",
+                       "Published":  "2026-03-28",
+                       "URL":  "https://www.youtube.com/watch?v=aAzQfQmMr30",
+                       "Views":  3,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "cbWBjTNHMlg",
+                       "Title":  "交給老師教中文，你就會錯過這些可愛又珍貴的時刻 #shorts",
+                       "Published":  "2026-03-21",
+                       "URL":  "https://www.youtube.com/watch?v=cbWBjTNHMlg",
+                       "Views":  574,
+                       "Likes":  4,
+                       "Comments":  0,
+                       "Engagement Rate":  0.007,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "RmtECKEzgdk",
+                       "Title":  "困難很多時候不是實際的，而是心理上的 #shorts",
+                       "Published":  "2026-03-14",
+                       "URL":  "https://www.youtube.com/watch?v=RmtECKEzgdk",
+                       "Views":  39,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0256,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "RRiEw9GirF8",
+                       "Title":  "📖 閱讀識字不一樣，孩子自己感興趣、自己想重複看的故事 #shorts",
+                       "Published":  "2026-03-07",
+                       "URL":  "https://www.youtube.com/watch?v=RRiEw9GirF8",
+                       "Views":  91,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "k-Gvh-W3448",
+                       "Title":  "閱讀能夠幫助孩子增加中文詞彙 #shorts",
+                       "Published":  "2026-02-28",
+                       "URL":  "https://www.youtube.com/watch?v=k-Gvh-W3448",
+                       "Views":  224,
+                       "Likes":  2,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0089,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "DNlMgiRfvVI",
+                       "Title":  "慢下來，孩子才跟得上你。 #shorts",
+                       "Published":  "2026-02-26",
+                       "URL":  "https://www.youtube.com/watch?v=DNlMgiRfvVI",
+                       "Views":  80,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "tATGsjDBIho",
+                       "Title":  "親子共讀不是功課，而是點燃孩子 內在動力 的機會 🚗 #shorts",
+                       "Published":  "2026-02-21",
+                       "URL":  "https://www.youtube.com/watch?v=tATGsjDBIho",
+                       "Views":  270,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "156lKiWLNpc",
+                       "Title":  "孩子最需要的不是補習班而是一個願意陪他聊天陪他過日子的爸媽 #shorts",
+                       "Published":  "2026-02-19",
+                       "URL":  "https://www.youtube.com/watch?v=156lKiWLNpc",
+                       "Views":  344,
+                       "Likes":  2,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0058,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "rsikARYbt_k",
+                       "Title":  "臘月二十三到二十九的習俗 #shorts",
+                       "Published":  "2026-02-16",
+                       "URL":  "https://www.youtube.com/watch?v=rsikARYbt_k",
+                       "Views":  436,
+                       "Likes":  2,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0046,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "fqd1rkZOBXI",
+                       "Title":  "Lunar New Year overseas can feel quiet.",
+                       "Published":  "2026-02-14",
+                       "URL":  "https://www.youtube.com/watch?v=fqd1rkZOBXI",
+                       "Views":  2,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "4KwbOuflvnM",
+                       "Title":  "無壓力無目的只因為喜歡  #shorts",
+                       "Published":  "2026-02-14",
+                       "URL":  "https://www.youtube.com/watch?v=4KwbOuflvnM",
+                       "Views":  215,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0047,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "YOQ_YMDduG4",
+                       "Title":  "語言不是命令而是互動 #shorts",
+                       "Published":  "2026-02-12",
+                       "URL":  "https://www.youtube.com/watch?v=YOQ_YMDduG4",
+                       "Views":  276,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0036,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "COr7Y8WQolA",
+                       "Title":  "我的母語是什麼 #shorts",
+                       "Published":  "2026-02-07",
+                       "URL":  "https://www.youtube.com/watch?v=COr7Y8WQolA",
+                       "Views":  1113,
+                       "Likes":  8,
+                       "Comments":  5,
+                       "Engagement Rate":  0.0117,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "v-UeHLv5PPE",
+                       "Title":  "樂樂親子讀書會  孩子們有人聽有人回應中文自然就說出口 #shorts",
+                       "Published":  "2026-02-05",
+                       "URL":  "https://www.youtube.com/watch?v=v-UeHLv5PPE",
+                       "Views":  700,
+                       "Likes":  3,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0043,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "0kqFdl85Ovw",
+                       "Title":  "真正重要的不是字數而是他能不能讀懂故事 #shorts",
+                       "Published":  "2026-01-31",
+                       "URL":  "https://www.youtube.com/watch?v=0kqFdl85Ovw",
+                       "Views":  978,
+                       "Likes":  5,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0051,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "5JMh-u137xw",
+                       "Title":  "孩子先在故事裡聽懂整句再透過重複自然記住字 #shorts",
+                       "Published":  "2026-01-29",
+                       "URL":  "https://www.youtube.com/watch?v=5JMh-u137xw",
+                       "Views":  70,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "uXXsvJp9qVY",
+                       "Title":  "中文不是一夕之功而是每天一點一滴的累積 #shorts",
+                       "Published":  "2026-01-24",
+                       "URL":  "https://www.youtube.com/watch?v=uXXsvJp9qVY",
+                       "Views":  179,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "Oi1GS6VapWE",
+                       "Title":  "Iris別糾結孩子有沒有指讀讀對聲音有時候他眼睛已經懂了只是嘴巴還跟不上 #shorts",
+                       "Published":  "2026-01-17",
+                       "URL":  "https://www.youtube.com/watch?v=Oi1GS6VapWE",
+                       "Views":  127,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "tEPnXhdLNJE",
+                       "Title":  "Untitled #shorts",
+                       "Published":  "2026-01-15",
+                       "URL":  "https://www.youtube.com/watch?v=tEPnXhdLNJE",
+                       "Views":  89,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "Xb8wSpTmcOU",
+                       "Title":  "提供孩子學習環境, 給孩子成長的空間",
+                       "Published":  "2026-01-12",
+                       "URL":  "https://www.youtube.com/watch?v=Xb8wSpTmcOU",
+                       "Views":  80,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "fMv8LZmuG8Y",
+                       "Title":  "樂樂書的編排有很多細節能讓孩子一讀再讀, 每次都有新發現",
+                       "Published":  "2026-01-12",
+                       "URL":  "https://www.youtube.com/watch?v=fMv8LZmuG8Y",
+                       "Views":  10,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "FEVbfZa_8bo",
+                       "Title":  "母語是連結父母與孩子內心的一道橋",
+                       "Published":  "2026-01-12",
+                       "URL":  "https://www.youtube.com/watch?v=FEVbfZa_8bo",
+                       "Views":  49,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "QzYo0YtN424",
+                       "Title":  "用故事書有趣的內容來驅使孩子主動閱讀",
+                       "Published":  "2026-01-12",
+                       "URL":  "https://www.youtube.com/watch?v=QzYo0YtN424",
+                       "Views":  101,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0099,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "4iFdEAlDjsg",
+                       "Title":  "樂樂書裡紅59 媽媽的故事連結家長與孩子的溫馨回憶",
+                       "Published":  "2026-01-12",
+                       "URL":  "https://www.youtube.com/watch?v=4iFdEAlDjsg",
+                       "Views":  13,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "R5EPlLtmDFU",
+                       "Title":  "從小開始培養閱讀習慣, 養成孩子學習的內趨力",
+                       "Published":  "2026-01-12",
+                       "URL":  "https://www.youtube.com/watch?v=R5EPlLtmDFU",
+                       "Views":  1,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "Ho-BKFw-4TU",
+                       "Title":  "Peggy 學習母語能幫助孩子建立身份認同 #shorts",
+                       "Published":  "2026-01-10",
+                       "URL":  "https://www.youtube.com/watch?v=Ho-BKFw-4TU",
+                       "Views":  155,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "lmCPb9D-8ew",
+                       "Title":  "語言是文化的載體是孩子與根連結的橋樑 #shorts",
+                       "Published":  "2026-01-08",
+                       "URL":  "https://www.youtube.com/watch?v=lmCPb9D-8ew",
+                       "Views":  679,
+                       "Likes":  5,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0074,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "emScxUjYlR8",
+                       "Title":  "如果你正在找一個能走得久的中文起點",
+                       "Published":  "2026-01-03",
+                       "URL":  "https://www.youtube.com/watch?v=emScxUjYlR8",
+                       "Views":  65,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "2YXUzg9R--c",
+                       "Title":  "如何在海外創造必須用中文的環境 #shorts",
+                       "Published":  "2026-01-03",
+                       "URL":  "https://www.youtube.com/watch?v=2YXUzg9R--c",
+                       "Views":  1109,
+                       "Likes":  3,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0027,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "8RA7VSaicpg",
+                       "Title":  "039｜【樂樂 Talk】我不是讀書的料——Ting 如何從不愛閱讀，走到書蟲一家的真實故事｜S1E16",
+                       "Published":  "2025-12-30",
+                       "URL":  "https://www.youtube.com/watch?v=8RA7VSaicpg",
+                       "Views":  36,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0278,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "MPw_QotGKng",
+                       "Title":  "力玄華語對我的家族其實是外來語 #shorts",
+                       "Published":  "2025-12-27",
+                       "URL":  "https://www.youtube.com/watch?v=MPw_QotGKng",
+                       "Views":  1184,
+                       "Likes":  12,
+                       "Comments":  3,
+                       "Engagement Rate":  0.0127,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "t7ZQGroTrjQ",
+                       "Title":  "038｜【樂樂 Talk】搬去英國前，她把整套樂樂書一起帶走——Carmen 談在沒有中文語境的異國，如何為孩子打造穩定的閱讀環境｜S1E15",
+                       "Published":  "2025-12-23",
+                       "URL":  "https://www.youtube.com/watch?v=t7ZQGroTrjQ",
+                       "Views":  12,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "tJ1sxf6SZlM",
+                       "Title":  "Michelle 的孩子正在同時學廣東話和普通話 #shorts",
+                       "Published":  "2025-12-20",
+                       "URL":  "https://www.youtube.com/watch?v=tJ1sxf6SZlM",
+                       "Views":  403,
+                       "Likes":  4,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0099,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "oyk8-qEYwgo",
+                       "Title":  "中文不用死背它可以透過故事語感陪伴自然長出來 #shorts",
+                       "Published":  "2025-12-18",
+                       "URL":  "https://www.youtube.com/watch?v=oyk8-qEYwgo",
+                       "Views":  78,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "t7CnGcQd7GY",
+                       "Title":  "孩子接觸中文的機會會越來越少久了就失去能力 #shorts",
+                       "Published":  "2025-12-13",
+                       "URL":  "https://www.youtube.com/watch?v=t7CnGcQd7GY",
+                       "Views":  116,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "M7uq5R98q8M",
+                       "Title":  "孩子從不會到愛讀中文其實有方法 #shorts",
+                       "Published":  "2025-12-11",
+                       "URL":  "https://www.youtube.com/watch?v=M7uq5R98q8M",
+                       "Views":  104,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0096,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "As_rvS90u0U",
+                       "Title":  "沒有一個更好的老師因為父母就是最好的老師  #shorts",
+                       "Published":  "2025-12-06",
+                       "URL":  "https://www.youtube.com/watch?v=As_rvS90u0U",
+                       "Views":  1026,
+                       "Likes":  7,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0068,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "yw_bDT7gSt0",
+                       "Title":  "BLACK FRIDAY PRESALE ENDS SOON #shorts",
+                       "Published":  "2025-12-02",
+                       "URL":  "https://www.youtube.com/watch?v=yw_bDT7gSt0",
+                       "Views":  50,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "gOBRGn0_VX4",
+                       "Title":  "Black Friday Presale #shorts",
+                       "Published":  "2025-11-29",
+                       "URL":  "https://www.youtube.com/watch?v=gOBRGn0_VX4",
+                       "Views":  197,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "ymINFPXWByw",
+                       "Title":  "🎬【聖誕節倒數共讀 開始前先看影片！】",
+                       "Published":  "2025-11-29",
+                       "URL":  "https://www.youtube.com/watch?v=ymINFPXWByw",
+                       "Views":  3,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "pFv2fEXPmFI",
+                       "Title":  "🎄 聖誕倒數共讀活動即將開始! 會員專屬",
+                       "Published":  "2025-11-29",
+                       "URL":  "https://www.youtube.com/watch?v=pFv2fEXPmFI",
+                       "Views":  0,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "_UGl6HqIlRA",
+                       "Title":  "因為拼音只是拼讀孩子可能會念卻寫不出換到另一個故事又完全卡住 #shorts",
+                       "Published":  "2025-11-29",
+                       "URL":  "https://www.youtube.com/watch?v=_UGl6HqIlRA",
+                       "Views":  1132,
+                       "Likes":  7,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0062,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "ojf4YQ_zNt8",
+                       "Title":  "學中文不是教材而是陪伴的時光 #shorts",
+                       "Published":  "2025-11-27",
+                       "URL":  "https://www.youtube.com/watch?v=ojf4YQ_zNt8",
+                       "Views":  696,
+                       "Likes":  4,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0057,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "XphPh6ReY8k",
+                       "Title":  "035｜【樂樂 Talk】孩子不缺知識，缺的是情感教育——明灑老師談共讀如何補足學校教育給不了的養分（下）｜S2E12",
+                       "Published":  "2025-11-25",
+                       "URL":  "https://www.youtube.com/watch?v=XphPh6ReY8k",
+                       "Views":  15,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "0ixV5Z4wRbU",
+                       "Title":  "孩子在遊戲中參與在陪伴中快樂自然走向  獨立閱讀 #shorts",
+                       "Published":  "2025-11-22",
+                       "URL":  "https://www.youtube.com/watch?v=0ixV5Z4wRbU",
+                       "Views":  333,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "FvesuyU_Cmk",
+                       "Title":  "原來學中文不用一個人苦撐 #shorts",
+                       "Published":  "2025-11-20",
+                       "URL":  "https://www.youtube.com/watch?v=FvesuyU_Cmk",
+                       "Views":  2,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "RxVzs4HJBow",
+                       "Title":  "034｜【樂樂 Talk】極簡共讀——明灑老師談大人的感受同樣重要，共讀不是任務，是享受（上）｜S2E11",
+                       "Published":  "2025-11-18",
+                       "URL":  "https://www.youtube.com/watch?v=RxVzs4HJBow",
+                       "Views":  38,
+                       "Likes":  1,
+                       "Comments":  1,
+                       "Engagement Rate":  0.0526,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "anmOs42G-0I",
+                       "Title":  "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
+                       "Published":  "2025-11-15",
+                       "URL":  "https://www.youtube.com/watch?v=anmOs42G-0I",
+                       "Views":  1177,
+                       "Likes":  3,
+                       "Comments":  1,
+                       "Engagement Rate":  0.0034,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "ZFOGcVTpgiY",
+                       "Title":  "033｜【樂樂 Talk】孩子進了學校，母語使用率從100%掉到50%——力玄談如何在主流語言環境中為孩子築起母語的堡壘（下）｜S2E10",
+                       "Published":  "2025-11-11",
+                       "URL":  "https://www.youtube.com/watch?v=ZFOGcVTpgiY",
+                       "Views":  35,
+                       "Likes":  1,
+                       "Comments":  1,
+                       "Engagement Rate":  0.0571,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "0mruiiNyj9M",
+                       "Title":  "沒有家庭輸入沒有和家人的中文連結再好的中文學校再多的課程也只是表面功夫 #shorts",
+                       "Published":  "2025-11-08",
+                       "URL":  "https://www.youtube.com/watch?v=0mruiiNyj9M",
+                       "Views":  211,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0047,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "TOtqkJORHhg",
+                       "Title":  "覺得自己中文不夠好就不敢陪孩子一起學嗎 #shorts",
+                       "Published":  "2025-11-06",
+                       "URL":  "https://www.youtube.com/watch?v=TOtqkJORHhg",
+                       "Views":  1317,
+                       "Likes":  15,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0114,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "qgzJr7ZtvhE",
+                       "Title":  "在樂樂學苑  孩子在 show  tell 裡分享自己怎麼念樂樂書 #shorts",
+                       "Published":  "2025-11-05",
+                       "URL":  "https://www.youtube.com/watch?v=qgzJr7ZtvhE",
+                       "Views":  70,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "9SQ9Vlq1RIc",
+                       "Title":  "032｜【樂樂 Talk】什麼是母語？為什麼要為孩子保留它——台語路協會理事長力玄談母語傳承與找回的旅程（上）｜S2E09",
+                       "Published":  "2025-11-04",
+                       "URL":  "https://www.youtube.com/watch?v=9SQ9Vlq1RIc",
+                       "Views":  35,
+                       "Likes":  2,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0571,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "0kc4Dapw_To",
+                       "Title":  "一起看看樂樂家庭怎麼用閱讀讓中文變得有趣",
+                       "Published":  "2025-10-30",
+                       "URL":  "https://www.youtube.com/watch?v=0kc4Dapw_To",
+                       "Views":  158,
+                       "Likes":  2,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0127,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "iOcGa4QDSbs",
+                       "Title":  "語言不只是技能而是家的溫度愛的鑰匙  #shorts",
+                       "Published":  "2025-10-30",
+                       "URL":  "https://www.youtube.com/watch?v=iOcGa4QDSbs",
+                       "Views":  531,
+                       "Likes":  5,
+                       "Comments":  1,
+                       "Engagement Rate":  0.0113,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "VeX2IrkpDOE",
+                       "Title":  "037｜【樂樂 Talk】孩子只想看漫畫，算閱讀嗎？——Peggy 談獨立閱讀後如何守住那份熱愛（下）｜S1E14",
+                       "Published":  "2025-10-28",
+                       "URL":  "https://www.youtube.com/watch?v=VeX2IrkpDOE",
+                       "Views":  47,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0213,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "Kap_qkHuilM",
+                       "Title":  "只要孩子建立了閱讀能力他就會變成一個自學機器人  #shorts",
+                       "Published":  "2025-10-25",
+                       "URL":  "https://www.youtube.com/watch?v=Kap_qkHuilM",
+                       "Views":  184,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "BxgMlfqRQIE",
+                       "Title":  "036｜【樂樂 Talk】本來只想說廣東話就夠了——Squeaky Dumplings Peggy 談身分認同、閱讀敏感期與讓中文成為生活的方法（上）｜S1E13",
+                       "Published":  "2025-10-21",
+                       "URL":  "https://www.youtube.com/watch?v=BxgMlfqRQIE",
+                       "Views":  37,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.027,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "TMBYaTbci1k",
+                       "Title":  "只靠週末補中文真的不夠 #shorts",
+                       "Published":  "2025-10-18",
+                       "URL":  "https://www.youtube.com/watch?v=TMBYaTbci1k",
+                       "Views":  25,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.04,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "8__o_r_dr4M",
+                       "Title":  "快樂閱讀才是孩子的語言之路 #shorts",
+                       "Published":  "2025-10-16",
+                       "URL":  "https://www.youtube.com/watch?v=8__o_r_dr4M",
+                       "Views":  68,
+                       "Likes":  1,
+                       "Comments":  1,
+                       "Engagement Rate":  0.0294,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "D3J2PrJtgxQ",
+                       "Title":  "031｜【樂樂 Talk】點讀筆糾正了媽媽的發音——厚厚私塾 Iris 談中文遊戲與持續輸入的力量（下）｜S1E12",
+                       "Published":  "2025-10-14",
+                       "URL":  "https://www.youtube.com/watch?v=D3J2PrJtgxQ",
+                       "Views":  29,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "6pWGpIUBSBs",
+                       "Title":  "孩子不是等會了才開始是開始了才會  #shorts",
+                       "Published":  "2025-10-11",
+                       "URL":  "https://www.youtube.com/watch?v=6pWGpIUBSBs",
+                       "Views":  51,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0196,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "5eDsf75XtOg",
+                       "Title":  "每天 10 分鐘故事時間孩子從不想讀到主動愛上中文 #shorts",
+                       "Published":  "2025-10-09",
+                       "URL":  "https://www.youtube.com/watch?v=5eDsf75XtOg",
+                       "Views":  45,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "jI0oXaLYHlw",
+                       "Title":  "030｜【樂樂 Talk】指讀指到母子離心？——厚厚私塾 Iris 談每個孩子都有自己的中文學習節奏（上）｜S1E11",
+                       "Published":  "2025-10-07",
+                       "URL":  "https://www.youtube.com/watch?v=jI0oXaLYHlw",
+                       "Views":  95,
+                       "Likes":  3,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0316,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "0iC4fAn_-fM",
+                       "Title":  "想要月餅活動紙留言GROUP",
+                       "Published":  "2025-10-05",
+                       "URL":  "https://www.youtube.com/watch?v=0iC4fAn_-fM",
+                       "Views":  1830,
+                       "Likes":  10,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0055,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "KNS-WNSempE",
+                       "Title":  "月圓人團圓",
+                       "Published":  "2025-10-04",
+                       "URL":  "https://www.youtube.com/watch?v=KNS-WNSempE",
+                       "Views":  6,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "k-CNvcbt7SA",
+                       "Title":  "中秋月圓人團圓一家烤肉萬家香  再過幾天就是中秋節了10月6日是不是已經開始聞到哪家飄來的烤肉香了呢在台灣有個非常特別的中秋節習俗家家戶戶都會在院子烤肉邊賞月邊烤肉家人朋友 #shorts",
+                       "Published":  "2025-10-04",
+                       "URL":  "https://www.youtube.com/watch?v=k-CNvcbt7SA",
+                       "Views":  10,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "BGxO2XSkydo",
+                       "Title":  "最有效的方法反而是免費的",
+                       "Published":  "2025-10-02",
+                       "URL":  "https://www.youtube.com/watch?v=BGxO2XSkydo",
+                       "Views":  924,
+                       "Likes":  17,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0184,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "L2Ub9RDXP3Y",
+                       "Title":  "029｜【樂樂 Talk】孩子現在只願意說英文——從今天開始，永遠不嫌晚的改變方法｜S3E11",
+                       "Published":  "2025-10-01",
+                       "URL":  "https://www.youtube.com/watch?v=L2Ub9RDXP3Y",
+                       "Views":  27,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.037,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "gfA8thtxR0k",
+                       "Title":  "你準備好孩子長期的中文計劃了嗎",
+                       "Published":  "2025-09-30",
+                       "URL":  "https://www.youtube.com/watch?v=gfA8thtxR0k",
+                       "Views":  323,
+                       "Likes":  3,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0093,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "accuuAQqCiY",
+                       "Title":  "萬聖節 10 日共讀挑戰開跑 #shorts",
+                       "Published":  "2025-09-27",
+                       "URL":  "https://www.youtube.com/watch?v=accuuAQqCiY",
+                       "Views":  100,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.01,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "7LCi7ktmZXk",
+                       "Title":  "原來孩子放棄中文的真正原因是....",
+                       "Published":  "2025-09-27",
+                       "URL":  "https://www.youtube.com/watch?v=7LCi7ktmZXk",
+                       "Views":  9,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "1Yp-hUO3SpA",
+                       "Title":  "聽起來不可思議但太多家庭都遇到一樣的問題 #shorts",
+                       "Published":  "2025-09-25",
+                       "URL":  "https://www.youtube.com/watch?v=1Yp-hUO3SpA",
+                       "Views":  1073,
+                       "Likes":  13,
+                       "Comments":  1,
+                       "Engagement Rate":  0.013,
+                       "Shorts":  "Yes"
+                   },
+                   {
+                       "Video ID":  "hLqDU4hlBCM",
+                       "Title":  "028｜【樂樂 Talk】我不夠努力？——打破自我否定，用一杯珍奶的心態開始陪孩子學中文｜S3E10",
+                       "Published":  "2025-09-24",
+                       "URL":  "https://www.youtube.com/watch?v=hLqDU4hlBCM",
+                       "Views":  15,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "W3yWoHlXbQ8",
+                       "Title":  "蛋炒飯串起與家人的回憶",
+                       "Published":  "2025-09-20",
+                       "URL":  "https://www.youtube.com/watch?v=W3yWoHlXbQ8",
+                       "Views":  136,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0074,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "o63PbJSSIME",
+                       "Title":  "教孩子不能用我們小時候的方法",
+                       "Published":  "2025-09-18",
+                       "URL":  "https://www.youtube.com/watch?v=o63PbJSSIME",
+                       "Views":  217,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0046,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "oXFtZxpw3TM",
+                       "Title":  "027｜【樂樂 Talk】另一半不會中文，怎麼辦？——讓全家一起參與孩子中文學習的實戰方法｜S3E09",
+                       "Published":  "2025-09-17",
+                       "URL":  "https://www.youtube.com/watch?v=oXFtZxpw3TM",
+                       "Views":  10,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "8dYZrgBXARI",
+                       "Title":  "✈️ 都移民了為什麼還要教小孩中文 🧳 🏠",
+                       "Published":  "2025-09-11",
+                       "URL":  "https://www.youtube.com/watch?v=8dYZrgBXARI",
+                       "Views":  946,
+                       "Likes":  9,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0095,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "gKFvpuSTAnI",
+                       "Title":  "026｜【樂樂 Talk】海外陪孩子學中文最常見的兩個誤區——注音和識字量，你掉進去了嗎？｜S3E08",
+                       "Published":  "2025-09-10",
+                       "URL":  "https://www.youtube.com/watch?v=gKFvpuSTAnI",
+                       "Views":  20,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.05,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "NwXxciSquSU",
+                       "Title":  "為什麼孩子能在故事中 自然地把文字圖像和經驗連起來",
+                       "Published":  "2025-09-05",
+                       "URL":  "https://www.youtube.com/watch?v=NwXxciSquSU",
+                       "Views":  19,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "1Vyb1Lt5UOU",
+                       "Title":  "設定目標  🎯 setting goals～Stephanie",
+                       "Published":  "2025-09-04",
+                       "URL":  "https://www.youtube.com/watch?v=1Vyb1Lt5UOU",
+                       "Views":  90,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0111,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "XPAxt3Tx2D8",
+                       "Title":  "025｜【樂樂 Talk】小孩坐不住，還能學中文嗎？——給不想逼孩子的爸媽的語言解方｜S3E07",
+                       "Published":  "2025-09-03",
+                       "URL":  "https://www.youtube.com/watch?v=XPAxt3Tx2D8",
+                       "Views":  21,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "HDcdYMMnKjY",
+                       "Title":  "當你打開我的相簿📱",
+                       "Published":  "2025-09-03",
+                       "URL":  "https://www.youtube.com/watch?v=HDcdYMMnKjY",
+                       "Views":  364,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "vbRmUsUOG6A",
+                       "Title":  "香港孩子直接閱讀識字🚄 提早一年學會1500個字～Sophie",
+                       "Published":  "2025-09-03",
+                       "URL":  "https://www.youtube.com/watch?v=vbRmUsUOG6A",
+                       "Views":  16,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "vLW3lKeD1Lw",
+                       "Title":  "要更多陪伴孩子學中文的實用點子嗎？💡快來加入【樂樂官方 LINE】，持續分享：✨ 親子共讀小技巧✨ 中文學習資源✨ 最新活動 \u0026 免費下載👉 掃描影片裡的 QR Code",
+                       "Published":  "2025-08-29",
+                       "URL":  "https://www.youtube.com/watch?v=vLW3lKeD1Lw",
+                       "Views":  4,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "QB_An7T2_H0",
+                       "Title":  "🎒📚 開學季，樂樂家庭會員有專屬福利！👉 這次我們準備了「DIY 書包設計小活動」：✔️ 孩子能自己畫專屬書包",
+                       "Published":  "2025-08-29",
+                       "URL":  "https://www.youtube.com/watch?v=QB_An7T2_H0",
+                       "Views":  17,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "pUnv3LnxHIs",
+                       "Title":  "024｜【樂樂 Talk】如何長期陪孩子一直說下去——面對大魔王階段，海外家長最需要知道的兩件事｜S3E06",
+                       "Published":  "2025-08-27",
+                       "URL":  "https://www.youtube.com/watch?v=pUnv3LnxHIs",
+                       "Views":  19,
+                       "Likes":  0,
+                       "Comments":  0,
+                       "Engagement Rate":  0,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "RJAY7M9ioTA",
+                       "Title":  "🍰 去咖啡廳吃蛋糕時，你會點什麼蛋糕呢？",
+                       "Published":  "2025-08-27",
+                       "URL":  "https://www.youtube.com/watch?v=RJAY7M9ioTA",
+                       "Views":  118,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0085,
+                       "Shorts":  "No"
+                   },
+                   {
+                       "Video ID":  "uX9sY7oUeeI",
+                       "Title":  "📚 開學小儀式！準備好迎接新學期了嗎？我們特別設計了【樂樂活動紙—開學掛飾】，讓孩子透過 ✂️剪剪貼貼、🎨自由上色，為學習角落增添新氣象",
+                       "Published":  "2025-08-26",
+                       "URL":  "https://www.youtube.com/watch?v=uX9sY7oUeeI",
+                       "Views":  85,
+                       "Likes":  1,
+                       "Comments":  0,
+                       "Engagement Rate":  0.0118,
+                       "Shorts":  "No"
+                   }
+               ],
+    "comments":  [
+                     {
+                         "Video ID":  "COr7Y8WQolA",
+                         "Video Title":  "我的母語是什麼 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=COr7Y8WQolA",
+                         "Author":  "@fet092",
+                         "Published":  "2026-02-08",
+                         "Likes":  0,
+                         "Comment":  "台語就是眾多華語中的一支。",
+                         "Reply":  "No",
+                         "Category":  "家庭語言",
+                         "Theme Tags":  "家庭語言",
+                         "Response Guidance":  "可回覆：肯定每個家庭的語言選擇，邀請分享家中使用語言的故事。"
+                     },
+                     {
+                         "Video ID":  "COr7Y8WQolA",
+                         "Video Title":  "我的母語是什麼 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=COr7Y8WQolA",
+                         "Author":  "@peter90004",
+                         "Published":  "2026-02-08",
+                         "Likes":  0,
+                         "Comment":  "蔣介石的母語是浙江寧波語，也不是北京話，國語就是要讓大家好溝通而已",
+                         "Reply":  "No",
+                         "Category":  "家庭語言",
+                         "Theme Tags":  "家庭語言",
+                         "Response Guidance":  "可回覆：肯定每個家庭的語言選擇，邀請分享家中使用語言的故事。"
+                     },
+                     {
+                         "Video ID":  "COr7Y8WQolA",
+                         "Video Title":  "我的母語是什麼 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=COr7Y8WQolA",
+                         "Author":  "@frankzheng5494",
+                         "Published":  "2026-02-07",
+                         "Likes":  0,
+                         "Comment":  "原來就是說閩南語方言啦！",
+                         "Reply":  "No",
+                         "Category":  "家庭語言",
+                         "Theme Tags":  "家庭語言",
+                         "Response Guidance":  "可回覆：肯定每個家庭的語言選擇，邀請分享家中使用語言的故事。"
+                     },
+                     {
+                         "Video ID":  "COr7Y8WQolA",
+                         "Video Title":  "我的母語是什麼 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=COr7Y8WQolA",
+                         "Author":  "@arielcc5397",
+                         "Published":  "2026-02-07",
+                         "Likes":  0,
+                         "Comment":  "笑屎。。。往上一代去追尋？？所以追到了什麼啦？？？？？",
+                         "Reply":  "No",
+                         "Category":  "其他",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+                     },
+                     {
+                         "Video ID":  "COr7Y8WQolA",
+                         "Video Title":  "我的母語是什麼 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=COr7Y8WQolA",
+                         "Author":  "@kcma-k9l",
+                         "Published":  "2026-02-07",
+                         "Likes":  0,
+                         "Comment":  "台独",
+                         "Reply":  "No",
+                         "Category":  "政治/爭議",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "低衝突回覆：感謝分享，拉回家庭語言與親子連結，不辯政治立場。"
+                     },
+                     {
+                         "Video ID":  "MPw_QotGKng",
+                         "Video Title":  "力玄華語對我的家族其實是外來語 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=MPw_QotGKng",
+                         "Author":  "@debc8406",
+                         "Published":  "2025-12-27",
+                         "Likes":  1,
+                         "Comment":  "你所謂的‘’台語‘’，其實是‘閩南語’，最近3，40年才在台灣改名的，為了滿足去中國化的意識形態。所以，你沒必要擔心它失傳，講閩南語的最大族群不在台灣。您也不必覺得講‘’中文‘’等於‘親中，必須把‘中文‘改稱為‘’華語’’。英語到了澳洲，紐西蘭，和美國同樣是英語，沒有變成澳洲話，紐西蘭話，美國話。美國人講英語並不影響國家的獨立性。但是，當一個國家為了政治因素而要切斷文化的根時，應該考慮那麼我們還剩什麼？在我們推行台灣版的 cancel Culture 時，它其實是一場台灣版的文化大革命。它將給後代帶來的是文化真空，和滿腦子的意識形態。",
+                         "Reply":  "No",
+                         "Category":  "政治/爭議",
+                         "Theme Tags":  "海外環境, 家庭語言",
+                         "Response Guidance":  "低衝突回覆：感謝分享，拉回家庭語言與親子連結，不辯政治立場。"
+                     },
+                     {
+                         "Video ID":  "MPw_QotGKng",
+                         "Video Title":  "力玄華語對我的家族其實是外來語 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=MPw_QotGKng",
+                         "Author":  "@suika_hachikai",
+                         "Published":  "2025-12-27",
+                         "Likes":  0,
+                         "Comment":  "部分正確。",
+                         "Reply":  "Yes",
+                         "Category":  "其他",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+                     },
+                     {
+                         "Video ID":  "MPw_QotGKng",
+                         "Video Title":  "力玄華語對我的家族其實是外來語 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=MPw_QotGKng",
+                         "Author":  "@貓星人-c6i",
+                         "Published":  "2025-12-27",
+                         "Likes":  1,
+                         "Comment":  "我的小孩學會講話的第一句就是台語，他是學會台語上幼稚園以後才開始學華語 他現在17歲台語很OK",
+                         "Reply":  "No",
+                         "Category":  "家庭語言",
+                         "Theme Tags":  "家庭語言",
+                         "Response Guidance":  "可回覆：肯定每個家庭的語言選擇，邀請分享家中使用語言的故事。"
+                     },
+                     {
+                         "Video ID":  "RxVzs4HJBow",
+                         "Video Title":  "034｜【樂樂 Talk】極簡共讀——明灑老師談大人的感受同樣重要，共讀不是任務，是享受（上）｜S2E11",
+                         "Video URL":  "https://www.youtube.com/watch?v=RxVzs4HJBow",
+                         "Author":  "@zhenfan2",
+                         "Published":  "2025-11-21",
+                         "Likes":  0,
+                         "Comment":  "最後兒子亂入是共讀最好示範😅",
+                         "Reply":  "No",
+                         "Category":  "學習/共讀",
+                         "Theme Tags":  "共讀與閱讀",
+                         "Response Guidance":  "可回覆：接住家長經驗，補一句每天一點點、陪伴比完美重要。"
+                     },
+                     {
+                         "Video ID":  "anmOs42G-0I",
+                         "Video Title":  "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=anmOs42G-0I",
+                         "Author":  "@Lennonrx8",
+                         "Published":  "2025-11-16",
+                         "Likes":  0,
+                         "Comment":  "华文才难学啊，英文太简单了",
+                         "Reply":  "No",
+                         "Category":  "其他",
+                         "Theme Tags":  "孩子只說英文",
+                         "Response Guidance":  "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+                     },
+                     {
+                         "Video ID":  "ZFOGcVTpgiY",
+                         "Video Title":  "033｜【樂樂 Talk】孩子進了學校，母語使用率從100%掉到50%——力玄談如何在主流語言環境中為孩子築起母語的堡壘（下）｜S2E10",
+                         "Video URL":  "https://www.youtube.com/watch?v=ZFOGcVTpgiY",
+                         "Author":  "@QCASo01PegatronUuUsss",
+                         "Published":  "2025-11-16",
+                         "Likes":  0,
+                         "Comment":  "❤❤❤❤❤❤❤",
+                         "Reply":  "No",
+                         "Category":  "其他",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+                     },
+                     {
+                         "Video ID":  "iOcGa4QDSbs",
+                         "Video Title":  "語言不只是技能而是家的溫度愛的鑰匙  #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=iOcGa4QDSbs",
+                         "Author":  "@annieyang6601",
+                         "Published":  "2025-10-30",
+                         "Likes":  0,
+                         "Comment":  "我想共學",
+                         "Reply":  "No",
+                         "Category":  "學習/共讀",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "可回覆：接住家長經驗，補一句每天一點點、陪伴比完美重要。"
+                     },
+                     {
+                         "Video ID":  "8__o_r_dr4M",
+                         "Video Title":  "快樂閱讀才是孩子的語言之路 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=8__o_r_dr4M",
+                         "Author":  "@annieyang6601",
+                         "Published":  "2025-10-30",
+                         "Likes":  0,
+                         "Comment":  "了解整套",
+                         "Reply":  "No",
+                         "Category":  "其他",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+                     },
+                     {
+                         "Video ID":  "1Yp-hUO3SpA",
+                         "Video Title":  "聽起來不可思議但太多家庭都遇到一樣的問題 #shorts",
+                         "Video URL":  "https://www.youtube.com/watch?v=1Yp-hUO3SpA",
+                         "Author":  "@心自己嚇自己",
+                         "Published":  "2025-09-26",
+                         "Likes":  1,
+                         "Comment":  "？那所以我可以重讀幼兒園了！",
+                         "Reply":  "No",
+                         "Category":  "學習/共讀",
+                         "Theme Tags":  "未分類",
+                         "Response Guidance":  "可回覆：接住家長經驗，補一句每天一點點、陪伴比完美重要。"
+                     }
+                 ],
+    "themes":  [
+                   {
+                       "Theme":  "家庭語言",
+                       "Comment Count":  5,
+                       "Method":  "從留言文字關鍵詞自動標記"
+                   },
+                   {
+                       "Theme":  "孩子只說英文",
+                       "Comment Count":  1,
+                       "Method":  "從留言文字關鍵詞自動標記"
+                   },
+                   {
+                       "Theme":  "共讀與閱讀",
+                       "Comment Count":  1,
+                       "Method":  "從留言文字關鍵詞自動標記"
+                   },
+                   {
+                       "Theme":  "海外環境",
+                       "Comment Count":  1,
+                       "Method":  "從留言文字關鍵詞自動標記"
+                   }
+               ],
+    "actionIdeas":  [
+                        {
+                            "Type":  "下一支 Shorts 題目",
+                            "Recommendation":  "「為什麼孩子一上學就不說中文？」延伸成安全感與家庭語言系列",
+                            "Why":  "Shorts 中雙語流失、母語身份題材表現較好",
+                            "Priority":  "高"
+                        },
+                        {
+                            "Type":  "留言回覆角度",
+                            "Recommendation":  "遇到台語/華語/中文命名爭議時，回到『每個家庭都在找回自己的連結』",
+                            "Why":  "留言中政治/語言身份爭議明顯",
+                            "Priority":  "高"
+                        },
+                        {
+                            "Type":  "內容系列",
+                            "Recommendation":  "做 3 支：母語不是政治、母語是家的聲音、孩子需要聽見家人的語言",
+                            "Why":  "家庭語言是留言主題最高",
+                            "Priority":  "中"
+                        },
+                        {
+                            "Type":  "影片優化",
+                            "Recommendation":  "把 Untitled Shorts 補上明確標題，避免後續分析與觀眾理解成本",
+                            "Why":  "最近 Shorts 有 Untitled title",
+                            "Priority":  "中"
+                        },
+                        {
+                            "Type":  "CTA",
+                            "Recommendation":  "在高觀看 Shorts 置頂留言引導：留言『GROUP』或加入 LINE/電子報",
+                            "Why":  "高觀看影片留言仍少，需明確互動指令",
+                            "Priority":  "中"
+                        }
+                    ]
+};

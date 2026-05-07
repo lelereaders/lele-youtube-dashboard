@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Le Le Culture YouTube Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Le Le Culture / Le Le Readers</p>
+        <h1>YouTube 留言與內容 Dashboard</h1>
+        <p class="subtitle">把觀看數、留言主題與下一步內容行動放在同一頁，方便規劃 podcast、電子報與 Kit 自動化。</p>
+      </div>
+      <div class="source-card">
+        <span>資料來源</span>
+        <strong id="sourceWorkbook">YouTube insights workbook</strong>
+        <small id="generatedAt"></small>
+      </div>
+    </header>
+
+    <main>
+      <section class="kpi-grid" aria-label="關鍵數據">
+        <article class="kpi"><span>影片數</span><strong id="kpiVideos">0</strong><small>Videos analyzed</small></article>
+        <article class="kpi"><span>總觀看</span><strong id="kpiViews">0</strong><small>Public views total</small></article>
+        <article class="kpi"><span>留言</span><strong id="kpiComments">0</strong><small>Public comments</small></article>
+        <article class="kpi"><span>Shorts / 長影片</span><strong id="kpiFormats">0 / 0</strong><small>Format split</small></article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Performance</p>
+              <h2>觀看數最高影片</h2>
+            </div>
+            <select id="formatFilter" aria-label="篩選影片格式">
+              <option value="all">全部影片</option>
+              <option value="Yes">只看 Shorts</option>
+              <option value="No">只看長影片</option>
+            </select>
+          </div>
+          <div id="topVideosChart" class="bar-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Format</p>
+              <h2>Shorts vs 長影片</h2>
+            </div>
+          </div>
+          <div id="formatChart" class="format-chart"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Comments</p>
+              <h2>留言主題</h2>
+            </div>
+          </div>
+          <div id="themeList" class="theme-list"></div>
+        </article>
+
+        <article class="panel wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Audience Voice</p>
+              <h2>近期留言與回覆方向</h2>
+            </div>
+            <input id="commentSearch" type="search" placeholder="搜尋留言、作者或主題">
+          </div>
+          <div id="commentsTable" class="comment-table"></div>
+        </article>
+
+        <article class="panel wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Action Plan</p>
+              <h2>下一步內容與 Kit 銜接</h2>
+            </div>
+          </div>
+          <div id="actionIdeas" class="ideas-grid"></div>
+        </article>
+
+        <article class="panel wide muted-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Kit / Claude Team</p>
+              <h2>建議自動化設定</h2>
+            </div>
+          </div>
+          <div class="automation-grid">
+            <div>
+              <strong>tags</strong>
+              <p>YT-comment-family-language、YT-comment-coreading、YT-comment-identity-risk、YT-clicked-freebie</p>
+            </div>
+            <div>
+              <strong>segments</strong>
+              <p>留言互動家長、共讀興趣家長、廣東話/台語家庭、需要低壓中文方法的海外家庭</p>
+            </div>
+            <div>
+              <strong>sequence</strong>
+              <p>3 封信：留言延伸故事、免費活動紙、加入 Mastermind 或閱讀挑戰邀請。</p>
+            </div>
+            <div>
+              <strong>landing form</strong>
+              <p>YouTube 專屬表單：孩子中文卡住了嗎？領一份 10 分鐘親子共讀開始包。</p>
+            </div>
+            <div>
+              <strong>CTA</strong>
+              <p>「留言告訴我你家現在最常用哪一種家庭語言，我把適合的共讀方式整理給你。」</p>
+            </div>
+            <div>
+              <strong>LUNA / 芳芳</strong>
+              <p>LUNA 寫電子報延伸；芳芳把高互動留言整理成下一集 Le Le Talk 的開場問題。</p>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <script src="data/youtube-dashboard-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
