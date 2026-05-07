@@ -75,10 +75,25 @@ function Invoke-InstagramGet {
   }
   catch {
     $statusCode = $null
+    $responseBody = ""
     if ($_.Exception.Response) {
       $statusCode = [int]$_.Exception.Response.StatusCode
+      try {
+        $stream = $_.Exception.Response.GetResponseStream()
+        if ($stream) {
+          $reader = New-Object System.IO.StreamReader($stream)
+          $responseBody = $reader.ReadToEnd()
+          $reader.Close()
+        }
+      }
+      catch {
+        $responseBody = ""
+      }
     }
     $message = $_.Exception.Message
+    if ($responseBody) {
+      throw "Instagram API request failed ($statusCode) at $Path. $message Response: $responseBody"
+    }
     throw "Instagram API request failed ($statusCode) at $Path. $message"
   }
 }
@@ -151,6 +166,9 @@ Import-DotEnv -Path $EnvPath
 $igUserId = [Environment]::GetEnvironmentVariable("INSTAGRAM_USER_ID", "Process")
 if (-not $igUserId) {
   throw "Missing INSTAGRAM_USER_ID. This should be the connected Instagram Business or Creator account ID."
+}
+if ($igUserId -match "[^0-9]") {
+  throw "INSTAGRAM_USER_ID should be the numeric Instagram Business or Creator account ID, not an @username or profile URL."
 }
 
 $maxMediaValue = [Environment]::GetEnvironmentVariable("INSTAGRAM_MAX_MEDIA", "Process")
