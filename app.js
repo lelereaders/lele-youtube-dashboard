@@ -19,7 +19,9 @@ function textIncludes(item, query) {
     .join(" ")
     .toLowerCase()
     .includes(query.toLowerCase());
-}function commentReplyUrl(comment) {
+}
+
+function commentReplyUrl(comment) {
   const videoUrl = comment["Video URL"] || `https://www.youtube.com/watch?v=${comment["Video ID"]}`;
   const commentUrl = comment["Comment URL"] || comment["Reply URL"];
   const commentId = comment["Comment ID"] || comment.comment_id;
@@ -29,6 +31,18 @@ function textIncludes(item, query) {
   return `${videoUrl}#comments`;
 }
 
+function renderDashboardNav() {
+  const headerIntro = document.querySelector(".topbar > div:first-child");
+  if (!headerIntro || document.querySelector(".dashboard-nav")) return;
+  headerIntro.insertAdjacentHTML("beforeend", `
+    <nav class="dashboard-nav" aria-label="Dashboard pages">
+      <a href="index.html">Overview</a>
+      <a class="active" href="youtube.html">YouTube</a>
+      <a href="instagram.html">Instagram</a>
+      <a href="kit.html">Kit</a>
+    </nav>
+  `);
+}
 
 function renderKpis() {
   document.querySelector("#sourceWorkbook").textContent = data.sourceWorkbook;
@@ -100,6 +114,7 @@ function renderThemes() {
     })
     .join("");
 }
+
 function renderComments() {
   const query = document.querySelector("#commentSearch").value.trim();
   const comments = data.comments
@@ -132,9 +147,6 @@ function renderComments() {
     .join("");
 }
 
-
-}
-
 function renderIdeas() {
   document.querySelector("#actionIdeas").innerHTML = data.actionIdeas
     .map((idea) => {
@@ -155,6 +167,7 @@ function renderIdeas() {
 }
 
 function init() {
+  renderDashboardNav();
   renderKpis();
   renderTopVideos();
   renderFormats();

@@ -1,0 +1,5 @@
+.env
+.xlsx_extract/
+youtube_reports/*.csv
+youtube_reports/*.json
+youtube_reports/*.md

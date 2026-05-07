@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Le Le Culture Instagram Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Le Le Culture / Le Le Readers</p>
+        <h1>Instagram 內容與留言 Dashboard</h1>
+        <p class="subtitle">把 Reels / 貼文表現、留言主題與下一步 Kit 行動放在同一頁，方便規劃電子報、podcast 與社群 CTA。</p>
+        <nav class="dashboard-nav" aria-label="Dashboard pages">
+          <a href="index.html">Overview</a>
+          <a href="youtube.html">YouTube</a>
+          <a class="active" href="instagram.html">Instagram</a>
+          <a href="kit.html">Kit</a>
+        </nav>
+      </div>
+      <div class="source-card">
+        <span id="igAccount">Instagram account</span>
+        <strong id="igSource">Instagram Graph API</strong>
+        <small id="igGeneratedAt"></small>
+      </div>
+    </header>
+
+    <main>
+      <section class="kpi-grid" aria-label="Instagram 關鍵數據">
+        <article class="kpi"><span>貼文數</span><strong id="igPosts">0</strong><small>Posts analyzed</small></article>
+        <article class="kpi"><span>Followers</span><strong id="igFollowers">0</strong><small>Account followers</small></article>
+        <article class="kpi"><span>互動</span><strong id="igEngagement">0</strong><small>Interactions total</small></article>
+        <article class="kpi"><span>留言</span><strong id="igComments">0</strong><small>Comments total</small></article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Performance</p>
+              <h2>最高互動 Instagram 內容</h2>
+            </div>
+            <select id="igSortFilter" aria-label="排序 Instagram 內容">
+              <option value="interactions">按互動排序</option>
+              <option value="likes">按 likes 排序</option>
+              <option value="comments">按留言排序</option>
+            </select>
+          </div>
+          <div id="igTopMedia" class="bar-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Themes</p>
+              <h2>Caption / 留言主題</h2>
+            </div>
+          </div>
+          <div id="igThemeList" class="theme-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Action Plan</p>
+              <h2>下一步內容與 Kit 銜接</h2>
+            </div>
+          </div>
+          <div id="igActionIdeas" class="ideas-grid single-column"></div>
+        </article>
+
+        <article class="panel wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Audience Voice</p>
+              <h2>近期 Instagram 留言與回覆方向</h2>
+            </div>
+            <input id="igCommentSearch" type="search" placeholder="搜尋留言、帳號或主題">
+          </div>
+          <div id="igCommentsTable" class="comment-table"></div>
+        </article>
+
+        <article class="panel wide muted-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Kit / Claude Team</p>
+              <h2>建議自動化設定</h2>
+            </div>
+          </div>
+          <div id="igAutomation" class="automation-grid"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="data/instagram-dashboard-data.js"></script>
+    <script src="instagram-app.js"></script>
+  </body>
+</html>

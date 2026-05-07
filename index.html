@@ -3,119 +3,87 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Le Le Culture YouTube Dashboard</title>
+    <title>Le Le Culture Growth Dashboard</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <header class="topbar">
       <div>
         <p class="eyebrow">Le Le Culture / Le Le Readers</p>
-        <h1>YouTube 留言與內容 Dashboard</h1>
-        <p class="subtitle">把觀看數、留言主題與下一步內容行動放在同一頁，方便規劃 podcast、電子報與 Kit 自動化。</p>
+        <h1>內容到名單 Dashboard</h1>
+        <p class="subtitle">把 YouTube、Instagram、Kit 放在同一個工作台，看見哪個內容帶來互動、名單與下一步行動。</p>
+        <nav class="dashboard-nav" aria-label="Dashboard pages">
+          <a class="active" href="index.html">Overview</a>
+          <a href="youtube.html">YouTube</a>
+          <a href="instagram.html">Instagram</a>
+          <a href="kit.html">Kit</a>
+        </nav>
       </div>
       <div class="source-card">
-        <span>資料來源</span>
-        <strong id="sourceWorkbook">YouTube insights workbook</strong>
-        <small id="generatedAt"></small>
+        <span>本週重點</span>
+        <strong id="overviewFocus">內容 -> Kit -> 銷售前暖身</strong>
+        <small id="overviewGeneratedAt"></small>
       </div>
     </header>
 
     <main>
-      <section class="kpi-grid" aria-label="關鍵數據">
-        <article class="kpi"><span>影片數</span><strong id="kpiVideos">0</strong><small>Videos analyzed</small></article>
-        <article class="kpi"><span>總觀看</span><strong id="kpiViews">0</strong><small>Public views total</small></article>
-        <article class="kpi"><span>留言</span><strong id="kpiComments">0</strong><small>Public comments</small></article>
-        <article class="kpi"><span>Shorts / 長影片</span><strong id="kpiFormats">0 / 0</strong><small>Format split</small></article>
+      <section class="kpi-grid" aria-label="Overview 關鍵數據">
+        <article class="kpi"><span>YouTube views</span><strong id="overviewYoutubeViews">0</strong><small>Public views total</small></article>
+        <article class="kpi"><span>Instagram 互動</span><strong id="overviewInstagramInteractions">0</strong><small>Interactions total</small></article>
+        <article class="kpi"><span>Kit subscribers</span><strong id="overviewSubscribers">0</strong><small>Active subscribers</small></article>
+        <article class="kpi"><span>Kit forms</span><strong id="overviewForms">0</strong><small>Landing forms</small></article>
       </section>
 
       <section class="dashboard-grid">
-        <article class="panel wide">
+        <article class="panel">
           <div class="panel-heading">
             <div>
-              <p class="eyebrow">Performance</p>
-              <h2>觀看數最高影片</h2>
+              <p class="eyebrow">YouTube</p>
+              <h2>下一個可延伸主題</h2>
             </div>
-            <select id="formatFilter" aria-label="篩選影片格式">
-              <option value="all">全部影片</option>
-              <option value="Yes">只看 Shorts</option>
-              <option value="No">只看長影片</option>
-            </select>
           </div>
-          <div id="topVideosChart" class="bar-list"></div>
+          <div id="overviewYoutubeIdea" class="ideas-grid single-column"></div>
         </article>
 
         <article class="panel">
           <div class="panel-heading">
             <div>
-              <p class="eyebrow">Format</p>
-              <h2>Shorts vs 長影片</h2>
+              <p class="eyebrow">Instagram</p>
+              <h2>最高互動方向</h2>
             </div>
           </div>
-          <div id="formatChart" class="format-chart"></div>
-        </article>
-
-        <article class="panel">
-          <div class="panel-heading">
-            <div>
-              <p class="eyebrow">Comments</p>
-              <h2>留言主題</h2>
-            </div>
-          </div>
-          <div id="themeList" class="theme-list"></div>
+          <div id="overviewInstagramIdea" class="ideas-grid single-column"></div>
         </article>
 
         <article class="panel wide">
           <div class="panel-heading">
             <div>
-              <p class="eyebrow">Audience Voice</p>
-              <h2>近期留言與回覆方向</h2>
-            </div>
-            <input id="commentSearch" type="search" placeholder="搜尋留言、作者或主題">
-          </div>
-          <div id="commentsTable" class="comment-table"></div>
-        </article>
-
-        <article class="panel wide">
-          <div class="panel-heading">
-            <div>
-              <p class="eyebrow">Action Plan</p>
-              <h2>下一步內容與 Kit 銜接</h2>
+              <p class="eyebrow">Kit</p>
+              <h2>本週名單經營建議</h2>
             </div>
           </div>
-          <div id="actionIdeas" class="ideas-grid"></div>
+          <div id="overviewKitPlan" class="automation-grid"></div>
         </article>
 
         <article class="panel wide muted-panel">
           <div class="panel-heading">
             <div>
-              <p class="eyebrow">Kit / Claude Team</p>
-              <h2>建議自動化設定</h2>
+              <p class="eyebrow">Claude Team</p>
+              <h2>LUNA / 芳芳工作分配</h2>
             </div>
           </div>
           <div class="automation-grid">
             <div>
-              <strong>tags</strong>
-              <p>YT-comment-family-language、YT-comment-coreading、YT-comment-identity-risk、YT-clicked-freebie</p>
+              <strong>LUNA</strong>
+              <p>把最高互動的 YouTube / Instagram 主題改寫成一封 Kit broadcast，語氣維持溫柔、陪伴、低壓中文。</p>
             </div>
             <div>
-              <strong>segments</strong>
-              <p>留言互動家長、共讀興趣家長、廣東話/台語家庭、需要低壓中文方法的海外家庭</p>
+              <strong>芳芳</strong>
+              <p>把留言裡的家長疑問整理成 Le Le Talk 開場問題，優先挑「孩子不說中文」「家庭語言」「共讀卡住」。</p>
             </div>
             <div>
-              <strong>sequence</strong>
-              <p>3 封信：留言延伸故事、免費活動紙、加入 Mastermind 或閱讀挑戰邀請。</p>
-            </div>
-            <div>
-              <strong>landing form</strong>
-              <p>YouTube 專屬表單：孩子中文卡住了嗎？領一份 10 分鐘親子共讀開始包。</p>
-            </div>
-            <div>
-              <strong>CTA</strong>
-              <p>「留言告訴我你家現在最常用哪一種家庭語言，我把適合的共讀方式整理給你。」</p>
-            </div>
-            <div>
-              <strong>LUNA / 芳芳</strong>
-              <p>LUNA 寫電子報延伸；芳芳把高互動留言整理成下一集 Le Le Talk 的開場問題。</p>
+              <strong>你只要決定</strong>
+              <p>這週 CTA 要導向 freebie、Mastermind，還是閱讀挑戰；dashboard 會把 tags、segments、sequence 放在 Kit 頁。</p>
             </div>
           </div>
         </article>
@@ -123,6 +91,8 @@
     </main>
 
     <script src="data/youtube-dashboard-data.js"></script>
-    <script src="app.js"></script>
+    <script src="data/instagram-dashboard-data.js"></script>
+    <script src="data/kit-dashboard-data.js"></script>
+    <script src="overview-app.js"></script>
   </body>
 </html>

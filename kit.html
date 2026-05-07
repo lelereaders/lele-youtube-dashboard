@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Le Le Culture Kit Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Le Le Culture / Le Le Readers</p>
+        <h1>Kit 名單與自動化 Dashboard</h1>
+        <p class="subtitle">把 subscribers、forms、tags、segments、sequence、broadcast 放在同一頁，幫 LUNA 和芳芳更快把內容接到名單經營。</p>
+        <nav class="dashboard-nav" aria-label="Dashboard pages">
+          <a href="index.html">Overview</a>
+          <a href="youtube.html">YouTube</a>
+          <a href="instagram.html">Instagram</a>
+          <a class="active" href="kit.html">Kit</a>
+        </nav>
+      </div>
+      <div class="source-card">
+        <span>資料來源</span>
+        <strong id="kitSource">Kit API v4</strong>
+        <small id="kitGeneratedAt"></small>
+      </div>
+    </header>
+
+    <main>
+      <section class="kpi-grid" aria-label="Kit 關鍵數據">
+        <article class="kpi"><span>Subscribers</span><strong id="kitSubscribers">0</strong><small>Active subscribers</small></article>
+        <article class="kpi"><span>Tags</span><strong id="kitTags">0</strong><small>整理標籤</small></article>
+        <article class="kpi"><span>Forms</span><strong id="kitForms">0</strong><small>Landing forms</small></article>
+        <article class="kpi"><span>Sequences</span><strong id="kitSequences">0</strong><small>Email nurture</small></article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Landing Forms</p>
+              <h2>表單 / Freebie 入口</h2>
+            </div>
+          </div>
+          <div id="kitFormsList" class="theme-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Tags</p>
+              <h2>標籤整理</h2>
+            </div>
+          </div>
+          <div id="kitTagsList" class="theme-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Sequences</p>
+              <h2>自動化 email nurture</h2>
+            </div>
+          </div>
+          <div id="kitSequencesList" class="theme-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Broadcasts</p>
+              <h2>近期電子報</h2>
+            </div>
+          </div>
+          <div id="kitBroadcastsList" class="theme-list"></div>
+        </article>
+
+        <article class="panel wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Action Plan</p>
+              <h2>下一步名單經營</h2>
+            </div>
+          </div>
+          <div id="kitActionIdeas" class="ideas-grid"></div>
+        </article>
+
+        <article class="panel wide muted-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Kit / Claude Team</p>
+              <h2>建議自動化設定</h2>
+            </div>
+          </div>
+          <div id="kitAutomation" class="automation-grid"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="data/kit-dashboard-data.js"></script>
+    <script src="kit-app.js"></script>
+  </body>
+</html>
