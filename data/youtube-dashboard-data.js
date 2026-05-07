@@ -1,11 +1,12 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-05-07 03:31",
+  "generatedAt": "2026-05-07 11:34",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
+      "Channel subscribers": 110,
       "Comments fetched": 14,
-      "Public views total": 24702,
+      "Public views total": 24704,
       "Public likes total": 182,
       "Public comments total": 14,
       "Videos with comments": 8,
@@ -56,7 +57,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 6,
         "title": "我的母語是什麼 #shorts",
-        "views": 1113,
+        "views": 1114,
         "likes": 8,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=COr7Y8WQolA"
@@ -98,13 +99,13 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "format": "Shorts",
         "count": 51,
-        "views": 18419,
+        "views": 18420,
         "avgViews": 361.2
       },
       {
         "format": "Long-form",
         "count": 49,
-        "views": 6283,
+        "views": 6284,
         "avgViews": 128.2
       }
     ]
@@ -368,7 +369,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "我的母語是什麼 #shorts",
       "Published": "02/07/2026",
       "URL": "https://www.youtube.com/watch?v=COr7Y8WQolA",
-      "Views": 1113,
+      "Views": 1114,
       "Likes": 8,
       "Comments": 5,
       "Engagement Rate": 0.0117,
@@ -742,10 +743,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "034｜【樂樂 Talk】極簡共讀——明灑老師談大人的感受同樣重要，共讀不是任務，是享受（上）｜S2E11",
       "Published": "11/18/2025",
       "URL": "https://www.youtube.com/watch?v=RxVzs4HJBow",
-      "Views": 38,
+      "Views": 39,
       "Likes": 1,
       "Comments": 1,
-      "Engagement Rate": 0.0526,
+      "Engagement Rate": 0.0513,
       "Shorts": "No"
     },
     {
@@ -1402,12 +1403,12 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "共讀與閱讀",
+      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "海外環境",
+      "Theme": "共讀與閱讀",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
