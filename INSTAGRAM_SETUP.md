@@ -22,6 +22,14 @@ Instagram 的資料不是 GitHub 自己能讀到的，需要 Meta / Instagram Gr
 - `INSTAGRAM_USER_ID`
 - `INSTAGRAM_ACCESS_TOKEN`
 
+`INSTAGRAM_USER_ID` 可以填：
+
+- Instagram Business / Creator account 的 numeric ID（最穩）
+- 連到 Instagram 的 Facebook Page numeric ID
+- `me`，讓腳本從 `INSTAGRAM_ACCESS_TOKEN` 自動尋找這個 token 可管理的 Facebook Page，再找到連結的 Instagram 帳號
+
+不要填 `@username`、Instagram profile URL、Facebook 個人帳號 ID，或 Meta App ID。
+
 可選：
 
 - `INSTAGRAM_GRAPH_VERSION`，預設 `v25.0`

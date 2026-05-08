@@ -158,8 +158,65 @@ function Get-InstagramProfile {
   }
 }
 
+function Get-InstagramProfileFromPage {
+  param([string]$PageId)
+
+  $page = Invoke-InstagramGet -Path $PageId -Params @{
+    fields = "instagram_business_account{id,username},connected_instagram_account{id,username}"
+  }
+  if ($page.instagram_business_account -and $page.instagram_business_account.id) {
+    Write-Host "Resolved Facebook Page ID to Instagram account @$($page.instagram_business_account.username)."
+    return Get-InstagramProfile -InstagramUserId $page.instagram_business_account.id
+  }
+  if ($page.connected_instagram_account -and $page.connected_instagram_account.id) {
+    Write-Host "Resolved Facebook Page ID to connected Instagram account @$($page.connected_instagram_account.username)."
+    return Get-InstagramProfile -InstagramUserId $page.connected_instagram_account.id
+  }
+  throw "The ID is readable, but it does not expose instagram_business_account or connected_instagram_account."
+}
+
+function Resolve-InstagramProfileFromToken {
+  $errors = New-Object System.Collections.Generic.List[string]
+
+  try {
+    $accounts = Invoke-InstagramGet -Path "me/accounts" -Params @{
+      fields = "id,name,instagram_business_account{id,username},connected_instagram_account{id,username}"
+      limit = 100
+    }
+    foreach ($page in @($accounts.data)) {
+      if ($page.instagram_business_account -and $page.instagram_business_account.id) {
+        Write-Host "Resolved Instagram account @$($page.instagram_business_account.username) from Facebook Page '$($page.name)'."
+        return Get-InstagramProfile -InstagramUserId $page.instagram_business_account.id
+      }
+      if ($page.connected_instagram_account -and $page.connected_instagram_account.id) {
+        Write-Host "Resolved connected Instagram account @$($page.connected_instagram_account.username) from Facebook Page '$($page.name)'."
+        return Get-InstagramProfile -InstagramUserId $page.connected_instagram_account.id
+      }
+    }
+    $errors.Add("/me/accounts returned no Facebook Page connected to an Instagram Business or Creator account.")
+  }
+  catch {
+    $errors.Add("/me/accounts lookup failed: $($_.Exception.Message)")
+  }
+
+  try {
+    Write-Host "Trying to resolve the access token owner as a Facebook Page."
+    return Get-InstagramProfileFromPage -PageId "me"
+  }
+  catch {
+    $errors.Add("/me Page lookup failed: $($_.Exception.Message)")
+  }
+
+  throw "Could not auto-discover an Instagram Business or Creator account from INSTAGRAM_ACCESS_TOKEN. $($errors -join ' ')"
+}
+
 function Resolve-InstagramProfile {
   param([string]$InputId)
+
+  if (-not $InputId -or $InputId -eq "me") {
+    Write-Host "INSTAGRAM_USER_ID is empty or 'me'; trying to auto-discover the connected Instagram account from the access token."
+    return Resolve-InstagramProfileFromToken
+  }
 
   try {
     return Get-InstagramProfile -InstagramUserId $InputId
@@ -167,22 +224,17 @@ function Resolve-InstagramProfile {
   catch {
     $instagramError = $_.Exception.Message
     try {
-      $page = Invoke-InstagramGet -Path $InputId -Params @{
-        fields = "instagram_business_account{id,username},connected_instagram_account{id,username}"
-      }
-      if ($page.instagram_business_account -and $page.instagram_business_account.id) {
-        Write-Host "Resolved Facebook Page ID to Instagram account @$($page.instagram_business_account.username)."
-        return Get-InstagramProfile -InstagramUserId $page.instagram_business_account.id
-      }
-      if ($page.connected_instagram_account -and $page.connected_instagram_account.id) {
-        Write-Host "Resolved Facebook Page ID to connected Instagram account @$($page.connected_instagram_account.username)."
-        return Get-InstagramProfile -InstagramUserId $page.connected_instagram_account.id
-      }
-      throw "The numeric ID looks like a Facebook Page, but it does not have instagram_business_account or connected_instagram_account."
+      return Get-InstagramProfileFromPage -PageId $InputId
     }
     catch {
       $pageError = $_.Exception.Message
-      throw "Could not resolve INSTAGRAM_USER_ID as an Instagram account or as a Facebook Page connected to Instagram. Instagram account attempt: $instagramError Page attempt: $pageError"
+      try {
+        return Resolve-InstagramProfileFromToken
+      }
+      catch {
+        $tokenError = $_.Exception.Message
+        throw "Could not resolve INSTAGRAM_USER_ID as an Instagram account, Facebook Page, or token-connected Page. Instagram account attempt: $instagramError Page attempt: $pageError Token auto-discovery attempt: $tokenError"
+      }
     }
   }
 }
@@ -190,11 +242,8 @@ function Resolve-InstagramProfile {
 Import-DotEnv -Path $EnvPath
 
 $igUserId = [Environment]::GetEnvironmentVariable("INSTAGRAM_USER_ID", "Process")
-if (-not $igUserId) {
-  throw "Missing INSTAGRAM_USER_ID. This should be the connected Instagram Business or Creator account ID."
-}
-if ($igUserId -match "[^0-9]") {
-  throw "INSTAGRAM_USER_ID should be the numeric Instagram Business or Creator account ID, not an @username or profile URL."
+if ($igUserId -and $igUserId -ne "me" -and $igUserId -match "[^0-9]") {
+  throw "INSTAGRAM_USER_ID should be the numeric Instagram Business or Creator account ID, a numeric Facebook Page ID, or 'me' for token auto-discovery. Do not use an @username or profile URL."
 }
 
 $maxMediaValue = [Environment]::GetEnvironmentVariable("INSTAGRAM_MAX_MEDIA", "Process")
