@@ -168,13 +168,17 @@ function Resolve-InstagramProfile {
     $instagramError = $_.Exception.Message
     try {
       $page = Invoke-InstagramGet -Path $InputId -Params @{
-        fields = "instagram_business_account{id,username}"
+        fields = "instagram_business_account{id,username},connected_instagram_account{id,username}"
       }
       if ($page.instagram_business_account -and $page.instagram_business_account.id) {
         Write-Host "Resolved Facebook Page ID to Instagram account @$($page.instagram_business_account.username)."
         return Get-InstagramProfile -InstagramUserId $page.instagram_business_account.id
       }
-      throw "The numeric ID looks like a Facebook Page, but it does not have instagram_business_account connected."
+      if ($page.connected_instagram_account -and $page.connected_instagram_account.id) {
+        Write-Host "Resolved Facebook Page ID to connected Instagram account @$($page.connected_instagram_account.username)."
+        return Get-InstagramProfile -InstagramUserId $page.connected_instagram_account.id
+      }
+      throw "The numeric ID looks like a Facebook Page, but it does not have instagram_business_account or connected_instagram_account."
     }
     catch {
       $pageError = $_.Exception.Message
