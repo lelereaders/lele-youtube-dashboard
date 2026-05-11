@@ -1,17 +1,17 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-05-07 11:34",
+  "generatedAt": "2026-05-11 11:47",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 110,
+      "Channel subscribers": 111,
       "Comments fetched": 14,
-      "Public views total": 24704,
+      "Public views total": 24688,
       "Public likes total": 182,
       "Public comments total": 14,
       "Videos with comments": 8,
-      "Shorts count": 51,
-      "Long-form count": 49
+      "Shorts count": 52,
+      "Long-form count": 48
     },
     "topVideos": [
       {
@@ -98,25 +98,36 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 51,
-        "views": 18420,
-        "avgViews": 361.2
+        "count": 52,
+        "views": 18481,
+        "avgViews": 355.4
       },
       {
         "format": "Long-form",
-        "count": 49,
-        "views": 6284,
-        "avgViews": 128.2
+        "count": 48,
+        "views": 6207,
+        "avgViews": 129.3
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "L7yqvCALW_I",
+      "Title": "一次購入 300 本樂樂書，和一群家庭持續 2–3 年共讀，孩子在幸福的環境裡自然走向獨立閱讀 #shorts",
+      "Published": "05/09/2026",
+      "URL": "https://www.youtube.com/watch?v=L7yqvCALW_I",
+      "Views": 60,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
       "Video ID": "rIAHgQuHq2Q",
       "Title": "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
       "Published": "05/05/2026",
       "URL": "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
-      "Views": 3,
+      "Views": 4,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -138,10 +149,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "044｜【樂樂 Talk】為什麼閱讀比會說更重要？——海外家庭守護中文最需要知道的一件事｜S403",
       "Published": "04/28/2026",
       "URL": "https://www.youtube.com/watch?v=Toc1mr7KORw",
-      "Views": 63,
+      "Views": 69,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0159,
+      "Engagement Rate": 0.0145,
       "Shorts": "No"
     },
     {
@@ -149,7 +160,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "🤔明明 6 歲前會雙語，為什麼一上學就不再說中文？ #shorts",
       "Published": "04/25/2026",
       "URL": "https://www.youtube.com/watch?v=SQ781eMsfG0",
-      "Views": 154,
+      "Views": 155,
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0065,
@@ -160,10 +171,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "043｜【樂樂 Talk】共讀挑戰存在的理由——不是為了完美達成，而是為了讓你不再一個人撐｜S3E13",
       "Published": "04/21/2026",
       "URL": "https://www.youtube.com/watch?v=CGnUHEeHlts",
-      "Views": 66,
-      "Likes": 1,
+      "Views": 67,
+      "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0152,
+      "Engagement Rate": 0.0299,
       "Shorts": "No"
     },
     {
@@ -1198,17 +1209,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0085,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "uX9sY7oUeeI",
-      "Title": "📚 開學小儀式！準備好迎接新學期了嗎？我們特別設計了【樂樂活動紙—開學掛飾】，讓孩子透過 ✂️剪剪貼貼、🎨自由上色，為學習角落增添新氣象",
-      "Published": "08/26/2025",
-      "URL": "https://www.youtube.com/watch?v=uX9sY7oUeeI",
-      "Views": 85,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.0118,
       "Shorts": "No"
     }
   ],
