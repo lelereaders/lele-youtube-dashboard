@@ -1,17 +1,17 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-05-11 11:47",
+  "generatedAt": "2026-05-18 12:51",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
       "Channel subscribers": 111,
-      "Comments fetched": 14,
-      "Public views total": 24688,
-      "Public likes total": 182,
-      "Public comments total": 14,
-      "Videos with comments": 8,
-      "Shorts count": 52,
-      "Long-form count": 48
+      "Comments fetched": 15,
+      "Public views total": 24692,
+      "Public likes total": 183,
+      "Public comments total": 15,
+      "Videos with comments": 9,
+      "Shorts count": 53,
+      "Long-form count": 47
     },
     "topVideos": [
       {
@@ -57,7 +57,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 6,
         "title": "我的母語是什麼 #shorts",
-        "views": 1114,
+        "views": 1115,
         "likes": 8,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=COr7Y8WQolA"
@@ -98,25 +98,47 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 52,
-        "views": 18481,
-        "avgViews": 355.4
+        "count": 53,
+        "views": 18579,
+        "avgViews": 350.5
       },
       {
         "format": "Long-form",
-        "count": 48,
-        "views": 6207,
-        "avgViews": 129.3
+        "count": 47,
+        "views": 6113,
+        "avgViews": 130.1
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "a6Bm-ftleDM",
+      "Title": "重複，是最自然的學習方式 #shorts",
+      "Published": "05/16/2026",
+      "URL": "https://www.youtube.com/watch?v=a6Bm-ftleDM",
+      "Views": 63,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "gBLovSpZ-Eo",
+      "Title": "046｜【樂樂 Talk】為什麼孩子只要我讀？——孩子不肯自己讀，其實是最好的訊號｜S4E04",
+      "Published": "05/12/2026",
+      "URL": "https://www.youtube.com/watch?v=gBLovSpZ-Eo",
+      "Views": 33,
+      "Likes": 1,
+      "Comments": 1,
+      "Engagement Rate": 0.0606,
+      "Shorts": "No"
+    },
+    {
       "Video ID": "L7yqvCALW_I",
       "Title": "一次購入 300 本樂樂書，和一群家庭持續 2–3 年共讀，孩子在幸福的環境裡自然走向獨立閱讀 #shorts",
       "Published": "05/09/2026",
       "URL": "https://www.youtube.com/watch?v=L7yqvCALW_I",
-      "Views": 60,
+      "Views": 64,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,7 +149,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
       "Published": "05/05/2026",
       "URL": "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
-      "Views": 4,
+      "Views": 5,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -138,10 +160,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Untitled #shorts",
       "Published": "05/02/2026",
       "URL": "https://www.youtube.com/watch?v=NxeVOWfGP-k",
-      "Views": 106,
-      "Likes": 4,
+      "Views": 109,
+      "Likes": 5,
       "Comments": 0,
-      "Engagement Rate": 0.0377,
+      "Engagement Rate": 0.0459,
       "Shorts": "Yes"
     },
     {
@@ -149,10 +171,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "044｜【樂樂 Talk】為什麼閱讀比會說更重要？——海外家庭守護中文最需要知道的一件事｜S403",
       "Published": "04/28/2026",
       "URL": "https://www.youtube.com/watch?v=Toc1mr7KORw",
-      "Views": 69,
+      "Views": 73,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0145,
+      "Engagement Rate": 0.0137,
       "Shorts": "No"
     },
     {
@@ -160,10 +182,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "🤔明明 6 歲前會雙語，為什麼一上學就不再說中文？ #shorts",
       "Published": "04/25/2026",
       "URL": "https://www.youtube.com/watch?v=SQ781eMsfG0",
-      "Views": 155,
+      "Views": 156,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0065,
+      "Engagement Rate": 0.0064,
       "Shorts": "Yes"
     },
     {
@@ -182,7 +204,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "能講中文給孩子聽的，可能只有你。一旦錯過黃金期，中文就真的回不來。 💔 #shorts",
       "Published": "04/18/2026",
       "URL": "https://www.youtube.com/watch?v=HFMQYNCYQw8",
-      "Views": 37,
+      "Views": 38,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -193,10 +215,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "042｜【樂樂 Talk】比較，會讓你忘記為什麼出發——寫給每個走得很累的海外家長｜S4E02",
       "Published": "04/14/2026",
       "URL": "https://www.youtube.com/watch?v=6kQxIMwsbKU",
-      "Views": 41,
+      "Views": 42,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0488,
+      "Engagement Rate": 0.0476,
       "Shorts": "No"
     },
     {
@@ -204,7 +226,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "語言一旦失去，不只是工具的消失，還會在親子心裡的溝通上，再多拉開一層距離 #shorts",
       "Published": "04/11/2026",
       "URL": "https://www.youtube.com/watch?v=MY91MQwmI1A",
-      "Views": 86,
+      "Views": 89,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -226,7 +248,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "了解自己的母語文化 讓孩子對自己的身份感到驕傲 #shorts",
       "Published": "04/04/2026",
       "URL": "https://www.youtube.com/watch?v=G8NUQP4Kf84",
-      "Views": 101,
+      "Views": 102,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -248,7 +270,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "語言不是天賦，而是輸入＋陪伴的奇蹟。❤️ #shorts",
       "Published": "03/28/2026",
       "URL": "https://www.youtube.com/watch?v=aAzQfQmMr30",
-      "Views": 3,
+      "Views": 4,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -259,10 +281,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "交給老師教中文，你就會錯過這些可愛又珍貴的時刻 #shorts",
       "Published": "03/21/2026",
       "URL": "https://www.youtube.com/watch?v=cbWBjTNHMlg",
-      "Views": 574,
+      "Views": 576,
       "Likes": 4,
       "Comments": 0,
-      "Engagement Rate": 0.007,
+      "Engagement Rate": 0.0069,
       "Shorts": "Yes"
     },
     {
@@ -270,10 +292,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "困難很多時候不是實際的，而是心理上的 #shorts",
       "Published": "03/14/2026",
       "URL": "https://www.youtube.com/watch?v=RmtECKEzgdk",
-      "Views": 39,
+      "Views": 40,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0256,
+      "Engagement Rate": 0.025,
       "Shorts": "Yes"
     },
     {
@@ -281,7 +303,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "📖 閱讀識字不一樣，孩子自己感興趣、自己想重複看的故事 #shorts",
       "Published": "03/07/2026",
       "URL": "https://www.youtube.com/watch?v=RRiEw9GirF8",
-      "Views": 91,
+      "Views": 92,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -303,7 +325,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "慢下來，孩子才跟得上你。 #shorts",
       "Published": "02/26/2026",
       "URL": "https://www.youtube.com/watch?v=DNlMgiRfvVI",
-      "Views": 80,
+      "Views": 83,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -314,7 +336,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "親子共讀不是功課，而是點燃孩子 內在動力 的機會 🚗 #shorts",
       "Published": "02/21/2026",
       "URL": "https://www.youtube.com/watch?v=tATGsjDBIho",
-      "Views": 270,
+      "Views": 271,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -325,7 +347,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "孩子最需要的不是補習班而是一個願意陪他聊天陪他過日子的爸媽 #shorts",
       "Published": "02/19/2026",
       "URL": "https://www.youtube.com/watch?v=156lKiWLNpc",
-      "Views": 344,
+      "Views": 346,
       "Likes": 2,
       "Comments": 0,
       "Engagement Rate": 0.0058,
@@ -336,7 +358,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "臘月二十三到二十九的習俗 #shorts",
       "Published": "02/16/2026",
       "URL": "https://www.youtube.com/watch?v=rsikARYbt_k",
-      "Views": 436,
+      "Views": 439,
       "Likes": 2,
       "Comments": 0,
       "Engagement Rate": 0.0046,
@@ -347,7 +369,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Lunar New Year overseas can feel quiet.",
       "Published": "02/14/2026",
       "URL": "https://www.youtube.com/watch?v=fqd1rkZOBXI",
-      "Views": 2,
+      "Views": 4,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -358,10 +380,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "無壓力無目的只因為喜歡  #shorts",
       "Published": "02/14/2026",
       "URL": "https://www.youtube.com/watch?v=4KwbOuflvnM",
-      "Views": 215,
+      "Views": 216,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0047,
+      "Engagement Rate": 0.0046,
       "Shorts": "Yes"
     },
     {
@@ -369,7 +391,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "語言不是命令而是互動 #shorts",
       "Published": "02/12/2026",
       "URL": "https://www.youtube.com/watch?v=YOQ_YMDduG4",
-      "Views": 276,
+      "Views": 278,
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0036,
@@ -380,7 +402,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "我的母語是什麼 #shorts",
       "Published": "02/07/2026",
       "URL": "https://www.youtube.com/watch?v=COr7Y8WQolA",
-      "Views": 1114,
+      "Views": 1115,
       "Likes": 8,
       "Comments": 5,
       "Engagement Rate": 0.0117,
@@ -424,7 +446,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "中文不是一夕之功而是每天一點一滴的累積 #shorts",
       "Published": "01/24/2026",
       "URL": "https://www.youtube.com/watch?v=uXXsvJp9qVY",
-      "Views": 179,
+      "Views": 180,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -446,7 +468,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Untitled #shorts",
       "Published": "01/15/2026",
       "URL": "https://www.youtube.com/watch?v=tEPnXhdLNJE",
-      "Views": 89,
+      "Views": 91,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -479,7 +501,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "母語是連結父母與孩子內心的一道橋",
       "Published": "01/12/2026",
       "URL": "https://www.youtube.com/watch?v=FEVbfZa_8bo",
-      "Views": 49,
+      "Views": 50,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -633,10 +655,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "孩子從不會到愛讀中文其實有方法 #shorts",
       "Published": "12/11/2025",
       "URL": "https://www.youtube.com/watch?v=M7uq5R98q8M",
-      "Views": 104,
+      "Views": 105,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0096,
+      "Engagement Rate": 0.0095,
       "Shorts": "Yes"
     },
     {
@@ -1095,7 +1117,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "✈️ 都移民了為什麼還要教小孩中文 🧳 🏠",
       "Published": "09/11/2025",
       "URL": "https://www.youtube.com/watch?v=8dYZrgBXARI",
-      "Views": 946,
+      "Views": 947,
       "Likes": 9,
       "Comments": 0,
       "Engagement Rate": 0.0095,
@@ -1188,31 +1210,22 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Comments": 0,
       "Engagement Rate": 0,
       "Shorts": "No"
-    },
-    {
-      "Video ID": "pUnv3LnxHIs",
-      "Title": "024｜【樂樂 Talk】如何長期陪孩子一直說下去——面對大魔王階段，海外家長最需要知道的兩件事｜S3E06",
-      "Published": "08/27/2025",
-      "URL": "https://www.youtube.com/watch?v=pUnv3LnxHIs",
-      "Views": 19,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "RJAY7M9ioTA",
-      "Title": "🍰 去咖啡廳吃蛋糕時，你會點什麼蛋糕呢？",
-      "Published": "08/27/2025",
-      "URL": "https://www.youtube.com/watch?v=RJAY7M9ioTA",
-      "Views": 118,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.0085,
-      "Shorts": "No"
     }
   ],
   "comments": [
+    {
+      "Video ID": "gBLovSpZ-Eo",
+      "Video Title": "046｜【樂樂 Talk】為什麼孩子只要我讀？——孩子不肯自己讀，其實是最好的訊號｜S4E04",
+      "Video URL": "https://www.youtube.com/watch?v=gBLovSpZ-Eo",
+      "Author": "@yenyanchen2752",
+      "Published": "05/13/2026",
+      "Likes": 0,
+      "Comment": "❤❤❤",
+      "Reply": "No",
+      "Category": "其他",
+      "Theme Tags": "未分類",
+      "Response Guidance": "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+    },
     {
       "Video ID": "COr7Y8WQolA",
       "Video Title": "我的母語是什麼 #shorts",
@@ -1403,7 +1416,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "海外環境",
+      "Theme": "孩子只說英文",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
@@ -1413,7 +1426,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "孩子只說英文",
+      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
