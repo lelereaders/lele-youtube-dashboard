@@ -1,17 +1,17 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-05-18 12:51",
+  "generatedAt": "2026-05-25 02:14",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
       "Channel subscribers": 111,
       "Comments fetched": 15,
-      "Public views total": 24692,
+      "Public views total": 24698,
       "Public likes total": 183,
       "Public comments total": 15,
       "Videos with comments": 9,
-      "Shorts count": 53,
-      "Long-form count": 47
+      "Shorts count": 54,
+      "Long-form count": 46
     },
     "topVideos": [
       {
@@ -98,19 +98,41 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 53,
-        "views": 18579,
-        "avgViews": 350.5
+        "count": 54,
+        "views": 18580,
+        "avgViews": 344.1
       },
       {
         "format": "Long-form",
-        "count": 47,
-        "views": 6113,
-        "avgViews": 130.1
+        "count": 46,
+        "views": 6118,
+        "avgViews": 133
       }
     ]
   },
   "videos": [
+    {
+      "Video ID": "M_oWZ54-bns",
+      "Title": "原來孩子放棄中文的真正原因是....壓力🦆 #shorts",
+      "Published": "05/23/2026",
+      "URL": "https://www.youtube.com/watch?v=M_oWZ54-bns",
+      "Views": 1,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "NKCd10Go2mE",
+      "Title": "047｜【樂樂 Talk】為什麼孩子只看圖不看字？——放下識字焦慮，看圖才是閱讀真正的起點｜S3E15",
+      "Published": "05/19/2026",
+      "URL": "https://www.youtube.com/watch?v=NKCd10Go2mE",
+      "Views": 21,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
     {
       "Video ID": "a6Bm-ftleDM",
       "Title": "重複，是最自然的學習方式 #shorts",
@@ -149,7 +171,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
       "Published": "05/05/2026",
       "URL": "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
-      "Views": 5,
+      "Views": 7,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -930,7 +952,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "031｜【樂樂 Talk】點讀筆糾正了媽媽的發音——厚厚私塾 Iris 談中文遊戲與持續輸入的力量（下）｜S1E12",
       "Published": "10/14/2025",
       "URL": "https://www.youtube.com/watch?v=D3J2PrJtgxQ",
-      "Views": 29,
+      "Views": 30,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -963,10 +985,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "030｜【樂樂 Talk】指讀指到母子離心？——厚厚私塾 Iris 談每個孩子都有自己的中文學習節奏（上）｜S1E11",
       "Published": "10/07/2025",
       "URL": "https://www.youtube.com/watch?v=jI0oXaLYHlw",
-      "Views": 95,
+      "Views": 96,
       "Likes": 3,
       "Comments": 0,
-      "Engagement Rate": 0.0316,
+      "Engagement Rate": 0.0312,
       "Shorts": "No"
     },
     {
@@ -1150,10 +1172,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "設定目標  🎯 setting goals～Stephanie",
       "Published": "09/04/2025",
       "URL": "https://www.youtube.com/watch?v=1Vyb1Lt5UOU",
-      "Views": 90,
+      "Views": 91,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0111,
+      "Engagement Rate": 0.011,
       "Shorts": "No"
     },
     {
@@ -1184,28 +1206,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Published": "09/03/2025",
       "URL": "https://www.youtube.com/watch?v=vbRmUsUOG6A",
       "Views": 16,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "vLW3lKeD1Lw",
-      "Title": "要更多陪伴孩子學中文的實用點子嗎？💡快來加入【樂樂官方 LINE】，持續分享：✨ 親子共讀小技巧✨ 中文學習資源✨ 最新活動 & 免費下載👉 掃描影片裡的 QR Code",
-      "Published": "08/29/2025",
-      "URL": "https://www.youtube.com/watch?v=vLW3lKeD1Lw",
-      "Views": 4,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "QB_An7T2_H0",
-      "Title": "🎒📚 開學季，樂樂家庭會員有專屬福利！👉 這次我們準備了「DIY 書包設計小活動」：✔️ 孩子能自己畫專屬書包",
-      "Published": "08/29/2025",
-      "URL": "https://www.youtube.com/watch?v=QB_An7T2_H0",
-      "Views": 17,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -1416,17 +1416,17 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
+      "Theme": "海外環境",
+      "Comment Count": 1,
+      "Method": "從留言文字關鍵詞自動標記"
+    },
+    {
       "Theme": "孩子只說英文",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
       "Theme": "共讀與閱讀",
-      "Comment Count": 1,
-      "Method": "從留言文字關鍵詞自動標記"
-    },
-    {
-      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
