@@ -1,17 +1,17 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-05-25 02:14",
+  "generatedAt": "2026-06-01 02:36",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 111,
+      "Channel subscribers": 112,
       "Comments fetched": 15,
-      "Public views total": 24698,
-      "Public likes total": 183,
+      "Public views total": 24472,
+      "Public likes total": 184,
       "Public comments total": 15,
       "Videos with comments": 9,
-      "Shorts count": 54,
-      "Long-form count": 46
+      "Shorts count": 55,
+      "Long-form count": 45
     },
     "topVideos": [
       {
@@ -41,7 +41,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 4,
         "title": "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
-        "views": 1177,
+        "views": 1178,
         "likes": 3,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=anmOs42G-0I"
@@ -98,19 +98,41 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 54,
-        "views": 18580,
-        "avgViews": 344.1
+        "count": 55,
+        "views": 18694,
+        "avgViews": 339.9
       },
       {
         "format": "Long-form",
-        "count": 46,
-        "views": 6118,
-        "avgViews": 133
+        "count": 45,
+        "views": 5778,
+        "avgViews": 128.4
       }
     ]
   },
   "videos": [
+    {
+      "Video ID": "I4LBpvuZHmE",
+      "Title": "腦袋遠比我們想像得更能承載多語 #shorts",
+      "Published": "05/30/2026",
+      "URL": "https://www.youtube.com/watch?v=I4LBpvuZHmE",
+      "Views": 112,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "G0pBnvlFHko",
+      "Title": "048｜【樂樂 Talk】為什麼孩子只想重複讀同一本書？——把書藏到衣櫃裡，Jewel 的真實告白｜S4E05",
+      "Published": "05/26/2026",
+      "URL": "https://www.youtube.com/watch?v=G0pBnvlFHko",
+      "Views": 25,
+      "Likes": 1,
+      "Comments": 0,
+      "Engagement Rate": 0.04,
+      "Shorts": "No"
+    },
     {
       "Video ID": "M_oWZ54-bns",
       "Title": "原來孩子放棄中文的真正原因是....壓力🦆 #shorts",
@@ -127,7 +149,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "047｜【樂樂 Talk】為什麼孩子只看圖不看字？——放下識字焦慮，看圖才是閱讀真正的起點｜S3E15",
       "Published": "05/19/2026",
       "URL": "https://www.youtube.com/watch?v=NKCd10Go2mE",
-      "Views": 21,
+      "Views": 22,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -193,10 +215,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "044｜【樂樂 Talk】為什麼閱讀比會說更重要？——海外家庭守護中文最需要知道的一件事｜S403",
       "Published": "04/28/2026",
       "URL": "https://www.youtube.com/watch?v=Toc1mr7KORw",
-      "Views": 73,
+      "Views": 75,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0137,
+      "Engagement Rate": 0.0133,
       "Shorts": "No"
     },
     {
@@ -204,7 +226,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "🤔明明 6 歲前會雙語，為什麼一上學就不再說中文？ #shorts",
       "Published": "04/25/2026",
       "URL": "https://www.youtube.com/watch?v=SQ781eMsfG0",
-      "Views": 156,
+      "Views": 157,
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0064,
@@ -809,7 +831,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
       "Published": "11/15/2025",
       "URL": "https://www.youtube.com/watch?v=anmOs42G-0I",
-      "Views": 1177,
+      "Views": 1178,
       "Likes": 3,
       "Comments": 1,
       "Engagement Rate": 0.0034,
@@ -864,10 +886,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "032｜【樂樂 Talk】什麼是母語？為什麼要為孩子保留它——台語路協會理事長力玄談母語傳承與找回的旅程（上）｜S2E09",
       "Published": "11/04/2025",
       "URL": "https://www.youtube.com/watch?v=9SQ9Vlq1RIc",
-      "Views": 35,
+      "Views": 36,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0571,
+      "Engagement Rate": 0.0556,
       "Shorts": "No"
     },
     {
@@ -1139,7 +1161,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "✈️ 都移民了為什麼還要教小孩中文 🧳 🏠",
       "Published": "09/11/2025",
       "URL": "https://www.youtube.com/watch?v=8dYZrgBXARI",
-      "Views": 947,
+      "Views": 949,
       "Likes": 9,
       "Comments": 0,
       "Engagement Rate": 0.0095,
@@ -1172,10 +1194,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "設定目標  🎯 setting goals～Stephanie",
       "Published": "09/04/2025",
       "URL": "https://www.youtube.com/watch?v=1Vyb1Lt5UOU",
-      "Views": 91,
+      "Views": 100,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.011,
+      "Engagement Rate": 0.01,
       "Shorts": "No"
     },
     {
@@ -1184,28 +1206,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Published": "09/03/2025",
       "URL": "https://www.youtube.com/watch?v=XPAxt3Tx2D8",
       "Views": 21,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "HDcdYMMnKjY",
-      "Title": "當你打開我的相簿📱",
-      "Published": "09/03/2025",
-      "URL": "https://www.youtube.com/watch?v=HDcdYMMnKjY",
-      "Views": 364,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "vbRmUsUOG6A",
-      "Title": "香港孩子直接閱讀識字🚄 提早一年學會1500個字～Sophie",
-      "Published": "09/03/2025",
-      "URL": "https://www.youtube.com/watch?v=vbRmUsUOG6A",
-      "Views": 16,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -1416,17 +1416,17 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "海外環境",
-      "Comment Count": 1,
-      "Method": "從留言文字關鍵詞自動標記"
-    },
-    {
       "Theme": "孩子只說英文",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
       "Theme": "共讀與閱讀",
+      "Comment Count": 1,
+      "Method": "從留言文字關鍵詞自動標記"
+    },
+    {
+      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
