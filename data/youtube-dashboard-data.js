@@ -1,17 +1,17 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-06-08 02:35",
+  "generatedAt": "2026-06-15 02:39",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
       "Channel subscribers": 112,
       "Comments fetched": 15,
-      "Public views total": 24411,
+      "Public views total": 24430,
       "Public likes total": 184,
       "Public comments total": 15,
       "Videos with comments": 9,
-      "Shorts count": 56,
-      "Long-form count": 44
+      "Shorts count": 57,
+      "Long-form count": 43
     },
     "topVideos": [
       {
@@ -98,25 +98,36 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 56,
-        "views": 18722,
-        "avgViews": 334.3
+        "count": 57,
+        "views": 18756,
+        "avgViews": 329.1
       },
       {
         "format": "Long-form",
-        "count": 44,
-        "views": 5689,
-        "avgViews": 129.3
+        "count": 43,
+        "views": 5674,
+        "avgViews": 132
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "tWX11sxfSL8",
+      "Title": "讓孩子讀喜歡的書 重點是要持續享受閱讀 #shorts",
+      "Published": "06/13/2026",
+      "URL": "https://www.youtube.com/watch?v=tWX11sxfSL8",
+      "Views": 33,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
       "Video ID": "SFvmvuO_HfY",
       "Title": "不是靠技巧，而是大人先能感受、體會、享受其中 #shorts",
       "Published": "06/06/2026",
       "URL": "https://www.youtube.com/watch?v=SFvmvuO_HfY",
-      "Views": 23,
+      "Views": 24,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,10 +138,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "049｜【樂樂 Talk】當孩子中文進步太快——另一半焦慮、當地語言退步了怎麼辦？｜S3E16",
       "Published": "06/02/2026",
       "URL": "https://www.youtube.com/watch?v=1WZbykZn8xM",
-      "Views": 22,
+      "Views": 23,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0455,
+      "Engagement Rate": 0.0435,
       "Shorts": "No"
     },
     {
@@ -149,10 +160,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "048｜【樂樂 Talk】為什麼孩子只想重複讀同一本書？——把書藏到衣櫃裡，Jewel 的真實告白｜S4E05",
       "Published": "05/26/2026",
       "URL": "https://www.youtube.com/watch?v=G0pBnvlFHko",
-      "Views": 25,
+      "Views": 26,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.04,
+      "Engagement Rate": 0.0385,
       "Shorts": "No"
     },
     {
@@ -655,10 +666,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "039｜【樂樂 Talk】我不是讀書的料——Ting 如何從不愛閱讀，走到書蟲一家的真實故事｜S1E16",
       "Published": "12/30/2025",
       "URL": "https://www.youtube.com/watch?v=8RA7VSaicpg",
-      "Views": 36,
+      "Views": 37,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0278,
+      "Engagement Rate": 0.027,
       "Shorts": "No"
     },
     {
@@ -677,7 +688,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "038｜【樂樂 Talk】搬去英國前，她把整套樂樂書一起帶走——Carmen 談在沒有中文語境的異國，如何為孩子打造穩定的閱讀環境｜S1E15",
       "Published": "12/23/2025",
       "URL": "https://www.youtube.com/watch?v=t7ZQGroTrjQ",
-      "Views": 13,
+      "Views": 14,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -1199,17 +1210,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Comments": 0,
       "Engagement Rate": 0.05,
       "Shorts": "No"
-    },
-    {
-      "Video ID": "NwXxciSquSU",
-      "Title": "為什麼孩子能在故事中 自然地把文字圖像和經驗連起來",
-      "Published": "09/05/2025",
-      "URL": "https://www.youtube.com/watch?v=NwXxciSquSU",
-      "Views": 19,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
     }
   ],
   "comments": [
@@ -1416,17 +1416,17 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
+      "Theme": "孩子只說英文",
+      "Comment Count": 1,
+      "Method": "從留言文字關鍵詞自動標記"
+    },
+    {
       "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
       "Theme": "共讀與閱讀",
-      "Comment Count": 1,
-      "Method": "從留言文字關鍵詞自動標記"
-    },
-    {
-      "Theme": "孩子只說英文",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
