@@ -1,17 +1,17 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-06-15 02:39",
+  "generatedAt": "2026-06-22 02:40",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 112,
+      "Channel subscribers": 114,
       "Comments fetched": 15,
-      "Public views total": 24430,
-      "Public likes total": 184,
+      "Public views total": 23700,
+      "Public likes total": 176,
       "Public comments total": 15,
       "Videos with comments": 9,
-      "Shorts count": 57,
-      "Long-form count": 43
+      "Shorts count": 59,
+      "Long-form count": 41
     },
     "topVideos": [
       {
@@ -98,25 +98,80 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 57,
-        "views": 18756,
-        "avgViews": 329.1
+        "count": 59,
+        "views": 18764,
+        "avgViews": 318
       },
       {
         "format": "Long-form",
-        "count": 43,
-        "views": 5674,
-        "avgViews": 132
+        "count": 41,
+        "views": 4936,
+        "avgViews": 120.4
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "40hJk3-ng3U",
+      "Title": "端午兒歌-讓孩子記得端午 #shorts",
+      "Published": "06/20/2026",
+      "URL": "https://www.youtube.com/watch?v=40hJk3-ng3U",
+      "Views": 0,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "Mi5VfA4LjIA",
+      "Title": "樂樂書裡(紅59_媽媽)的故事連結家長與孩子的溫馨回憶 #shorts",
+      "Published": "06/20/2026",
+      "URL": "https://www.youtube.com/watch?v=Mi5VfA4LjIA",
+      "Views": 3,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "YWZkP3iOrDo",
+      "Title": "端午兒歌 Dragon Boat Song",
+      "Published": "06/19/2026",
+      "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
+      "Views": 534,
+      "Likes": 4,
+      "Comments": 0,
+      "Engagement Rate": 0.0075,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "R5yyhHk-J0s",
+      "Title": "父親節兒歌",
+      "Published": "06/19/2026",
+      "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
+      "Views": 21,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "_JKtuITH1EU",
+      "Title": "051｜【樂樂 Talk】一代移民的孩子，怎麼在雙語中長大——擁有最強中文資源，卻最容易失敗的原因｜S3E17",
+      "Published": "06/16/2026",
+      "URL": "https://www.youtube.com/watch?v=_JKtuITH1EU",
+      "Views": 32,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
       "Video ID": "tWX11sxfSL8",
       "Title": "讓孩子讀喜歡的書 重點是要持續享受閱讀 #shorts",
       "Published": "06/13/2026",
       "URL": "https://www.youtube.com/watch?v=tWX11sxfSL8",
-      "Views": 33,
+      "Views": 37,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -138,10 +193,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "049｜【樂樂 Talk】當孩子中文進步太快——另一半焦慮、當地語言退步了怎麼辦？｜S3E16",
       "Published": "06/02/2026",
       "URL": "https://www.youtube.com/watch?v=1WZbykZn8xM",
-      "Views": 23,
+      "Views": 27,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0435,
+      "Engagement Rate": 0.037,
       "Shorts": "No"
     },
     {
@@ -182,7 +237,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "047｜【樂樂 Talk】為什麼孩子只看圖不看字？——放下識字焦慮，看圖才是閱讀真正的起點｜S3E15",
       "Published": "05/19/2026",
       "URL": "https://www.youtube.com/watch?v=NKCd10Go2mE",
-      "Views": 24,
+      "Views": 26,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -248,10 +303,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "044｜【樂樂 Talk】為什麼閱讀比會說更重要？——海外家庭守護中文最需要知道的一件事｜S403",
       "Published": "04/28/2026",
       "URL": "https://www.youtube.com/watch?v=Toc1mr7KORw",
-      "Views": 75,
+      "Views": 76,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0133,
+      "Engagement Rate": 0.0132,
       "Shorts": "No"
     },
     {
@@ -281,7 +336,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "能講中文給孩子聽的，可能只有你。一旦錯過黃金期，中文就真的回不來。 💔 #shorts",
       "Published": "04/18/2026",
       "URL": "https://www.youtube.com/watch?v=HFMQYNCYQw8",
-      "Views": 38,
+      "Views": 39,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -1154,61 +1209,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "W3yWoHlXbQ8",
-      "Title": "蛋炒飯串起與家人的回憶",
-      "Published": "09/20/2025",
-      "URL": "https://www.youtube.com/watch?v=W3yWoHlXbQ8",
-      "Views": 136,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.0074,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "o63PbJSSIME",
-      "Title": "教孩子不能用我們小時候的方法",
-      "Published": "09/18/2025",
-      "URL": "https://www.youtube.com/watch?v=o63PbJSSIME",
-      "Views": 217,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.0046,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "oXFtZxpw3TM",
-      "Title": "027｜【樂樂 Talk】另一半不會中文，怎麼辦？——讓全家一起參與孩子中文學習的實戰方法｜S3E09",
-      "Published": "09/17/2025",
-      "URL": "https://www.youtube.com/watch?v=oXFtZxpw3TM",
-      "Views": 10,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "8dYZrgBXARI",
-      "Title": "✈️ 都移民了為什麼還要教小孩中文 🧳 🏠",
-      "Published": "09/11/2025",
-      "URL": "https://www.youtube.com/watch?v=8dYZrgBXARI",
-      "Views": 949,
-      "Likes": 9,
-      "Comments": 0,
-      "Engagement Rate": 0.0095,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "gKFvpuSTAnI",
-      "Title": "026｜【樂樂 Talk】海外陪孩子學中文最常見的兩個誤區——注音和識字量，你掉進去了嗎？｜S3E08",
-      "Published": "09/10/2025",
-      "URL": "https://www.youtube.com/watch?v=gKFvpuSTAnI",
-      "Views": 20,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.05,
       "Shorts": "No"
     }
   ],
