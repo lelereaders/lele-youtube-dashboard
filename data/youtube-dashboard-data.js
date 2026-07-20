@@ -1,13 +1,13 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-07-13 01:44",
+  "generatedAt": "2026-07-20 03:16",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 140,
-      "Comments fetched": 13,
-      "Public views total": 31329,
-      "Public likes total": 180,
+      "Channel subscribers": 143,
+      "Comments fetched": 14,
+      "Public views total": 31936,
+      "Public likes total": 169,
       "Public comments total": 14,
       "Videos with comments": 8,
       "Shorts count": 61,
@@ -17,15 +17,15 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 1,
         "title": "和樂樂一起唱讀｜媽媽媽媽在哪裡",
-        "views": 6769,
-        "likes": 16,
+        "views": 8177,
+        "likes": 21,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
       },
       {
         "rank": 2,
         "title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
-        "views": 1860,
+        "views": 1878,
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -73,7 +73,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 8,
         "title": "我的母語是什麼 #shorts",
-        "views": 1116,
+        "views": 1119,
         "likes": 8,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=COr7Y8WQolA"
@@ -89,7 +89,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 10,
         "title": "沒有一個更好的老師因為父母就是最好的老師  #shorts",
-        "views": 1026,
+        "views": 1027,
         "likes": 7,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=As_rvS90u0U"
@@ -99,24 +99,46 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "format": "Shorts",
         "count": 61,
-        "views": 18589,
-        "avgViews": 304.7
+        "views": 18641,
+        "avgViews": 305.6
       },
       {
         "format": "Long-form",
         "count": 39,
-        "views": 12740,
-        "avgViews": 326.7
+        "views": 13295,
+        "avgViews": 340.9
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "4zqbHokYRiA",
+      "Title": "愛上故事、讀懂內容，語感與字音會在反覆閱讀中自然長出來 #shorts",
+      "Published": "07/18/2026",
+      "URL": "https://www.youtube.com/watch?v=4zqbHokYRiA",
+      "Views": 19,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "pStoU9mSTYg",
+      "Title": "055｜【樂樂 Talk】樂樂300本念完能有多少字彙量？——問錯問題，就會走上錯的路｜S3E19",
+      "Published": "07/14/2026",
+      "URL": "https://www.youtube.com/watch?v=pStoU9mSTYg",
+      "Views": 32,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
       "Video ID": "ob31JAy9EO0",
       "Title": "📍 台北世貿一館 C533 🗓️ 2026年7月 12-14日 #shorts",
       "Published": "07/11/2026",
       "URL": "https://www.youtube.com/watch?v=ob31JAy9EO0",
-      "Views": 50,
+      "Views": 64,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,10 +149,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "孩子學母語，同時也在守護他們的心理健康✨ #shorts",
       "Published": "07/11/2026",
       "URL": "https://www.youtube.com/watch?v=7ra5Zka3C2Y",
-      "Views": 818,
+      "Views": 834,
       "Likes": 5,
       "Comments": 0,
-      "Engagement Rate": 0.0061,
+      "Engagement Rate": 0.006,
       "Shorts": "Yes"
     },
     {
@@ -138,7 +160,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "會說中文，和教孩子中文，是兩件不同的事。請善待自己，給自己一點空間。 #shorts",
       "Published": "07/04/2026",
       "URL": "https://www.youtube.com/watch?v=2lniaAlT6Vs",
-      "Views": 41,
+      "Views": 43,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -149,7 +171,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "053｜【樂樂 Talk】如果你用繪本標準看樂樂，這一集可能會顛覆你——圖文設計背後的學習科學｜S3E18",
       "Published": "06/30/2026",
       "URL": "https://www.youtube.com/watch?v=Kp9M8t54t0M",
-      "Views": 8,
+      "Views": 10,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -160,7 +182,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "文字不是冷冰冰的符號，當它出現在故事裡，就會變成孩子的朋友 #shorts",
       "Published": "06/27/2026",
       "URL": "https://www.youtube.com/watch?v=Bdtcmxka_MY",
-      "Views": 31,
+      "Views": 32,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -171,10 +193,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜媽媽媽媽在哪裡",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 6769,
-      "Likes": 16,
+      "Views": 8177,
+      "Likes": 21,
       "Comments": 0,
-      "Engagement Rate": 0.0024,
+      "Engagement Rate": 0.0026,
       "Shorts": "No"
     },
     {
@@ -182,7 +204,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "端午兒歌-讓孩子記得端午 #shorts",
       "Published": "06/20/2026",
       "URL": "https://www.youtube.com/watch?v=40hJk3-ng3U",
-      "Views": 13,
+      "Views": 14,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -193,7 +215,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "樂樂書裡(紅59_媽媽)的故事連結家長與孩子的溫馨回憶 #shorts",
       "Published": "06/20/2026",
       "URL": "https://www.youtube.com/watch?v=Mi5VfA4LjIA",
-      "Views": 18,
+      "Views": 19,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -204,7 +226,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1860,
+      "Views": 1878,
       "Likes": 5,
       "Comments": 0,
       "Engagement Rate": 0.0027,
@@ -215,7 +237,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜爸爸的東西在哪裡？",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
-      "Views": 74,
+      "Views": 89,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -237,10 +259,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "讓孩子讀喜歡的書 重點是要持續享受閱讀 #shorts",
       "Published": "06/13/2026",
       "URL": "https://www.youtube.com/watch?v=tWX11sxfSL8",
-      "Views": 45,
+      "Views": 46,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0222,
+      "Engagement Rate": 0.0217,
       "Shorts": "Yes"
     },
     {
@@ -556,10 +578,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "臘月二十三到二十九的習俗 #shorts",
       "Published": "02/16/2026",
       "URL": "https://www.youtube.com/watch?v=rsikARYbt_k",
-      "Views": 439,
+      "Views": 440,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0046,
+      "Engagement Rate": 0.0045,
       "Shorts": "Yes"
     },
     {
@@ -567,7 +589,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Lunar New Year overseas can feel quiet.",
       "Published": "02/14/2026",
       "URL": "https://www.youtube.com/watch?v=fqd1rkZOBXI",
-      "Views": 4,
+      "Views": 7,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -578,10 +600,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "無壓力無目的只因為喜歡  #shorts",
       "Published": "02/14/2026",
       "URL": "https://www.youtube.com/watch?v=4KwbOuflvnM",
-      "Views": 216,
-      "Likes": 1,
+      "Views": 217,
+      "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0046,
+      "Engagement Rate": 0.0092,
       "Shorts": "Yes"
     },
     {
@@ -589,7 +611,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "語言不是命令而是互動 #shorts",
       "Published": "02/12/2026",
       "URL": "https://www.youtube.com/watch?v=YOQ_YMDduG4",
-      "Views": 278,
+      "Views": 279,
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0036,
@@ -600,7 +622,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "我的母語是什麼 #shorts",
       "Published": "02/07/2026",
       "URL": "https://www.youtube.com/watch?v=COr7Y8WQolA",
-      "Views": 1116,
+      "Views": 1119,
       "Likes": 8,
       "Comments": 5,
       "Engagement Rate": 0.0116,
@@ -864,7 +886,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "沒有一個更好的老師因為父母就是最好的老師  #shorts",
       "Published": "12/06/2025",
       "URL": "https://www.youtube.com/watch?v=As_rvS90u0U",
-      "Views": 1026,
+      "Views": 1027,
       "Likes": 7,
       "Comments": 0,
       "Engagement Rate": 0.0068,
@@ -1040,10 +1062,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "032｜【樂樂 Talk】什麼是母語？為什麼要為孩子保留它——台語路協會理事長力玄談母語傳承與找回的旅程（上）｜S2E09",
       "Published": "11/04/2025",
       "URL": "https://www.youtube.com/watch?v=9SQ9Vlq1RIc",
-      "Views": 42,
+      "Views": 43,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0476,
+      "Engagement Rate": 0.0465,
       "Shorts": "No"
     },
     {
@@ -1188,31 +1210,22 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Comments": 0,
       "Engagement Rate": 0,
       "Shorts": "No"
-    },
-    {
-      "Video ID": "k-CNvcbt7SA",
-      "Title": "中秋月圓人團圓一家烤肉萬家香  再過幾天就是中秋節了10月6日是不是已經開始聞到哪家飄來的烤肉香了呢在台灣有個非常特別的中秋節習俗家家戶戶都會在院子烤肉邊賞月邊烤肉家人朋友 #shorts",
-      "Published": "10/04/2025",
-      "URL": "https://www.youtube.com/watch?v=k-CNvcbt7SA",
-      "Views": 10,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "Yes"
-    },
-    {
-      "Video ID": "BGxO2XSkydo",
-      "Title": "最有效的方法反而是免費的",
-      "Published": "10/02/2025",
-      "URL": "https://www.youtube.com/watch?v=BGxO2XSkydo",
-      "Views": 924,
-      "Likes": 17,
-      "Comments": 0,
-      "Engagement Rate": 0.0184,
-      "Shorts": "No"
     }
   ],
   "comments": [
+    {
+      "Video ID": "gBLovSpZ-Eo",
+      "Video Title": "046｜【樂樂 Talk】為什麼孩子只要我讀？——孩子不肯自己讀，其實是最好的訊號｜S4E04",
+      "Video URL": "https://www.youtube.com/watch?v=gBLovSpZ-Eo",
+      "Author": "@yenyanchen2752",
+      "Published": "05/13/2026",
+      "Likes": 0,
+      "Comment": "❤❤❤",
+      "Reply": "No",
+      "Category": "其他",
+      "Theme Tags": "未分類",
+      "Response Guidance": "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+    },
     {
       "Video ID": "COr7Y8WQolA",
       "Video Title": "我的母語是什麼 #shorts",
@@ -1395,12 +1408,12 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "海外環境",
+      "Theme": "共讀與閱讀",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "共讀與閱讀",
+      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
