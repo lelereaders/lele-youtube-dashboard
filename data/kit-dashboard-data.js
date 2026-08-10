@@ -1,5 +1,5 @@
 window.LELE_KIT_DASHBOARD = {
-  "generatedAt": "2026-08-03 05:38",
+  "generatedAt": "2026-08-10 03:50",
   "source": "Kit API v4",
   "dashboard": {
     "metrics": {
@@ -7,11 +7,41 @@ window.LELE_KIT_DASHBOARD = {
       "Subscribers fetched": 500,
       "Tags": 100,
       "Forms": 15,
-      "Sequences": 45,
+      "Sequences": 46,
       "Broadcasts": 25
     }
   },
   "subscribers": [
+    {
+      "id": 4242373922,
+      "firstName": "Yubing",
+      "state": "active",
+      "created": "2026-08-07"
+    },
+    {
+      "id": 4242087229,
+      "firstName": "Hsu",
+      "state": "active",
+      "created": "2026-08-07"
+    },
+    {
+      "id": 4239987094,
+      "firstName": "JiaXuan",
+      "state": "active",
+      "created": "2026-08-05"
+    },
+    {
+      "id": 4239448712,
+      "firstName": "Jenny",
+      "state": "active",
+      "created": "2026-08-05"
+    },
+    {
+      "id": 4238934323,
+      "firstName": "Ankita",
+      "state": "active",
+      "created": "2026-08-05"
+    },
     {
       "id": 4234672384,
       "firstName": "Sara",
@@ -26,7 +56,7 @@ window.LELE_KIT_DASHBOARD = {
     },
     {
       "id": 4232040314,
-      "firstName": "Ｓｕｅｖｉｎ",
+      "firstName": "suevin kim",
       "state": "active",
       "created": "2026-07-31"
     },
@@ -177,12 +207,6 @@ window.LELE_KIT_DASHBOARD = {
     {
       "id": 4207571918,
       "firstName": "馮若琳",
-      "state": "active",
-      "created": "2026-07-14"
-    },
-    {
-      "id": 4207569068,
-      "firstName": null,
       "state": "active",
       "created": "2026-07-14"
     },
@@ -587,30 +611,6 @@ window.LELE_KIT_DASHBOARD = {
       "firstName": "楊明喆",
       "state": "active",
       "created": "2026-07-12"
-    },
-    {
-      "id": 4204568145,
-      "firstName": "洪詩婷",
-      "state": "active",
-      "created": "2026-07-12"
-    },
-    {
-      "id": 4204564774,
-      "firstName": "陳",
-      "state": "active",
-      "created": "2026-07-12"
-    },
-    {
-      "id": 4204564729,
-      "firstName": "許智湘",
-      "state": "active",
-      "created": "2026-07-12"
-    },
-    {
-      "id": 4204563642,
-      "firstName": "吳承遠",
-      "state": "active",
-      "created": "2026-07-12"
     }
   ],
   "forms": [
@@ -648,7 +648,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2026-03-19",
       "url": "https://mail.lelechinese.com/experience1",
       "archived": false,
-      "count": 61
+      "count": 66
     },
     {
       "id": 9106784,
@@ -675,7 +675,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-12-02",
       "url": "https://lelec.kit.com/subscribetoday",
       "archived": false,
-      "count": 128
+      "count": 127
     },
     {
       "id": 7314120,
@@ -738,7 +738,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-08-29",
       "url": "https://lelec.kit.com/bb3f49761b",
       "archived": false,
-      "count": 264
+      "count": 266
     },
     {
       "id": 6345762,
@@ -755,7 +755,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 21445788,
       "name": "202607preorder",
       "detail": "Created 2026-07-24",
-      "count": 49
+      "count": 43
     },
     {
       "id": 21443672,
@@ -821,7 +821,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19246943,
       "name": "shopify-not purchased",
       "detail": "Created 2026-04-30",
-      "count": 1122
+      "count": 1120
     },
     {
       "id": 19239965,
@@ -887,7 +887,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239955,
       "name": "lelewonderland-enrolled",
       "detail": "Created 2026-04-29",
-      "count": 1145
+      "count": 1143
     },
     {
       "id": 19239949,
@@ -941,7 +941,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239941,
       "name": "kit subscriber_20250919",
       "detail": "Created 2026-04-29",
-      "count": 994
+      "count": 992
     },
     {
       "id": 19239940,
@@ -1001,7 +1001,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239926,
       "name": "shopify-buyer-historical",
       "detail": "Created 2026-04-29",
-      "count": 1144
+      "count": 1142
     },
     {
       "id": 19239920,
@@ -1061,13 +1061,13 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239911,
       "name": "lelefindbook-joined",
       "detail": "Created 2026-04-29",
-      "count": 1135
+      "count": 1133
     },
     {
       "id": 19239908,
       "name": "shopify-buyer",
       "detail": "Created 2026-04-29",
-      "count": 1146
+      "count": 1144
     },
     {
       "id": 19059772,
@@ -1139,7 +1139,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 16165404,
       "name": "Shopify: no marketing",
       "detail": "Created 2026-02-18",
-      "count": 833
+      "count": 832
     },
     {
       "id": 16164349,
@@ -1193,19 +1193,19 @@ window.LELE_KIT_DASHBOARD = {
       "id": 12425971,
       "name": "FA012_202512B",
       "detail": "Created 2025-11-10",
-      "count": 1396
+      "count": 1393
     },
     {
       "id": 12425968,
       "name": "FA012_202512A",
       "detail": "Created 2025-11-10",
-      "count": 961
+      "count": 959
     },
     {
       "id": 11930784,
       "name": "SA006_202511B",
       "detail": "Created 2025-10-24",
-      "count": 1390
+      "count": 1387
     },
     {
       "id": 11109067,
@@ -1253,7 +1253,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 11011026,
       "name": "SA006_202511A",
       "detail": "Created 2025-09-24",
-      "count": 987
+      "count": 985
     },
     {
       "id": 8533114,
@@ -1271,7 +1271,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 7800539,
       "name": "placed > 1 order",
       "detail": "Created 2025-05-06",
-      "count": 1061
+      "count": 1059
     },
     {
       "id": 5604603,
@@ -1289,7 +1289,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 5539982,
       "name": "FA010_202510_1",
       "detail": "Created 2024-11-08",
-      "count": 1008
+      "count": 1006
     },
     {
       "id": 5534654,
@@ -1337,7 +1337,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 5464174,
       "name": "Products-red book",
       "detail": "Created 2024-10-15",
-      "count": 408
+      "count": 407
     },
     {
       "id": 5464164,
@@ -1354,11 +1354,18 @@ window.LELE_KIT_DASHBOARD = {
   ],
   "sequences": [
     {
+      "id": 2854204,
+      "name": "顏色主題式學習(會員)",
+      "status": "active",
+      "detail": "Send hour 8 · Asia/Taipei",
+      "count": 0
+    },
+    {
       "id": 2796773,
       "name": "父親節共讀活動（會員）",
       "status": "active",
       "detail": "Send hour 8 · Asia/Taipei",
-      "count": 1146
+      "count": 0
     },
     {
       "id": 2778319,
@@ -1638,38 +1645,70 @@ window.LELE_KIT_DASHBOARD = {
       "name": "SQ004_英文 已購書",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 0
+      "count": 3
     },
     {
       "id": 2161924,
       "name": "SQ003_英文 未購書",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 0
+      "count": 67
     },
     {
       "id": 2110747,
       "name": "XXX Abandoned checkouts",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 0
+      "count": 2
     },
     {
       "id": 2101009,
       "name": "SQ002_A 中文已購書(after challenge)",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 0
+      "count": 1217
     },
     {
       "id": 2091460,
       "name": "001A 中文-未購書 2024",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 0
+      "count": 2186
     }
   ],
   "broadcasts": [
+    {
+      "id": 25352387,
+      "subject": "「什麼顏色？」——孩子問的，就是最好的中文課",
+      "name": "「什麼顏色？」——孩子問的，就是最好的中文課",
+      "status": "draft",
+      "detail": "Created 2026-08-08",
+      "url": "https://lelec.kit.com/posts/"
+    },
+    {
+      "id": 25323179,
+      "subject": "出貨更新-今天，所有的貨都在寄去給您的路上了!",
+      "name": "出貨更新-今天，所有的貨都在寄去給您的路上了!",
+      "status": "draft",
+      "detail": "Created 2026-08-06",
+      "url": "https://lelec.kit.com/posts/"
+    },
+    {
+      "id": 25273759,
+      "subject": "👔 八八父親節｜把愛說成中文，送給爸爸",
+      "name": "👔 八八父親節｜把愛說成中文，送給爸爸",
+      "status": "scheduled",
+      "detail": "Send at 2026-08-06",
+      "url": "https://lelec.kit.com/posts/-gxlTSeVr"
+    },
+    {
+      "id": 25273416,
+      "subject": "👔 八八父親節，陪孩子一起玩中文",
+      "name": "👔 八八父親節，陪孩子一起玩中文",
+      "status": "scheduled",
+      "detail": "Send at 2026-08-06",
+      "url": "https://lelec.kit.com/posts/-nPIgDOE2"
+    },
     {
       "id": 25137239,
       "subject": "出貨更新（真心的抱歉 + 一點小補償）",
@@ -1837,38 +1876,6 @@ window.LELE_KIT_DASHBOARD = {
       "status": "scheduled",
       "detail": "Send at 2026-06-02",
       "url": "https://lelec.kit.com/posts/ep049-q-a"
-    },
-    {
-      "id": 23920027,
-      "subject": "🎙️ EP048｜【樂樂理念Q&A】為什麼孩子只想重複讀同一本書？",
-      "name": "🎙️ EP048｜【樂樂理念Q&A】為什麼孩子只想重複讀同一本書？",
-      "status": "scheduled",
-      "detail": "Send at 2026-05-26",
-      "url": "https://lelec.kit.com/posts/ep048-q-a"
-    },
-    {
-      "id": 23919934,
-      "subject": "🎙️ EP047｜【樂樂理念Q&A】為什麼孩子只看圖不看字？",
-      "name": "🎙️ EP047｜【樂樂理念Q&A】為什麼孩子只看圖不看字？",
-      "status": "scheduled",
-      "detail": "Send at 2026-05-19",
-      "url": "https://lelec.kit.com/posts/ep047-q-a"
-    },
-    {
-      "id": 23919641,
-      "subject": "🎙️ EP046｜【樂樂理念Q&A】為什麼孩子只要我讀？",
-      "name": "🎙️ EP046｜【樂樂理念Q&A】為什麼孩子只要我讀？",
-      "status": "scheduled",
-      "detail": "Send at 2026-05-12",
-      "url": "https://lelec.kit.com/posts/ep046-q-a"
-    },
-    {
-      "id": 23918693,
-      "subject": "🎙️ EP045｜【樂樂理念Q&A】每天 10 分鐘，真的夠嗎？",
-      "name": "🎙️ EP045｜【樂樂理念Q&A】每天 10 分鐘，真的夠嗎？",
-      "status": "scheduled",
-      "detail": "Send at 2026-05-05",
-      "url": "https://lelec.kit.com/posts/ep045-q-a-10"
     }
   ],
   "actionIdeas": [
