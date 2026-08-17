@@ -1,15 +1,15 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-08-10 00:53",
+  "generatedAt": "2026-08-17 00:35",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 148,
-      "Comments fetched": 14,
-      "Public views total": 32730,
+      "Channel subscribers": 152,
+      "Comments fetched": 13,
+      "Public views total": 33116,
       "Public likes total": 165,
-      "Public comments total": 14,
-      "Videos with comments": 8,
+      "Public comments total": 13,
+      "Videos with comments": 7,
       "Shorts count": 62,
       "Long-form count": 38
     },
@@ -17,7 +17,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 1,
         "title": "和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 10099,
+        "views": 10353,
         "likes": 28,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
-        "views": 1899,
+        "views": 1902,
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -65,7 +65,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 7,
         "title": "我的母語是什麼 #shorts",
-        "views": 1120,
+        "views": 1121,
         "likes": 8,
         "comments": 5,
         "url": "https://www.youtube.com/watch?v=COr7Y8WQolA"
@@ -99,24 +99,46 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "format": "Shorts",
         "count": 62,
-        "views": 18960,
-        "avgViews": 305.8
+        "views": 18947,
+        "avgViews": 305.6
       },
       {
         "format": "Long-form",
         "count": 38,
-        "views": 13770,
-        "avgViews": 362.4
+        "views": 14169,
+        "avgViews": 372.9
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "5igZAJZvIW4",
+      "Title": "父母就是孩子最好的老師，因為沒有人比你更了解他 #shorts",
+      "Published": "08/15/2026",
+      "URL": "https://www.youtube.com/watch?v=5igZAJZvIW4",
+      "Views": 51,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "tnvwPuPCceg",
+      "Title": "059｜【樂樂 Talk】海外孩子要打的小一大魔王——中英夾雜、說錯話，家長怎麼應對才不會搞砸？｜S3E21",
+      "Published": "08/11/2026",
+      "URL": "https://www.youtube.com/watch?v=tnvwPuPCceg",
+      "Views": 135,
+      "Likes": 1,
+      "Comments": 0,
+      "Engagement Rate": 0.0074,
+      "Shorts": "No"
+    },
+    {
       "Video ID": "vlS7Rmbj20s",
       "Title": "Emma 在家裡沒有中文環境，自己也不會中文，卻陪孩子讀完樂樂紅、黃、綠書 300 本！ #shorts",
       "Published": "08/08/2026",
       "URL": "https://www.youtube.com/watch?v=vlS7Rmbj20s",
-      "Views": 12,
+      "Views": 13,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -124,13 +146,13 @@ window.LELE_YOUTUBE_DASHBOARD = {
     },
     {
       "Video ID": "goe-UOeBrOU",
-      "Title": "和樂樂一起唱讀｜顏色朋友歌",
+      "Title": "和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 384,
+      "Views": 395,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0052,
+      "Engagement Rate": 0.0051,
       "Shorts": "No"
     },
     {
@@ -149,7 +171,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "057｜【樂樂 Talk】孩子有自我修正的能力——大量聽讀如何讓洋腔洋調悄悄消失｜S3E20",
       "Published": "07/28/2026",
       "URL": "https://www.youtube.com/watch?v=tBhdEUDbAmw",
-      "Views": 58,
+      "Views": 64,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -171,7 +193,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "愛上故事、讀懂內容，語感與字音會在反覆閱讀中自然長出來 #shorts",
       "Published": "07/18/2026",
       "URL": "https://www.youtube.com/watch?v=4zqbHokYRiA",
-      "Views": 24,
+      "Views": 25,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -182,7 +204,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "055｜【樂樂 Talk】樂樂300本念完能有多少字彙量？——問錯問題，就會走上錯的路｜S3E19",
       "Published": "07/14/2026",
       "URL": "https://www.youtube.com/watch?v=pStoU9mSTYg",
-      "Views": 32,
+      "Views": 33,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -226,7 +248,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "053｜【樂樂 Talk】如果你用繪本標準看樂樂，這一集可能會顛覆你——圖文設計背後的學習科學｜S3E18",
       "Published": "06/30/2026",
       "URL": "https://www.youtube.com/watch?v=Kp9M8t54t0M",
-      "Views": 11,
+      "Views": 13,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -248,10 +270,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 10099,
+      "Views": 10353,
       "Likes": 28,
       "Comments": 0,
-      "Engagement Rate": 0.0028,
+      "Engagement Rate": 0.0027,
       "Shorts": "No"
     },
     {
@@ -281,7 +303,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1899,
+      "Views": 1902,
       "Likes": 5,
       "Comments": 0,
       "Engagement Rate": 0.0026,
@@ -292,7 +314,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜爸爸的東西在哪裡？",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
-      "Views": 97,
+      "Views": 100,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -303,7 +325,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "051｜【樂樂 Talk】一代移民的孩子，怎麼在雙語中長大——擁有最強中文資源，卻最容易失敗的原因｜S3E17",
       "Published": "06/16/2026",
       "URL": "https://www.youtube.com/watch?v=_JKtuITH1EU",
-      "Views": 39,
+      "Views": 40,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -578,7 +600,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "📖 閱讀識字不一樣，孩子自己感興趣、自己想重複看的故事 #shorts",
       "Published": "03/07/2026",
       "URL": "https://www.youtube.com/watch?v=RRiEw9GirF8",
-      "Views": 92,
+      "Views": 93,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -677,7 +699,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "我的母語是什麼 #shorts",
       "Published": "02/07/2026",
       "URL": "https://www.youtube.com/watch?v=COr7Y8WQolA",
-      "Views": 1120,
+      "Views": 1121,
       "Likes": 8,
       "Comments": 5,
       "Engagement Rate": 0.0116,
@@ -776,7 +798,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "母語是連結父母與孩子內心的一道橋",
       "Published": "01/12/2026",
       "URL": "https://www.youtube.com/watch?v=FEVbfZa_8bo",
-      "Views": 51,
+      "Views": 52,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -798,7 +820,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "樂樂書裡紅59 媽媽的故事連結家長與孩子的溫馨回憶",
       "Published": "01/12/2026",
       "URL": "https://www.youtube.com/watch?v=4iFdEAlDjsg",
-      "Views": 14,
+      "Views": 16,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -809,7 +831,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "從小開始培養閱讀習慣, 養成孩子學習的內趨力",
       "Published": "01/12/2026",
       "URL": "https://www.youtube.com/watch?v=R5EPlLtmDFU",
-      "Views": 2,
+      "Views": 4,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -864,10 +886,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "039｜【樂樂 Talk】我不是讀書的料——Ting 如何從不愛閱讀，走到書蟲一家的真實故事｜S1E16",
       "Published": "12/30/2025",
       "URL": "https://www.youtube.com/watch?v=8RA7VSaicpg",
-      "Views": 38,
+      "Views": 39,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0263,
+      "Engagement Rate": 0.0256,
       "Shorts": "No"
     },
     {
@@ -886,7 +908,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "038｜【樂樂 Talk】搬去英國前，她把整套樂樂書一起帶走——Carmen 談在沒有中文語境的異國，如何為孩子打造穩定的閱讀環境｜S1E15",
       "Published": "12/23/2025",
       "URL": "https://www.youtube.com/watch?v=t7ZQGroTrjQ",
-      "Views": 14,
+      "Views": 17,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -1117,10 +1139,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "032｜【樂樂 Talk】什麼是母語？為什麼要為孩子保留它——台語路協會理事長力玄談母語傳承與找回的旅程（上）｜S2E09",
       "Published": "11/04/2025",
       "URL": "https://www.youtube.com/watch?v=9SQ9Vlq1RIc",
-      "Views": 45,
+      "Views": 46,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0444,
+      "Engagement Rate": 0.0435,
       "Shorts": "No"
     },
     {
@@ -1150,10 +1172,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "037｜【樂樂 Talk】孩子只想看漫畫，算閱讀嗎？——Peggy 談獨立閱讀後如何守住那份熱愛（下）｜S1E14",
       "Published": "10/28/2025",
       "URL": "https://www.youtube.com/watch?v=VeX2IrkpDOE",
-      "Views": 47,
+      "Views": 48,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0213,
+      "Engagement Rate": 0.0208,
       "Shorts": "No"
     },
     {
@@ -1172,10 +1194,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "036｜【樂樂 Talk】本來只想說廣東話就夠了——Squeaky Dumplings Peggy 談身分認同、閱讀敏感期與讓中文成為生活的方法（上）｜S1E13",
       "Published": "10/21/2025",
       "URL": "https://www.youtube.com/watch?v=BxgMlfqRQIE",
-      "Views": 37,
+      "Views": 39,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.027,
+      "Engagement Rate": 0.0256,
       "Shorts": "No"
     },
     {
@@ -1188,28 +1210,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Comments": 0,
       "Engagement Rate": 0.04,
       "Shorts": "Yes"
-    },
-    {
-      "Video ID": "8__o_r_dr4M",
-      "Title": "快樂閱讀才是孩子的語言之路 #shorts",
-      "Published": "10/16/2025",
-      "URL": "https://www.youtube.com/watch?v=8__o_r_dr4M",
-      "Views": 68,
-      "Likes": 1,
-      "Comments": 1,
-      "Engagement Rate": 0.0294,
-      "Shorts": "Yes"
-    },
-    {
-      "Video ID": "D3J2PrJtgxQ",
-      "Title": "031｜【樂樂 Talk】點讀筆糾正了媽媽的發音——厚厚私塾 Iris 談中文遊戲與持續輸入的力量（下）｜S1E12",
-      "Published": "10/14/2025",
-      "URL": "https://www.youtube.com/watch?v=D3J2PrJtgxQ",
-      "Views": 30,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
     }
   ],
   "comments": [
@@ -1381,19 +1381,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Category": "學習/共讀",
       "Theme Tags": "未分類",
       "Response Guidance": "可回覆：接住家長經驗，補一句每天一點點、陪伴比完美重要。"
-    },
-    {
-      "Video ID": "8__o_r_dr4M",
-      "Video Title": "快樂閱讀才是孩子的語言之路 #shorts",
-      "Video URL": "https://www.youtube.com/watch?v=8__o_r_dr4M",
-      "Author": "@annieyang6601",
-      "Published": "10/30/2025",
-      "Likes": 0,
-      "Comment": "了解整套",
-      "Reply": "No",
-      "Category": "其他",
-      "Theme Tags": "未分類",
-      "Response Guidance": "可簡短感謝，觀察是否能延伸成下一支內容題材。"
     }
   ],
   "themes": [
@@ -1408,12 +1395,12 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "共讀與閱讀",
+      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "海外環境",
+      "Theme": "共讀與閱讀",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
