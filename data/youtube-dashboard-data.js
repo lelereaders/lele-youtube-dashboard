@@ -1,12 +1,12 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-08-24 00:37",
+  "generatedAt": "2026-08-31 02:09",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 152,
+      "Channel subscribers": 154,
       "Comments fetched": 13,
-      "Public views total": 33326,
+      "Public views total": 33385,
       "Public likes total": 165,
       "Public comments total": 13,
       "Videos with comments": 7,
@@ -17,7 +17,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 1,
         "title": "和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 10558,
+        "views": 10692,
         "likes": 28,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
-        "views": 1904,
+        "views": 1906,
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -89,7 +89,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 10,
         "title": "真正重要的不是字數而是他能不能讀懂故事 #shorts",
-        "views": 979,
+        "views": 980,
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=0kqFdl85Ovw"
@@ -99,18 +99,40 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "format": "Shorts",
         "count": 62,
-        "views": 18933,
-        "avgViews": 305.4
+        "views": 18755,
+        "avgViews": 302.5
       },
       {
         "format": "Long-form",
         "count": 38,
-        "views": 14393,
-        "avgViews": 378.8
+        "views": 14630,
+        "avgViews": 385
       }
     ]
   },
   "videos": [
+    {
+      "Video ID": "dT8xJIk0KLg",
+      "Title": "樂樂書的編排有很多細節能讓孩子一讀再讀, 每次都有新發現 #shorts",
+      "Published": "08/29/2026",
+      "URL": "https://www.youtube.com/watch?v=dT8xJIk0KLg",
+      "Views": 2,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "2gbNN4f_svs",
+      "Title": "061｜【樂樂 Talk】如何讓不說中文的孩子開口說中文——先幫自己洗腦，再創造生存需求｜S3E22",
+      "Published": "08/25/2026",
+      "URL": "https://www.youtube.com/watch?v=2gbNN4f_svs",
+      "Views": 116,
+      "Likes": 1,
+      "Comments": 0,
+      "Engagement Rate": 0.0086,
+      "Shorts": "No"
+    },
     {
       "Video ID": "NIRD4VW94aQ",
       "Title": "能跟孩子用母語溝通是件很寶貴的事 #shorts",
@@ -138,10 +160,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "059｜【樂樂 Talk】海外孩子要打的小一大魔王——中英夾雜、說錯話，家長怎麼應對才不會搞砸？｜S3E21",
       "Published": "08/11/2026",
       "URL": "https://www.youtube.com/watch?v=tnvwPuPCceg",
-      "Views": 140,
+      "Views": 141,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0143,
+      "Engagement Rate": 0.0142,
       "Shorts": "No"
     },
     {
@@ -160,7 +182,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 399,
+      "Views": 404,
       "Likes": 2,
       "Comments": 0,
       "Engagement Rate": 0.005,
@@ -182,7 +204,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "057｜【樂樂 Talk】孩子有自我修正的能力——大量聽讀如何讓洋腔洋調悄悄消失｜S3E20",
       "Published": "07/28/2026",
       "URL": "https://www.youtube.com/watch?v=tBhdEUDbAmw",
-      "Views": 67,
+      "Views": 72,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -215,7 +237,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "055｜【樂樂 Talk】樂樂300本念完能有多少字彙量？——問錯問題，就會走上錯的路｜S3E19",
       "Published": "07/14/2026",
       "URL": "https://www.youtube.com/watch?v=pStoU9mSTYg",
-      "Views": 33,
+      "Views": 36,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -237,7 +259,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "孩子學母語，同時也在守護他們的心理健康✨ #shorts",
       "Published": "07/11/2026",
       "URL": "https://www.youtube.com/watch?v=7ra5Zka3C2Y",
-      "Views": 836,
+      "Views": 837,
       "Likes": 5,
       "Comments": 0,
       "Engagement Rate": 0.006,
@@ -259,7 +281,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "053｜【樂樂 Talk】如果你用繪本標準看樂樂，這一集可能會顛覆你——圖文設計背後的學習科學｜S3E18",
       "Published": "06/30/2026",
       "URL": "https://www.youtube.com/watch?v=Kp9M8t54t0M",
-      "Views": 14,
+      "Views": 15,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -281,10 +303,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 10558,
+      "Views": 10692,
       "Likes": 28,
       "Comments": 0,
-      "Engagement Rate": 0.0027,
+      "Engagement Rate": 0.0026,
       "Shorts": "No"
     },
     {
@@ -314,7 +336,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1904,
+      "Views": 1906,
       "Likes": 5,
       "Comments": 0,
       "Engagement Rate": 0.0026,
@@ -336,7 +358,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "051｜【樂樂 Talk】一代移民的孩子，怎麼在雙語中長大——擁有最強中文資源，卻最容易失敗的原因｜S3E17",
       "Published": "06/16/2026",
       "URL": "https://www.youtube.com/watch?v=_JKtuITH1EU",
-      "Views": 40,
+      "Views": 41,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -391,10 +413,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "048｜【樂樂 Talk】為什麼孩子只想重複讀同一本書？——把書藏到衣櫃裡，Jewel 的真實告白｜S4E05",
       "Published": "05/26/2026",
       "URL": "https://www.youtube.com/watch?v=G0pBnvlFHko",
-      "Views": 27,
+      "Views": 28,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.037,
+      "Engagement Rate": 0.0357,
       "Shorts": "No"
     },
     {
@@ -413,7 +435,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "047｜【樂樂 Talk】為什麼孩子只看圖不看字？——放下識字焦慮，看圖才是閱讀真正的起點｜S3E15",
       "Published": "05/19/2026",
       "URL": "https://www.youtube.com/watch?v=NKCd10Go2mE",
-      "Views": 28,
+      "Views": 29,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -457,7 +479,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
       "Published": "05/05/2026",
       "URL": "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
-      "Views": 8,
+      "Views": 9,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -479,10 +501,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "044｜【樂樂 Talk】為什麼閱讀比會說更重要？——海外家庭守護中文最需要知道的一件事｜S403",
       "Published": "04/28/2026",
       "URL": "https://www.youtube.com/watch?v=Toc1mr7KORw",
-      "Views": 79,
+      "Views": 80,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0127,
+      "Engagement Rate": 0.0125,
       "Shorts": "No"
     },
     {
@@ -567,10 +589,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "040｜【樂樂 Talk】孩子聽得懂中文卻不說？比起教導，他們更需要的是「安全感」",
       "Published": "03/31/2026",
       "URL": "https://www.youtube.com/watch?v=QhEIUvMJso8",
-      "Views": 22,
+      "Views": 23,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0455,
+      "Engagement Rate": 0.0435,
       "Shorts": "No"
     },
     {
@@ -633,7 +655,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "慢下來，孩子才跟得上你。 #shorts",
       "Published": "02/26/2026",
       "URL": "https://www.youtube.com/watch?v=DNlMgiRfvVI",
-      "Views": 85,
+      "Views": 86,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -721,7 +743,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "樂樂親子讀書會  孩子們有人聽有人回應中文自然就說出口 #shorts",
       "Published": "02/05/2026",
       "URL": "https://www.youtube.com/watch?v=v-UeHLv5PPE",
-      "Views": 702,
+      "Views": 703,
       "Likes": 3,
       "Comments": 0,
       "Engagement Rate": 0.0043,
@@ -732,7 +754,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "真正重要的不是字數而是他能不能讀懂故事 #shorts",
       "Published": "01/31/2026",
       "URL": "https://www.youtube.com/watch?v=0kqFdl85Ovw",
-      "Views": 979,
+      "Views": 980,
       "Likes": 5,
       "Comments": 0,
       "Engagement Rate": 0.0051,
@@ -1018,7 +1040,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "🎄 聖誕倒數共讀活動即將開始! 會員專屬",
       "Published": "11/29/2025",
       "URL": "https://www.youtube.com/watch?v=pFv2fEXPmFI",
-      "Views": 1,
+      "Views": 2,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -1106,10 +1128,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "033｜【樂樂 Talk】孩子進了學校，母語使用率從100%掉到50%——力玄談如何在主流語言環境中為孩子築起母語的堡壘（下）｜S2E10",
       "Published": "11/11/2025",
       "URL": "https://www.youtube.com/watch?v=ZFOGcVTpgiY",
-      "Views": 37,
+      "Views": 38,
       "Likes": 1,
       "Comments": 1,
-      "Engagement Rate": 0.0541,
+      "Engagement Rate": 0.0526,
       "Shorts": "No"
     },
     {
@@ -1150,10 +1172,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "032｜【樂樂 Talk】什麼是母語？為什麼要為孩子保留它——台語路協會理事長力玄談母語傳承與找回的旅程（上）｜S2E09",
       "Published": "11/04/2025",
       "URL": "https://www.youtube.com/watch?v=9SQ9Vlq1RIc",
-      "Views": 46,
+      "Views": 47,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0435,
+      "Engagement Rate": 0.0426,
       "Shorts": "No"
     },
     {
@@ -1187,28 +1209,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0204,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "Kap_qkHuilM",
-      "Title": "只要孩子建立了閱讀能力他就會變成一個自學機器人  #shorts",
-      "Published": "10/25/2025",
-      "URL": "https://www.youtube.com/watch?v=Kap_qkHuilM",
-      "Views": 184,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "Yes"
-    },
-    {
-      "Video ID": "BxgMlfqRQIE",
-      "Title": "036｜【樂樂 Talk】本來只想說廣東話就夠了——Squeaky Dumplings Peggy 談身分認同、閱讀敏感期與讓中文成為生活的方法（上）｜S1E13",
-      "Published": "10/21/2025",
-      "URL": "https://www.youtube.com/watch?v=BxgMlfqRQIE",
-      "Views": 39,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.0256,
       "Shorts": "No"
     }
   ],
