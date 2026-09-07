@@ -1,23 +1,23 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-08-31 02:09",
+  "generatedAt": "2026-09-07 01:43",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
       "Channel subscribers": 154,
       "Comments fetched": 13,
-      "Public views total": 33385,
-      "Public likes total": 165,
+      "Public views total": 33564,
+      "Public likes total": 164,
       "Public comments total": 13,
       "Videos with comments": 7,
-      "Shorts count": 62,
-      "Long-form count": 38
+      "Shorts count": 63,
+      "Long-form count": 37
     },
     "topVideos": [
       {
         "rank": 1,
         "title": "和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 10692,
+        "views": 10809,
         "likes": 28,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
-        "views": 1906,
+        "views": 1907,
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -98,25 +98,36 @@ window.LELE_YOUTUBE_DASHBOARD = {
     "formats": [
       {
         "format": "Shorts",
-        "count": 62,
-        "views": 18755,
-        "avgViews": 302.5
+        "count": 63,
+        "views": 18759,
+        "avgViews": 297.8
       },
       {
         "format": "Long-form",
-        "count": 38,
-        "views": 14630,
-        "avgViews": 385
+        "count": 37,
+        "views": 14805,
+        "avgViews": 400.1
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "GGLSETg5OZg",
+      "Title": "用故事書有趣的內容來驅使孩子主動閱讀 #shorts",
+      "Published": "09/05/2026",
+      "URL": "https://www.youtube.com/watch?v=GGLSETg5OZg",
+      "Views": 2,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
       "Video ID": "dT8xJIk0KLg",
       "Title": "樂樂書的編排有很多細節能讓孩子一讀再讀, 每次都有新發現 #shorts",
       "Published": "08/29/2026",
       "URL": "https://www.youtube.com/watch?v=dT8xJIk0KLg",
-      "Views": 2,
+      "Views": 3,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,10 +138,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "061｜【樂樂 Talk】如何讓不說中文的孩子開口說中文——先幫自己洗腦，再創造生存需求｜S3E22",
       "Published": "08/25/2026",
       "URL": "https://www.youtube.com/watch?v=2gbNN4f_svs",
-      "Views": 116,
+      "Views": 215,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0086,
+      "Engagement Rate": 0.0047,
       "Shorts": "No"
     },
     {
@@ -160,10 +171,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "059｜【樂樂 Talk】海外孩子要打的小一大魔王——中英夾雜、說錯話，家長怎麼應對才不會搞砸？｜S3E21",
       "Published": "08/11/2026",
       "URL": "https://www.youtube.com/watch?v=tnvwPuPCceg",
-      "Views": 141,
+      "Views": 142,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0142,
+      "Engagement Rate": 0.0141,
       "Shorts": "No"
     },
     {
@@ -182,10 +193,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 404,
+      "Views": 406,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.005,
+      "Engagement Rate": 0.0049,
       "Shorts": "No"
     },
     {
@@ -193,10 +204,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "困難不在外面，而在心裡 ❤️ 一旦決定了，每個問題都有解方 #shorts",
       "Published": "08/01/2026",
       "URL": "https://www.youtube.com/watch?v=81z7sy7UCoU",
-      "Views": 129,
+      "Views": 130,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0078,
+      "Engagement Rate": 0.0077,
       "Shorts": "Yes"
     },
     {
@@ -303,7 +314,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 10692,
+      "Views": 10809,
       "Likes": 28,
       "Comments": 0,
       "Engagement Rate": 0.0026,
@@ -336,7 +347,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜端午兒歌 Dragon Boat Song",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1906,
+      "Views": 1907,
       "Likes": 5,
       "Comments": 0,
       "Engagement Rate": 0.0026,
@@ -347,7 +358,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "和樂樂一起唱讀｜爸爸的東西在哪裡？",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
-      "Views": 100,
+      "Views": 102,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -919,10 +930,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "039｜【樂樂 Talk】我不是讀書的料——Ting 如何從不愛閱讀，走到書蟲一家的真實故事｜S1E16",
       "Published": "12/30/2025",
       "URL": "https://www.youtube.com/watch?v=8RA7VSaicpg",
-      "Views": 40,
+      "Views": 42,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.025,
+      "Engagement Rate": 0.0238,
       "Shorts": "No"
     },
     {
@@ -1199,17 +1210,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Comments": 1,
       "Engagement Rate": 0.0094,
       "Shorts": "Yes"
-    },
-    {
-      "Video ID": "VeX2IrkpDOE",
-      "Title": "037｜【樂樂 Talk】孩子只想看漫畫，算閱讀嗎？——Peggy 談獨立閱讀後如何守住那份熱愛（下）｜S1E14",
-      "Published": "10/28/2025",
-      "URL": "https://www.youtube.com/watch?v=VeX2IrkpDOE",
-      "Views": 49,
-      "Likes": 1,
-      "Comments": 0,
-      "Engagement Rate": 0.0204,
-      "Shorts": "No"
     }
   ],
   "comments": [
@@ -1321,7 +1321,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Video ID": "MPw_QotGKng",
       "Video Title": "力玄華語對我的家族其實是外來語 #shorts",
       "Video URL": "https://www.youtube.com/watch?v=MPw_QotGKng",
-      "Author": "@貓星人-c6i",
+      "Author": "@DinDin-c6i",
       "Published": "12/27/2025",
       "Likes": 1,
       "Comment": "我的小孩學會講話的第一句就是台語，他是學會台語上幼稚園以後才開始學華語 他現在17歲台語很OK",
@@ -1390,17 +1390,17 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
+      "Theme": "海外環境",
+      "Comment Count": 1,
+      "Method": "從留言文字關鍵詞自動標記"
+    },
+    {
       "Theme": "共讀與閱讀",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
       "Theme": "孩子只說英文",
-      "Comment Count": 1,
-      "Method": "從留言文字關鍵詞自動標記"
-    },
-    {
-      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
