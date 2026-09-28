@@ -1,23 +1,23 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-09-21 02:11",
+  "generatedAt": "2026-09-28 02:25",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 154,
-      "Comments fetched": 19,
-      "Public views total": 32062,
-      "Public likes total": 145,
-      "Public comments total": 19,
-      "Videos with comments": 11,
-      "Shorts count": 48,
-      "Long-form count": 52
+      "Channel subscribers": 159,
+      "Comments fetched": 17,
+      "Public views total": 31766,
+      "Public likes total": 146,
+      "Public comments total": 17,
+      "Videos with comments": 9,
+      "Shorts count": 49,
+      "Long-form count": 51
     },
     "topVideos": [
       {
         "rank": 1,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 11006,
+        "views": 11089,
         "likes": 28,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
-        "views": 1918,
+        "views": 1928,
         "likes": 5,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -40,14 +40,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       },
       {
         "rank": 4,
-        "title": "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
-        "views": 1178,
-        "likes": 3,
-        "comments": 1,
-        "url": "https://www.youtube.com/watch?v=anmOs42G-0I"
-      },
-      {
-        "rank": 5,
         "title": "因為拼音只是拼讀孩子可能會念卻寫不出換到另一個故事又完全卡住 #shorts",
         "views": 1134,
         "likes": 7,
@@ -55,7 +47,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=_UGl6HqIlRA"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "title": "我的母語是什麼 #shorts",
         "views": 1121,
         "likes": 8,
@@ -63,7 +55,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=COr7Y8WQolA"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "如何在海外創造必須用中文的環境 #shorts",
         "views": 1111,
         "likes": 3,
@@ -71,7 +63,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=2YXUzg9R--c"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "沒有一個更好的老師因為父母就是最好的老師  #shorts",
         "views": 1027,
         "likes": 7,
@@ -79,7 +71,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=As_rvS90u0U"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "真正重要的不是字數而是他能不能讀懂故事 #shorts",
         "views": 980,
         "likes": 5,
@@ -87,39 +79,69 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=0kqFdl85Ovw"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "孩子學母語，同時也在守護他們的心理健康✨ #shorts",
         "views": 837,
         "likes": 5,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=7ra5Zka3C2Y"
+      },
+      {
+        "rank": 10,
+        "title": "It’s not that kids *can’t* speak Chinese—",
+        "views": 703,
+        "likes": 3,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=v-UeHLv5PPE"
       }
     ],
     "formats": [
       {
         "format": "Shorts",
-        "count": 48,
-        "views": 13308,
-        "avgViews": 277.2
+        "count": 49,
+        "views": 12645,
+        "avgViews": 258.1
       },
       {
         "format": "Long-form",
-        "count": 52,
-        "views": 18754,
-        "avgViews": 360.7
+        "count": 51,
+        "views": 19121,
+        "avgViews": 374.9
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "YY-0gY55Nec",
+      "Title": "Don't Let Mid-Autumn Disappear Just Yet #shorts",
+      "Published": "09/26/2026",
+      "URL": "https://www.youtube.com/watch?v=YY-0gY55Nec",
+      "Views": 163,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
+      "Video ID": "K3pXeyGz6TY",
+      "Title": "母語，是連結父母與孩子內心的一道橋 #shorts",
+      "Published": "09/26/2026",
+      "URL": "https://www.youtube.com/watch?v=K3pXeyGz6TY",
+      "Views": 352,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "Yes"
+    },
+    {
       "Video ID": "tbs3ONjU0qc",
       "Title": "Mid-Autumn Festival Song 🌕🥮 | 中秋兒歌（Full Song ⬆️ Above）",
       "Published": "09/19/2026",
       "URL": "https://www.youtube.com/watch?v=tbs3ONjU0qc",
-      "Views": 62,
-      "Likes": 0,
+      "Views": 193,
+      "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0,
+      "Engagement Rate": 0.0052,
       "Shorts": "No"
     },
     {
@@ -138,10 +160,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Mid Autumn Festival Song 和樂樂一起唱讀｜中秋兒歌",
       "Published": "09/15/2026",
       "URL": "https://www.youtube.com/watch?v=Kro2PP3NBrA",
-      "Views": 126,
-      "Likes": 3,
+      "Views": 267,
+      "Likes": 6,
       "Comments": 3,
-      "Engagement Rate": 0.0476,
+      "Engagement Rate": 0.0337,
       "Shorts": "No"
     },
     {
@@ -149,10 +171,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Make a Chinese Lantern with Your Kids | 親子手作燈籠",
       "Published": "09/12/2026",
       "URL": "https://www.youtube.com/watch?v=fmRggJXUf_g",
-      "Views": 322,
-      "Likes": 2,
+      "Views": 336,
+      "Likes": 3,
       "Comments": 0,
-      "Engagement Rate": 0.0062,
+      "Engagement Rate": 0.0089,
       "Shorts": "No"
     },
     {
@@ -171,7 +193,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "063｜【樂樂 Talk】樂親子讀書會——為什麼孩子需要會說中文的朋友，家長需要同路人｜S3E23",
       "Published": "09/08/2026",
       "URL": "https://www.youtube.com/watch?v=CwNKe7e569g",
-      "Views": 24,
+      "Views": 28,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -204,7 +226,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "061｜【樂樂 Talk】如何讓不說中文的孩子開口說中文——先幫自己洗腦，再創造生存需求｜S3E22",
       "Published": "08/25/2026",
       "URL": "https://www.youtube.com/watch?v=2gbNN4f_svs",
-      "Views": 225,
+      "Views": 227,
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0044,
@@ -237,10 +259,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "059｜【樂樂 Talk】海外孩子要打的小一大魔王——中英夾雜、說錯話，家長怎麼應對才不會搞砸？｜S3E21",
       "Published": "08/11/2026",
       "URL": "https://www.youtube.com/watch?v=tnvwPuPCceg",
-      "Views": 144,
+      "Views": 145,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.0139,
+      "Engagement Rate": 0.0138,
       "Shorts": "No"
     },
     {
@@ -259,10 +281,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜ Learn Colours in Chinese 和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 418,
+      "Views": 426,
       "Likes": 2,
       "Comments": 1,
-      "Engagement Rate": 0.0072,
+      "Engagement Rate": 0.007,
       "Shorts": "No"
     },
     {
@@ -358,7 +380,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "053｜【樂樂 Talk】如果你用繪本標準看樂樂，這一集可能會顛覆你——圖文設計背後的學習科學｜S3E18",
       "Published": "06/30/2026",
       "URL": "https://www.youtube.com/watch?v=Kp9M8t54t0M",
-      "Views": 17,
+      "Views": 18,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -380,7 +402,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 11006,
+      "Views": 11089,
       "Likes": 28,
       "Comments": 1,
       "Engagement Rate": 0.0026,
@@ -391,7 +413,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "This Dragon Boat Festival, let them learn through song.",
       "Published": "06/20/2026",
       "URL": "https://www.youtube.com/watch?v=40hJk3-ng3U",
-      "Views": 17,
+      "Views": 21,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -413,7 +435,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1918,
+      "Views": 1928,
       "Likes": 5,
       "Comments": 1,
       "Engagement Rate": 0.0031,
@@ -424,10 +446,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where Are Daddy's Things? 和樂樂一起唱讀｜爸爸的東西在哪裡?",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
-      "Views": 109,
+      "Views": 112,
       "Likes": 0,
       "Comments": 1,
-      "Engagement Rate": 0.0092,
+      "Engagement Rate": 0.0089,
       "Shorts": "No"
     },
     {
@@ -534,10 +556,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "046｜【樂樂 Talk】為什麼孩子只要我讀？——孩子不肯自己讀，其實是最好的訊號｜S4E04",
       "Published": "05/12/2026",
       "URL": "https://www.youtube.com/watch?v=gBLovSpZ-Eo",
-      "Views": 34,
+      "Views": 35,
       "Likes": 1,
       "Comments": 1,
-      "Engagement Rate": 0.0588,
+      "Engagement Rate": 0.0571,
       "Shorts": "No"
     },
     {
@@ -556,7 +578,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
       "Published": "05/05/2026",
       "URL": "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
-      "Views": 9,
+      "Views": 10,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -996,10 +1018,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "039｜【樂樂 Talk】我不是讀書的料——Ting 如何從不愛閱讀，走到書蟲一家的真實故事｜S1E16",
       "Published": "12/30/2025",
       "URL": "https://www.youtube.com/watch?v=8RA7VSaicpg",
-      "Views": 50,
+      "Views": 51,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.02,
+      "Engagement Rate": 0.0196,
       "Shorts": "No"
     },
     {
@@ -1183,32 +1205,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "034｜【樂樂 Talk】極簡共讀——明灑老師談大人的感受同樣重要，共讀不是任務，是享受（上）｜S2E11",
       "Published": "11/18/2025",
       "URL": "https://www.youtube.com/watch?v=RxVzs4HJBow",
-      "Views": 39,
+      "Views": 40,
       "Likes": 1,
       "Comments": 1,
-      "Engagement Rate": 0.0513,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "anmOs42G-0I",
-      "Title": "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
-      "Published": "11/15/2025",
-      "URL": "https://www.youtube.com/watch?v=anmOs42G-0I",
-      "Views": 1178,
-      "Likes": 3,
-      "Comments": 1,
-      "Engagement Rate": 0.0034,
-      "Shorts": "Yes"
-    },
-    {
-      "Video ID": "ZFOGcVTpgiY",
-      "Title": "033｜【樂樂 Talk】孩子進了學校，母語使用率從100%掉到50%——力玄談如何在主流語言環境中為孩子築起母語的堡壘（下）｜S2E10",
-      "Published": "11/11/2025",
-      "URL": "https://www.youtube.com/watch?v=ZFOGcVTpgiY",
-      "Views": 39,
-      "Likes": 1,
-      "Comments": 1,
-      "Engagement Rate": 0.0513,
+      "Engagement Rate": 0.05,
       "Shorts": "No"
     }
   ],
@@ -1433,32 +1433,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Category": "學習/共讀",
       "Theme Tags": "共讀與閱讀",
       "Response Guidance": "可回覆：接住家長經驗，補一句每天一點點、陪伴比完美重要。"
-    },
-    {
-      "Video ID": "anmOs42G-0I",
-      "Video Title": "我們用上一代的方式去教中文卻讓孩子失去語言的感情 #shorts",
-      "Video URL": "https://www.youtube.com/watch?v=anmOs42G-0I",
-      "Author": "@Lennonrx8",
-      "Published": "11/16/2025",
-      "Likes": 0,
-      "Comment": "华文才难学啊，英文太简单了",
-      "Reply": "No",
-      "Category": "其他",
-      "Theme Tags": "孩子只說英文",
-      "Response Guidance": "可簡短感謝，觀察是否能延伸成下一支內容題材。"
-    },
-    {
-      "Video ID": "ZFOGcVTpgiY",
-      "Video Title": "033｜【樂樂 Talk】孩子進了學校，母語使用率從100%掉到50%——力玄談如何在主流語言環境中為孩子築起母語的堡壘（下）｜S2E10",
-      "Video URL": "https://www.youtube.com/watch?v=ZFOGcVTpgiY",
-      "Author": "@QCASo01PegatronUuUsss",
-      "Published": "11/16/2025",
-      "Likes": 0,
-      "Comment": "❤❤❤❤❤❤❤",
-      "Reply": "No",
-      "Category": "其他",
-      "Theme Tags": "未分類",
-      "Response Guidance": "可簡短感謝，觀察是否能延伸成下一支內容題材。"
     }
   ],
   "themes": [
@@ -1468,17 +1442,12 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Method": "從留言文字關鍵詞自動標記"
     },
     {
-      "Theme": "海外環境",
-      "Comment Count": 1,
-      "Method": "從留言文字關鍵詞自動標記"
-    },
-    {
-      "Theme": "孩子只說英文",
-      "Comment Count": 1,
-      "Method": "從留言文字關鍵詞自動標記"
-    },
-    {
       "Theme": "共讀與閱讀",
+      "Comment Count": 1,
+      "Method": "從留言文字關鍵詞自動標記"
+    },
+    {
+      "Theme": "海外環境",
       "Comment Count": 1,
       "Method": "從留言文字關鍵詞自動標記"
     }
