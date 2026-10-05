@@ -1,12 +1,12 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-09-28 02:25",
+  "generatedAt": "2026-10-05 02:52",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 159,
+      "Channel subscribers": 160,
       "Comments fetched": 17,
-      "Public views total": 31766,
+      "Public views total": 31917,
       "Public likes total": 146,
       "Public comments total": 17,
       "Videos with comments": 9,
@@ -17,7 +17,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 1,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 11089,
+        "views": 11143,
         "likes": 28,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
-        "views": 1928,
+        "views": 1937,
         "likes": 5,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -99,14 +99,14 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "format": "Shorts",
         "count": 49,
-        "views": 12645,
+        "views": 12647,
         "avgViews": 258.1
       },
       {
         "format": "Long-form",
         "count": 51,
-        "views": 19121,
-        "avgViews": 374.9
+        "views": 19270,
+        "avgViews": 377.8
       }
     ]
   },
@@ -116,7 +116,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Don't Let Mid-Autumn Disappear Just Yet #shorts",
       "Published": "09/26/2026",
       "URL": "https://www.youtube.com/watch?v=YY-0gY55Nec",
-      "Views": 163,
+      "Views": 160,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,7 +127,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "母語，是連結父母與孩子內心的一道橋 #shorts",
       "Published": "09/26/2026",
       "URL": "https://www.youtube.com/watch?v=K3pXeyGz6TY",
-      "Views": 352,
+      "Views": 355,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -138,10 +138,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Mid-Autumn Festival Song 🌕🥮 | 中秋兒歌（Full Song ⬆️ Above）",
       "Published": "09/19/2026",
       "URL": "https://www.youtube.com/watch?v=tbs3ONjU0qc",
-      "Views": 193,
+      "Views": 207,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0052,
+      "Engagement Rate": 0.0048,
       "Shorts": "No"
     },
     {
@@ -160,10 +160,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Mid Autumn Festival Song 和樂樂一起唱讀｜中秋兒歌",
       "Published": "09/15/2026",
       "URL": "https://www.youtube.com/watch?v=Kro2PP3NBrA",
-      "Views": 267,
+      "Views": 336,
       "Likes": 6,
       "Comments": 3,
-      "Engagement Rate": 0.0337,
+      "Engagement Rate": 0.0268,
       "Shorts": "No"
     },
     {
@@ -226,7 +226,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "061｜【樂樂 Talk】如何讓不說中文的孩子開口說中文——先幫自己洗腦，再創造生存需求｜S3E22",
       "Published": "08/25/2026",
       "URL": "https://www.youtube.com/watch?v=2gbNN4f_svs",
-      "Views": 227,
+      "Views": 228,
       "Likes": 1,
       "Comments": 0,
       "Engagement Rate": 0.0044,
@@ -281,7 +281,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜ Learn Colours in Chinese 和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 426,
+      "Views": 427,
       "Likes": 2,
       "Comments": 1,
       "Engagement Rate": 0.007,
@@ -391,7 +391,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "文字不是冷冰冰的符號，當它出現在故事裡，就會變成孩子的朋友 #shorts",
       "Published": "06/27/2026",
       "URL": "https://www.youtube.com/watch?v=Bdtcmxka_MY",
-      "Views": 33,
+      "Views": 34,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -402,7 +402,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 11089,
+      "Views": 11143,
       "Likes": 28,
       "Comments": 1,
       "Engagement Rate": 0.0026,
@@ -435,7 +435,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1928,
+      "Views": 1937,
       "Likes": 5,
       "Comments": 1,
       "Engagement Rate": 0.0031,
@@ -446,10 +446,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where Are Daddy's Things? 和樂樂一起唱讀｜爸爸的東西在哪裡?",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
-      "Views": 112,
+      "Views": 113,
       "Likes": 0,
       "Comments": 1,
-      "Engagement Rate": 0.0089,
+      "Engagement Rate": 0.0088,
       "Shorts": "No"
     },
     {
@@ -743,7 +743,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "閱讀能夠幫助孩子增加中文詞彙 #shorts",
       "Published": "02/28/2026",
       "URL": "https://www.youtube.com/watch?v=k-Gvh-W3448",
-      "Views": 224,
+      "Views": 225,
       "Likes": 2,
       "Comments": 0,
       "Engagement Rate": 0.0089,
