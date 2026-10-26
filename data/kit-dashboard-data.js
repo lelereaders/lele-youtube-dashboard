@@ -1,17 +1,89 @@
 window.LELE_KIT_DASHBOARD = {
-  "generatedAt": "2026-10-19 07:15",
+  "generatedAt": "2026-10-26 07:21",
   "source": "Kit API v4",
   "dashboard": {
     "metrics": {
-      "Active subscribers": 2874,
+      "Active subscribers": 2880,
       "Subscribers fetched": 500,
       "Tags": 100,
-      "Forms": 15,
-      "Sequences": 49,
+      "Forms": 18,
+      "Sequences": 50,
       "Broadcasts": 25
     }
   },
   "subscribers": [
+    {
+      "id": 4354193832,
+      "firstName": "Angel",
+      "state": "active",
+      "created": "2026-10-24"
+    },
+    {
+      "id": 4352153259,
+      "firstName": "Natasha",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351585331,
+      "firstName": "Nono Lee",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351568781,
+      "firstName": "Kate",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351530683,
+      "firstName": "Phoebe",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351361713,
+      "firstName": "Karen",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351189698,
+      "firstName": "Dylan",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351168428,
+      "firstName": "Ling chen Hunag",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4351158080,
+      "firstName": "Yulin",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4350954447,
+      "firstName": "Ratna",
+      "state": "active",
+      "created": "2026-10-22"
+    },
+    {
+      "id": 4347012883,
+      "firstName": "Alexa",
+      "state": "active",
+      "created": "2026-10-19"
+    },
+    {
+      "id": 4346901881,
+      "firstName": "Caprice",
+      "state": "active",
+      "created": "2026-10-19"
+    },
     {
       "id": 4345909120,
       "firstName": "Ting",
@@ -131,12 +203,6 @@ window.LELE_KIT_DASHBOARD = {
       "firstName": "Ruby Wang",
       "state": "active",
       "created": "2026-10-15"
-    },
-    {
-      "id": 4340984700,
-      "firstName": "Poya",
-      "state": "active",
-      "created": "2026-10-14"
     },
     {
       "id": 4340892472,
@@ -545,75 +611,36 @@ window.LELE_KIT_DASHBOARD = {
       "firstName": "Sara",
       "state": "active",
       "created": "2026-08-02"
-    },
-    {
-      "id": 4234212513,
-      "firstName": "Huili",
-      "state": "active",
-      "created": "2026-08-01"
-    },
-    {
-      "id": 4232040314,
-      "firstName": "suevin kim",
-      "state": "active",
-      "created": "2026-07-31"
-    },
-    {
-      "id": 4223606837,
-      "firstName": "Tseun Han James",
-      "state": "active",
-      "created": "2026-07-25"
-    },
-    {
-      "id": 4222489559,
-      "firstName": "Jillynn",
-      "state": "active",
-      "created": "2026-07-24"
-    },
-    {
-      "id": 4222336576,
-      "firstName": "Hela",
-      "state": "active",
-      "created": "2026-07-24"
-    },
-    {
-      "id": 4221245616,
-      "firstName": "serachong",
-      "state": "active",
-      "created": "2026-07-23"
-    },
-    {
-      "id": 4220758454,
-      "firstName": "Sandra",
-      "state": "active",
-      "created": "2026-07-23"
-    },
-    {
-      "id": 4218888809,
-      "firstName": "Frances",
-      "state": "active",
-      "created": "2026-07-22"
-    },
-    {
-      "id": 4217386492,
-      "firstName": "Sam",
-      "state": "active",
-      "created": "2026-07-21"
-    },
-    {
-      "id": 4217189590,
-      "firstName": "Carol chiang",
-      "state": "active",
-      "created": "2026-07-21"
-    },
-    {
-      "id": 4217109800,
-      "firstName": "Vinnie",
-      "state": "active",
-      "created": "2026-07-21"
     }
   ],
   "forms": [
+    {
+      "id": 10081133,
+      "name": "001 官網訂閱樂樂電子報(www.lelechinese.com.tw)",
+      "type": "embed",
+      "detail": "Created 2026-10-22",
+      "url": "https://lelec.kit.com/830f6d0add",
+      "archived": false,
+      "count": 0
+    },
+    {
+      "id": 10081131,
+      "name": "shopify website inline_中",
+      "type": "embed",
+      "detail": "Created 2026-10-22",
+      "url": "https://lelec.kit.com/1d0910a0ed",
+      "archived": false,
+      "count": 2
+    },
+    {
+      "id": 10075541,
+      "name": "shopify website inline_en",
+      "type": "embed",
+      "detail": "Created 2026-10-21",
+      "url": "https://lelec.kit.com/edeee5c4a0",
+      "archived": false,
+      "count": 4
+    },
     {
       "id": 9227966,
       "name": "KL011_KOREAN",
@@ -643,12 +670,12 @@ window.LELE_KIT_DASHBOARD = {
     },
     {
       "id": 9227342,
-      "name": "KL003_Experience",
+      "name": "KL003_Experience ",
       "type": "landing page",
       "detail": "Created 2026-03-19",
       "url": "https://mail.lelechinese.com/experience1",
       "archived": false,
-      "count": 104
+      "count": 109
     },
     {
       "id": 9106784,
@@ -657,7 +684,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2026-02-19",
       "url": "https://mail.lelechinese.com/7days",
       "archived": false,
-      "count": 10
+      "count": 9
     },
     {
       "id": 7516830,
@@ -733,12 +760,12 @@ window.LELE_KIT_DASHBOARD = {
     },
     {
       "id": 7024248,
-      "name": "001 官網訂閱樂樂電子報",
+      "name": "001 官網訂閱樂樂電子報(www.lelechinese.com)",
       "type": "embed",
       "detail": "Created 2024-08-29",
       "url": "https://lelec.kit.com/bb3f49761b",
       "archived": false,
-      "count": 293
+      "count": 299
     },
     {
       "id": 6345762,
@@ -845,7 +872,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19246943,
       "name": "shopify-not purchased",
       "detail": "Created 2026-04-30",
-      "count": 1102
+      "count": 1100
     },
     {
       "id": 19239965,
@@ -893,13 +920,13 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239958,
       "name": "onestore_contact",
       "detail": "Created 2026-04-29",
-      "count": 183
+      "count": 182
     },
     {
       "id": 19239957,
       "name": "pf_award_source: popup",
       "detail": "Created 2026-04-29",
-      "count": 462
+      "count": 460
     },
     {
       "id": 19239956,
@@ -911,7 +938,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239955,
       "name": "lelewonderland-enrolled",
       "detail": "Created 2026-04-29",
-      "count": 1116
+      "count": 1114
     },
     {
       "id": 19239949,
@@ -935,7 +962,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239946,
       "name": "pf_campaign: halloween 2023",
       "detail": "Created 2026-04-29",
-      "count": 7
+      "count": 6
     },
     {
       "id": 19239945,
@@ -953,7 +980,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239943,
       "name": "created_by_one",
       "detail": "Created 2026-04-29",
-      "count": 175
+      "count": 174
     },
     {
       "id": 19239942,
@@ -965,7 +992,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239941,
       "name": "kit subscriber_20250919",
       "detail": "Created 2026-04-29",
-      "count": 977
+      "count": 976
     },
     {
       "id": 19239940,
@@ -1025,7 +1052,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239926,
       "name": "shopify-buyer-historical",
       "detail": "Created 2026-04-29",
-      "count": 1115
+      "count": 1113
     },
     {
       "id": 19239920,
@@ -1037,7 +1064,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239919,
       "name": "pf_campaign: dragon boat festival 2022",
       "detail": "Created 2026-04-29",
-      "count": 44
+      "count": 43
     },
     {
       "id": 19239918,
@@ -1067,7 +1094,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239914,
       "name": "pf_award_type: unknown",
       "detail": "Created 2026-04-29",
-      "count": 249
+      "count": 247
     },
     {
       "id": 19239913,
@@ -1085,13 +1112,13 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239911,
       "name": "lelefindbook-joined",
       "detail": "Created 2026-04-29",
-      "count": 1106
+      "count": 1104
     },
     {
       "id": 19239908,
       "name": "shopify-buyer",
       "detail": "Created 2026-04-29",
-      "count": 1117
+      "count": 1115
     },
     {
       "id": 19059772,
@@ -1163,7 +1190,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 16165404,
       "name": "Shopify: no marketing",
       "detail": "Created 2026-02-18",
-      "count": 814
+      "count": 812
     },
     {
       "id": 16164349,
@@ -1193,7 +1220,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 15821406,
       "name": "lnygift",
       "detail": "Created 2026-02-11",
-      "count": 43
+      "count": 42
     },
     {
       "id": 13909108,
@@ -1217,7 +1244,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 12425971,
       "name": "FA012_202512B",
       "detail": "Created 2025-11-10",
-      "count": 1371
+      "count": 1368
     },
     {
       "id": 12425968,
@@ -1229,7 +1256,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 11930784,
       "name": "SA006_202511B",
       "detail": "Created 2025-10-24",
-      "count": 1368
+      "count": 1365
     },
     {
       "id": 11109067,
@@ -1277,7 +1304,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 11011026,
       "name": "SA006_202511A",
       "detail": "Created 2025-09-24",
-      "count": 971
+      "count": 970
     },
     {
       "id": 8533114,
@@ -1295,7 +1322,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 7800539,
       "name": "placed > 1 order",
       "detail": "Created 2025-05-06",
-      "count": 1039
+      "count": 1037
     },
     {
       "id": 5604603,
@@ -1313,7 +1340,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 5539982,
       "name": "FA010_202510_1",
       "detail": "Created 2024-11-08",
-      "count": 991
+      "count": 990
     },
     {
       "id": 5534654,
@@ -1337,42 +1364,49 @@ window.LELE_KIT_DASHBOARD = {
       "id": 5464181,
       "name": "Products-Full Set",
       "detail": "Created 2024-10-15",
-      "count": 507
+      "count": 0
     },
     {
       "id": 5464179,
       "name": "Products-Audio pen",
       "detail": "Created 2024-10-15",
-      "count": 363
+      "count": 0
     },
     {
       "id": 5464178,
       "name": "Products-Green Books",
       "detail": "Created 2024-10-15",
-      "count": 136
+      "count": 0
     }
   ],
   "sequences": [
+    {
+      "id": 2942403,
+      "name": "KS003EN_EXPERIENCE",
+      "status": "active",
+      "detail": "Send hour 20 · Asia/Taipei",
+      "count": 0
+    },
     {
       "id": 2928960,
       "name": "萬聖節共讀挑戰(會員)",
       "status": "active",
       "detail": "Send hour 8 · Asia/Taipei",
-      "count": 1039
+      "count": 0
     },
     {
       "id": 2905504,
       "name": "KS001_GIFT_midautumn",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 5
+      "count": 0
     },
     {
       "id": 2896639,
       "name": "中秋節共讀活動 (會員)",
       "status": "active",
       "detail": "Send hour 8 · Asia/Taipei",
-      "count": 1037
+      "count": 0
     },
     {
       "id": 2854204,
@@ -1386,42 +1420,42 @@ window.LELE_KIT_DASHBOARD = {
       "name": "父親節共讀活動（會員）",
       "status": "active",
       "detail": "Send hour 8 · Asia/Taipei",
-      "count": 1117
+      "count": 0
     },
     {
       "id": 2778319,
       "name": "端午節共讀活動 (會員)",
       "status": "active",
       "detail": "Send hour 8 · Asia/Taipei",
-      "count": 1117
+      "count": 0
     },
     {
       "id": 2691573,
       "name": "KS003_EXPERIENCE",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 102
+      "count": 0
     },
     {
       "id": 2656402,
       "name": "SQ001_B-1 中文-未購書 2026 (before challenge)",
       "status": "active",
       "detail": "Send hour 6 · Asia/Taipei",
-      "count": 178
+      "count": 0
     },
     {
       "id": 2656387,
       "name": "SQ002_A 中文已購書(before challenge)",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 135
+      "count": 0
     },
     {
       "id": 2655651,
       "name": "KS007_SEVEN_LAUNCH海外爸媽必修：7 天中文環境養成課",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 10
+      "count": 0
     },
     {
       "id": 2654112,
@@ -1435,140 +1469,140 @@ window.LELE_KIT_DASHBOARD = {
       "name": "KS006_SALE_2026LNY",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 34
+      "count": 0
     },
     {
       "id": 2610897,
       "name": "B2 (未購書) - FA002_和樂樂一起迎馬年_7+15天共讀挑戰_202502",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1461
+      "count": 0
     },
     {
       "id": 2609625,
       "name": "B1 (未購書) - FA002_和樂樂一起迎馬年_7+15天共讀挑戰_202602",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1331
+      "count": 0
     },
     {
       "id": 2594345,
       "name": "A2 (已購書) - FA002_與樂樂一起迎馬年_7+15天共讀挑戰_202602",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 892
+      "count": 0
     },
     {
       "id": 2594020,
       "name": "A1 (已購書) - FA002_與樂樂一起迎馬年_7+15天共讀挑戰_202602",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 889
+      "count": 0
     },
     {
       "id": 2589909,
       "name": "B2 (未購書) - FA001_十二生肖_12天共讀挑戰_202601",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1317
+      "count": 0
     },
     {
       "id": 2585261,
       "name": "A2 (已購書) - FA001_十二生肖_12天共讀挑戰_202601",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 914
+      "count": 0
     },
     {
       "id": 2579183,
       "name": "B1 (未購書) - FA001_十二生肖_12天共讀挑戰_202601",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1315
+      "count": 0
     },
     {
       "id": 2579179,
       "name": "A1 (已購書) - FA001_十二生肖_12天共讀挑戰_202601",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 915
+      "count": 0
     },
     {
       "id": 2563845,
       "name": "B2 (未購書) - FA012_聖誕節倒數_24天共讀挑戰_202512",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1308
+      "count": 0
     },
     {
       "id": 2563698,
       "name": "B1 (未購書) - FA012_聖誕節倒數_24天共讀挑戰_202512",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1308
+      "count": 0
     },
     {
       "id": 2551134,
       "name": "A2 (已購書) - FA012_聖誕節倒數_24天共讀挑戰_202512",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 946
+      "count": 0
     },
     {
       "id": 2549461,
       "name": "A1 (已購書) - FA012_聖誕節倒數_24天共讀挑戰_202512",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 946
+      "count": 0
     },
     {
       "id": 2532137,
       "name": "B2 (未購書) - SA006_四季主題_10天共讀挑戰_202511",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1367
+      "count": 0
     },
     {
       "id": 2532086,
       "name": "B1 (未購書) - SA006_四季主題_10天共讀挑戰_202511",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 1368
+      "count": 0
     },
     {
       "id": 2527481,
       "name": "A2 (已購書) - SA006_四季主題_10天共讀挑戰_202511",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 966
+      "count": 0
     },
     {
       "id": 2521824,
       "name": "A1 (已購書) - SA006_四季主題_10天共讀挑戰_202511",
       "status": "inactive",
       "detail": "Send hour 1 · Asia/Taipei",
-      "count": 970
+      "count": 0
     },
     {
       "id": 2505315,
       "name": "KS001_GIFT_lnygift",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 145
+      "count": 0
     },
     {
       "id": 2505242,
       "name": "KS002_READ_閱讀起步包",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 20
+      "count": 0
     },
     {
       "id": 2505241,
       "name": "KS004_Progress 注音卡關(原stuck)",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 1
+      "count": 0
     },
     {
       "id": 2505240,
@@ -1589,42 +1623,42 @@ window.LELE_KIT_DASHBOARD = {
       "name": "KS009_CANTONESE",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 56
+      "count": 0
     },
     {
       "id": 2502869,
       "name": "FA010_萬聖節_10天共讀挑戰_202510_B2(未購書)",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 1362
+      "count": 0
     },
     {
       "id": 2502860,
       "name": "FA010_萬聖節_10天共讀挑戰_202510_B1(未購書)",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 1343
+      "count": 0
     },
     {
       "id": 2501711,
       "name": "FA010_萬聖節_10天共讀挑戰_202510_A1 (已購書)",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 990
+      "count": 0
     },
     {
       "id": 2495495,
       "name": "FA010_萬聖節_10天共讀挑戰_202510_A2(已購書)",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 984
+      "count": 0
     },
     {
       "id": 2394224,
       "name": "SQ001_B-1 中文-未購書 2026(after challenge)",
       "status": "active",
       "detail": "Send hour 6 · Asia/Taipei",
-      "count": 1117
+      "count": 0
     },
     {
       "id": 2323077,
@@ -1645,14 +1679,14 @@ window.LELE_KIT_DASHBOARD = {
       "name": "MK001_LD099_SUBSCRIBE FREE PRINTABLES",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 14
+      "count": 0
     },
     {
       "id": 2212761,
       "name": "S01_2025 端午SALE",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 38
+      "count": 0
     },
     {
       "id": 2207426,
@@ -1666,35 +1700,35 @@ window.LELE_KIT_DASHBOARD = {
       "name": "SQ004_英文 已購書",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 3
+      "count": 0
     },
     {
       "id": 2161924,
       "name": "SQ003_英文 未購書",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 66
+      "count": 0
     },
     {
       "id": 2110747,
       "name": "XXX Abandoned checkouts",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 2
+      "count": 0
     },
     {
       "id": 2101009,
       "name": "SQ002_A 中文已購書(after challenge)",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 1190
+      "count": 0
     },
     {
       "id": 2091460,
       "name": "001A 中文-未購書 2024",
       "status": "inactive",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 2154
+      "count": 0
     }
   ],
   "broadcasts": [
