@@ -1,13 +1,13 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-10-19 02:15",
+  "generatedAt": "2026-10-26 02:10",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 163,
+      "Channel subscribers": 164,
       "Comments fetched": 17,
-      "Public views total": 32123,
-      "Public likes total": 144,
+      "Public views total": 32282,
+      "Public likes total": 145,
       "Public comments total": 17,
       "Videos with comments": 9,
       "Shorts count": 49,
@@ -17,7 +17,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 1,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 11265,
+        "views": 11347,
         "likes": 28,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
-        "views": 1941,
+        "views": 1947,
         "likes": 5,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -99,14 +99,14 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "format": "Shorts",
         "count": 49,
-        "views": 12648,
+        "views": 12649,
         "avgViews": 258.1
       },
       {
         "format": "Long-form",
         "count": 51,
-        "views": 19475,
-        "avgViews": 381.9
+        "views": 19633,
+        "avgViews": 385
       }
     ]
   },
@@ -116,7 +116,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Knock, knock — who's there? A Chinese Halloween song!",
       "Published": "10/16/2026",
       "URL": "https://www.youtube.com/watch?v=1mMBaqpjPNY",
-      "Views": 15,
+      "Views": 26,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,10 +127,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Halloween Song 和樂樂一起唱讀｜萬聖節兒歌",
       "Published": "10/15/2026",
       "URL": "https://www.youtube.com/watch?v=tPNcyezeXcA",
-      "Views": 50,
-      "Likes": 0,
+      "Views": 89,
+      "Likes": 1,
       "Comments": 1,
-      "Engagement Rate": 0.02,
+      "Engagement Rate": 0.0225,
       "Shorts": "No"
     },
     {
@@ -160,10 +160,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Mid-Autumn Festival Song 🌕🥮 | 中秋兒歌（Full Song ⬆️ Above）",
       "Published": "09/19/2026",
       "URL": "https://www.youtube.com/watch?v=tbs3ONjU0qc",
-      "Views": 215,
+      "Views": 219,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0047,
+      "Engagement Rate": 0.0046,
       "Shorts": "No"
     },
     {
@@ -182,10 +182,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Mid Autumn Festival Song 和樂樂一起唱讀｜中秋兒歌",
       "Published": "09/15/2026",
       "URL": "https://www.youtube.com/watch?v=Kro2PP3NBrA",
-      "Views": 352,
+      "Views": 357,
       "Likes": 6,
       "Comments": 3,
-      "Engagement Rate": 0.0256,
+      "Engagement Rate": 0.0252,
       "Shorts": "No"
     },
     {
@@ -248,10 +248,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "061｜【樂樂 Talk】如何讓不說中文的孩子開口說中文——先幫自己洗腦，再創造生存需求｜S3E22",
       "Published": "08/25/2026",
       "URL": "https://www.youtube.com/watch?v=2gbNN4f_svs",
-      "Views": 229,
+      "Views": 230,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0044,
+      "Engagement Rate": 0.0043,
       "Shorts": "No"
     },
     {
@@ -303,10 +303,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜ Learn Colours in Chinese 和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 434,
+      "Views": 438,
       "Likes": 2,
       "Comments": 1,
-      "Engagement Rate": 0.0069,
+      "Engagement Rate": 0.0068,
       "Shorts": "No"
     },
     {
@@ -336,7 +336,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "我們能創造「不得不用」的機會，孩子就有可能把中文留住 #shorts",
       "Published": "07/25/2026",
       "URL": "https://www.youtube.com/watch?v=3NtAzWC9dVQ",
-      "Views": 241,
+      "Views": 242,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -424,7 +424,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 11265,
+      "Views": 11347,
       "Likes": 28,
       "Comments": 1,
       "Engagement Rate": 0.0026,
@@ -457,7 +457,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1941,
+      "Views": 1947,
       "Likes": 5,
       "Comments": 1,
       "Engagement Rate": 0.0031,
@@ -600,7 +600,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "045｜【樂樂 Talk】每天10分鐘，夠嗎？——從跳繩實驗到三歲半突然自己讀完一本書｜S3E13",
       "Published": "05/05/2026",
       "URL": "https://www.youtube.com/watch?v=rIAHgQuHq2Q",
-      "Views": 11,
+      "Views": 15,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -644,10 +644,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "043｜【樂樂 Talk】共讀挑戰存在的理由——不是為了完美達成，而是為了讓你不再一個人撐｜S3E13",
       "Published": "04/21/2026",
       "URL": "https://www.youtube.com/watch?v=CGnUHEeHlts",
-      "Views": 69,
+      "Views": 70,
       "Likes": 2,
       "Comments": 0,
-      "Engagement Rate": 0.029,
+      "Engagement Rate": 0.0286,
       "Shorts": "No"
     },
     {
@@ -1194,7 +1194,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "035｜【樂樂 Talk】孩子不缺知識，缺的是情感教育——明灑老師談共讀如何補足學校教育給不了的養分（下）｜S2E12",
       "Published": "11/25/2025",
       "URL": "https://www.youtube.com/watch?v=XphPh6ReY8k",
-      "Views": 23,
+      "Views": 24,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
