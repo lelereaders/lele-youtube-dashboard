@@ -1,23 +1,23 @@
 window.LELE_YOUTUBE_DASHBOARD = {
-  "generatedAt": "2026-10-26 02:10",
+  "generatedAt": "2026-11-02 03:12",
   "sourceWorkbook": "YouTube_Comment_Insights_latest.xlsx",
   "dashboard": {
     "metrics": {
       "Videos analyzed": 100,
-      "Channel subscribers": 164,
-      "Comments fetched": 17,
-      "Public views total": 32282,
-      "Public likes total": 145,
-      "Public comments total": 17,
-      "Videos with comments": 9,
-      "Shorts count": 49,
-      "Long-form count": 51
+      "Channel subscribers": 165,
+      "Comments fetched": 18,
+      "Public views total": 30574,
+      "Public likes total": 138,
+      "Public comments total": 18,
+      "Videos with comments": 10,
+      "Shorts count": 47,
+      "Long-form count": 53
     },
     "topVideos": [
       {
         "rank": 1,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
-        "views": 11347,
+        "views": 11460,
         "likes": 28,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=uIh_eS18B1g"
@@ -25,7 +25,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       {
         "rank": 2,
         "title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
-        "views": 1947,
+        "views": 1951,
         "likes": 5,
         "comments": 1,
         "url": "https://www.youtube.com/watch?v=YWZkP3iOrDo"
@@ -40,14 +40,6 @@ window.LELE_YOUTUBE_DASHBOARD = {
       },
       {
         "rank": 4,
-        "title": "因為拼音只是拼讀孩子可能會念卻寫不出換到另一個故事又完全卡住 #shorts",
-        "views": 1134,
-        "likes": 7,
-        "comments": 0,
-        "url": "https://www.youtube.com/watch?v=_UGl6HqIlRA"
-      },
-      {
-        "rank": 5,
         "title": "我的母語是什麼 #shorts",
         "views": 1121,
         "likes": 8,
@@ -55,7 +47,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=COr7Y8WQolA"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "title": "如何在海外創造必須用中文的環境 #shorts",
         "views": 1111,
         "likes": 3,
@@ -63,7 +55,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=2YXUzg9R--c"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "沒有一個更好的老師因為父母就是最好的老師  #shorts",
         "views": 1027,
         "likes": 7,
@@ -71,7 +63,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=As_rvS90u0U"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "真正重要的不是字數而是他能不能讀懂故事 #shorts",
         "views": 980,
         "likes": 5,
@@ -79,7 +71,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=0kqFdl85Ovw"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "孩子學母語，同時也在守護他們的心理健康✨ #shorts",
         "views": 837,
         "likes": 5,
@@ -87,36 +79,110 @@ window.LELE_YOUTUBE_DASHBOARD = {
         "url": "https://www.youtube.com/watch?v=7ra5Zka3C2Y"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "It’s not that kids *can’t* speak Chinese—",
         "views": 703,
         "likes": 3,
         "comments": 0,
         "url": "https://www.youtube.com/watch?v=v-UeHLv5PPE"
+      },
+      {
+        "rank": 10,
+        "title": "Do kids in United States really need to learn Chinese?",
+        "views": 680,
+        "likes": 5,
+        "comments": 0,
+        "url": "https://www.youtube.com/watch?v=lmCPb9D-8ew"
       }
     ],
     "formats": [
       {
         "format": "Shorts",
-        "count": 49,
-        "views": 12649,
-        "avgViews": 258.1
+        "count": 47,
+        "views": 11186,
+        "avgViews": 238
       },
       {
         "format": "Long-form",
-        "count": 51,
-        "views": 19633,
-        "avgViews": 385
+        "count": 53,
+        "views": 19388,
+        "avgViews": 365.8
       }
     ]
   },
   "videos": [
     {
+      "Video ID": "1UZFCQCi8UI",
+      "Title": "Why not make Chinese part of the excitement? TODAY! 🎃",
+      "Published": "10/31/2026",
+      "URL": "https://www.youtube.com/watch?v=1UZFCQCi8UI",
+      "Views": 2,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "qPGzxMMxX2U",
+      "Title": "Halloween Fun you can't miss!",
+      "Published": "10/30/2026",
+      "URL": "https://www.youtube.com/watch?v=qPGzxMMxX2U",
+      "Views": 0,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "l_HjZf4bpEc",
+      "Title": "I want your child to SEE Chinese in their everyday life. ❤️",
+      "Published": "10/29/2026",
+      "URL": "https://www.youtube.com/watch?v=l_HjZf4bpEc",
+      "Views": 3,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "hTCyvxu4swE",
+      "Title": "Here’s how we bring Chinese into Halloween season.",
+      "Published": "10/28/2026",
+      "URL": "https://www.youtube.com/watch?v=hTCyvxu4swE",
+      "Views": 149,
+      "Likes": 0,
+      "Comments": 1,
+      "Engagement Rate": 0.0067,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "27VNaWZ0CPc",
+      "Title": "Untitled",
+      "Published": "10/28/2026",
+      "URL": "https://www.youtube.com/watch?v=27VNaWZ0CPc",
+      "Views": 98,
+      "Likes": 2,
+      "Comments": 0,
+      "Engagement Rate": 0.0204,
+      "Shorts": "No"
+    },
+    {
+      "Video ID": "tt1frC0c5IY",
+      "Title": "A Halloween Treasure Hunt Wheel,",
+      "Published": "10/26/2026",
+      "URL": "https://www.youtube.com/watch?v=tt1frC0c5IY",
+      "Views": 19,
+      "Likes": 0,
+      "Comments": 0,
+      "Engagement Rate": 0,
+      "Shorts": "No"
+    },
+    {
       "Video ID": "1mMBaqpjPNY",
       "Title": "Knock, knock — who's there? A Chinese Halloween song!",
       "Published": "10/16/2026",
       "URL": "https://www.youtube.com/watch?v=1mMBaqpjPNY",
-      "Views": 26,
+      "Views": 33,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -127,10 +193,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Halloween Song 和樂樂一起唱讀｜萬聖節兒歌",
       "Published": "10/15/2026",
       "URL": "https://www.youtube.com/watch?v=tPNcyezeXcA",
-      "Views": 89,
-      "Likes": 1,
+      "Views": 154,
+      "Likes": 3,
       "Comments": 1,
-      "Engagement Rate": 0.0225,
+      "Engagement Rate": 0.026,
       "Shorts": "No"
     },
     {
@@ -138,7 +204,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Don't Let Mid-Autumn Disappear Just Yet #shorts",
       "Published": "09/26/2026",
       "URL": "https://www.youtube.com/watch?v=YY-0gY55Nec",
-      "Views": 160,
+      "Views": 161,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -160,10 +226,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Mid-Autumn Festival Song 🌕🥮 | 中秋兒歌（Full Song ⬆️ Above）",
       "Published": "09/19/2026",
       "URL": "https://www.youtube.com/watch?v=tbs3ONjU0qc",
-      "Views": 219,
+      "Views": 220,
       "Likes": 1,
       "Comments": 0,
-      "Engagement Rate": 0.0046,
+      "Engagement Rate": 0.0045,
       "Shorts": "No"
     },
     {
@@ -171,7 +237,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "從小開始培養閱讀習慣, 養成孩子學習的內趨力 #shorts",
       "Published": "09/18/2026",
       "URL": "https://www.youtube.com/watch?v=fWpydMnWUfg",
-      "Views": 7,
+      "Views": 8,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -182,10 +248,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Mid Autumn Festival Song 和樂樂一起唱讀｜中秋兒歌",
       "Published": "09/15/2026",
       "URL": "https://www.youtube.com/watch?v=Kro2PP3NBrA",
-      "Views": 357,
+      "Views": 362,
       "Likes": 6,
       "Comments": 3,
-      "Engagement Rate": 0.0252,
+      "Engagement Rate": 0.0249,
       "Shorts": "No"
     },
     {
@@ -303,10 +369,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜ Learn Colours in Chinese 和樂樂一起唱讀｜五顏六色",
       "Published": "08/07/2026",
       "URL": "https://www.youtube.com/watch?v=goe-UOeBrOU",
-      "Views": 438,
+      "Views": 450,
       "Likes": 2,
       "Comments": 1,
-      "Engagement Rate": 0.0068,
+      "Engagement Rate": 0.0067,
       "Shorts": "No"
     },
     {
@@ -424,10 +490,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where's Mama? 和樂樂一起唱讀｜媽媽媽媽在哪裡?",
       "Published": "06/26/2026",
       "URL": "https://www.youtube.com/watch?v=uIh_eS18B1g",
-      "Views": 11347,
+      "Views": 11460,
       "Likes": 28,
       "Comments": 1,
-      "Engagement Rate": 0.0026,
+      "Engagement Rate": 0.0025,
       "Shorts": "No"
     },
     {
@@ -457,7 +523,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Dragon Boat Song 和樂樂一起唱讀｜端午兒歌",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=YWZkP3iOrDo",
-      "Views": 1947,
+      "Views": 1951,
       "Likes": 5,
       "Comments": 1,
       "Engagement Rate": 0.0031,
@@ -468,10 +534,10 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Where Are Daddy's Things? 和樂樂一起唱讀｜爸爸的東西在哪裡?",
       "Published": "06/19/2026",
       "URL": "https://www.youtube.com/watch?v=R5yyhHk-J0s",
-      "Views": 120,
+      "Views": 123,
       "Likes": 0,
       "Comments": 1,
-      "Engagement Rate": 0.0083,
+      "Engagement Rate": 0.0081,
       "Shorts": "No"
     },
     {
@@ -479,7 +545,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "051｜【樂樂 Talk】一代移民的孩子，怎麼在雙語中長大——擁有最強中文資源，卻最容易失敗的原因｜S3E17",
       "Published": "06/16/2026",
       "URL": "https://www.youtube.com/watch?v=_JKtuITH1EU",
-      "Views": 44,
+      "Views": 45,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -501,7 +567,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "不是靠技巧，而是大人先能感受、體會、享受其中 #shorts",
       "Published": "06/06/2026",
       "URL": "https://www.youtube.com/watch?v=SFvmvuO_HfY",
-      "Views": 26,
+      "Views": 27,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -556,7 +622,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "047｜【樂樂 Talk】為什麼孩子只看圖不看字？——放下識字焦慮，看圖才是閱讀真正的起點｜S3E15",
       "Published": "05/19/2026",
       "URL": "https://www.youtube.com/watch?v=NKCd10Go2mE",
-      "Views": 30,
+      "Views": 31,
       "Likes": 0,
       "Comments": 0,
       "Engagement Rate": 0,
@@ -732,7 +798,7 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Title": "交給老師教中文，你就會錯過這些可愛又珍貴的時刻 #shorts",
       "Published": "03/21/2026",
       "URL": "https://www.youtube.com/watch?v=cbWBjTNHMlg",
-      "Views": 579,
+      "Views": 580,
       "Likes": 4,
       "Comments": 0,
       "Engagement Rate": 0.0069,
@@ -1144,75 +1210,22 @@ window.LELE_YOUTUBE_DASHBOARD = {
       "Comments": 0,
       "Engagement Rate": 0,
       "Shorts": "Yes"
-    },
-    {
-      "Video ID": "ymINFPXWByw",
-      "Title": "🎬【聖誕節倒數共讀 開始前先看影片！】",
-      "Published": "11/29/2025",
-      "URL": "https://www.youtube.com/watch?v=ymINFPXWByw",
-      "Views": 4,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "pFv2fEXPmFI",
-      "Title": "🎄 聖誕倒數共讀活動即將開始! 會員專屬",
-      "Published": "11/29/2025",
-      "URL": "https://www.youtube.com/watch?v=pFv2fEXPmFI",
-      "Views": 3,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "_UGl6HqIlRA",
-      "Title": "因為拼音只是拼讀孩子可能會念卻寫不出換到另一個故事又完全卡住 #shorts",
-      "Published": "11/29/2025",
-      "URL": "https://www.youtube.com/watch?v=_UGl6HqIlRA",
-      "Views": 1134,
-      "Likes": 7,
-      "Comments": 0,
-      "Engagement Rate": 0.0062,
-      "Shorts": "Yes"
-    },
-    {
-      "Video ID": "ojf4YQ_zNt8",
-      "Title": "The more I forced my kids to learn Chinese, the more they resisted. 💔",
-      "Published": "11/27/2025",
-      "URL": "https://www.youtube.com/watch?v=ojf4YQ_zNt8",
-      "Views": 697,
-      "Likes": 4,
-      "Comments": 0,
-      "Engagement Rate": 0.0057,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "XphPh6ReY8k",
-      "Title": "035｜【樂樂 Talk】孩子不缺知識，缺的是情感教育——明灑老師談共讀如何補足學校教育給不了的養分（下）｜S2E12",
-      "Published": "11/25/2025",
-      "URL": "https://www.youtube.com/watch?v=XphPh6ReY8k",
-      "Views": 24,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "No"
-    },
-    {
-      "Video ID": "0ixV5Z4wRbU",
-      "Title": "孩子在遊戲中參與在陪伴中快樂自然走向  獨立閱讀 #shorts",
-      "Published": "11/22/2025",
-      "URL": "https://www.youtube.com/watch?v=0ixV5Z4wRbU",
-      "Views": 333,
-      "Likes": 0,
-      "Comments": 0,
-      "Engagement Rate": 0,
-      "Shorts": "Yes"
     }
   ],
   "comments": [
+    {
+      "Video ID": "hTCyvxu4swE",
+      "Video Title": "Here’s how we bring Chinese into Halloween season.",
+      "Video URL": "https://www.youtube.com/watch?v=hTCyvxu4swE",
+      "Author": "@周耀华-e5n",
+      "Published": "10/28/2026",
+      "Likes": 0,
+      "Comment": "Sorry I China but I can't read it properly",
+      "Reply": "No",
+      "Category": "其他",
+      "Theme Tags": "未分類",
+      "Response Guidance": "可簡短感謝，觀察是否能延伸成下一支內容題材。"
+    },
     {
       "Video ID": "tPNcyezeXcA",
       "Video Title": "Le Le Chinese Song Sing-Along Read-Aloud｜Halloween Song 和樂樂一起唱讀｜萬聖節兒歌",
