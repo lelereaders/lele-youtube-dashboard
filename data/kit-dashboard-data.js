@@ -1,17 +1,89 @@
 window.LELE_KIT_DASHBOARD = {
-  "generatedAt": "2026-11-09 09:01",
+  "generatedAt": "2026-11-16 08:56",
   "source": "Kit API v4",
   "dashboard": {
     "metrics": {
-      "Active subscribers": 2901,
+      "Active subscribers": 2902,
       "Subscribers fetched": 500,
       "Tags": 100,
-      "Forms": 18,
+      "Forms": 19,
       "Sequences": 50,
       "Broadcasts": 25
     }
   },
   "subscribers": [
+    {
+      "id": 4389793075,
+      "firstName": "Phoebe",
+      "state": "active",
+      "created": "2026-11-16"
+    },
+    {
+      "id": 4388945332,
+      "firstName": "Yuh-Ing",
+      "state": "active",
+      "created": "2026-11-15"
+    },
+    {
+      "id": 4386893052,
+      "firstName": "Lily",
+      "state": "active",
+      "created": "2026-11-13"
+    },
+    {
+      "id": 4386030282,
+      "firstName": "Kathy",
+      "state": "active",
+      "created": "2026-11-13"
+    },
+    {
+      "id": 4384524028,
+      "firstName": "YU CHEN",
+      "state": "active",
+      "created": "2026-11-12"
+    },
+    {
+      "id": 4383293872,
+      "firstName": "Natalie",
+      "state": "active",
+      "created": "2026-11-11"
+    },
+    {
+      "id": 4383177714,
+      "firstName": "Vanessa",
+      "state": "active",
+      "created": "2026-11-11"
+    },
+    {
+      "id": 4382384825,
+      "firstName": "Nicole",
+      "state": "active",
+      "created": "2026-11-11"
+    },
+    {
+      "id": 4381601240,
+      "firstName": "Ami",
+      "state": "active",
+      "created": "2026-11-10"
+    },
+    {
+      "id": 4381579743,
+      "firstName": "Abbie",
+      "state": "active",
+      "created": "2026-11-10"
+    },
+    {
+      "id": 4381254865,
+      "firstName": "Cadance",
+      "state": "active",
+      "created": "2026-11-10"
+    },
+    {
+      "id": 4381243418,
+      "firstName": "Vivian",
+      "state": "active",
+      "created": "2026-11-10"
+    },
     {
       "id": 4378977296,
       "firstName": null,
@@ -27,12 +99,6 @@ window.LELE_KIT_DASHBOARD = {
     {
       "id": 4377798305,
       "firstName": "Jason",
-      "state": "active",
-      "created": "2026-11-07"
-    },
-    {
-      "id": 4377643712,
-      "firstName": "Christel",
       "state": "active",
       "created": "2026-11-07"
     },
@@ -152,7 +218,7 @@ window.LELE_KIT_DASHBOARD = {
     },
     {
       "id": 4358633646,
-      "firstName": "Yuchen",
+      "firstName": "YUCHEN",
       "state": "active",
       "created": "2026-10-27"
     },
@@ -545,75 +611,18 @@ window.LELE_KIT_DASHBOARD = {
       "firstName": "SHU-JU",
       "state": "active",
       "created": "2026-09-25"
-    },
-    {
-      "id": 4310004069,
-      "firstName": "GRACE",
-      "state": "active",
-      "created": "2026-09-24"
-    },
-    {
-      "id": 4309958122,
-      "firstName": "Grace",
-      "state": "active",
-      "created": "2026-09-24"
-    },
-    {
-      "id": 4309280424,
-      "firstName": "Ruth",
-      "state": "active",
-      "created": "2026-09-24"
-    },
-    {
-      "id": 4308818064,
-      "firstName": "Ziwei",
-      "state": "active",
-      "created": "2026-09-23"
-    },
-    {
-      "id": 4304441600,
-      "firstName": "Jennifer",
-      "state": "active",
-      "created": "2026-09-21"
-    },
-    {
-      "id": 4303791390,
-      "firstName": "Charlotte",
-      "state": "active",
-      "created": "2026-09-21"
-    },
-    {
-      "id": 4303786154,
-      "firstName": "Jw",
-      "state": "active",
-      "created": "2026-09-21"
-    },
-    {
-      "id": 4302790572,
-      "firstName": "Janice",
-      "state": "active",
-      "created": "2026-09-20"
-    },
-    {
-      "id": 4302043636,
-      "firstName": "芷璇",
-      "state": "active",
-      "created": "2026-09-19"
-    },
-    {
-      "id": 4301812780,
-      "firstName": "Tingfang",
-      "state": "active",
-      "created": "2026-09-19"
-    },
-    {
-      "id": 4300101803,
-      "firstName": "Yuhan",
-      "state": "active",
-      "created": "2026-09-18"
     }
   ],
   "forms": [
+    {
+      "id": 10172947,
+      "name": "Irene Coaching｜媽媽經營者",
+      "type": "embed",
+      "detail": "Created 2026-11-10",
+      "url": "https://lelec.kit.com/902567d9e1",
+      "archived": false,
+      "count": 0
+    },
     {
       "id": 10081133,
       "name": "001 官網訂閱樂樂電子報(www.lelechinese.com.tw)",
@@ -639,7 +648,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2026-10-21",
       "url": "https://lelec.kit.com/edeee5c4a0",
       "archived": false,
-      "count": 13
+      "count": 15
     },
     {
       "id": 9227966,
@@ -702,7 +711,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-12-02",
       "url": "https://lelec.kit.com/subscribetoday",
       "archived": false,
-      "count": 128
+      "count": 127
     },
     {
       "id": 7314120,
@@ -711,7 +720,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-11-02",
       "url": "https://lelec.kit.com/english_subscription",
       "archived": false,
-      "count": 77
+      "count": 76
     },
     {
       "id": 7305435,
@@ -765,7 +774,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-08-29",
       "url": "https://lelec.kit.com/bb3f49761b",
       "archived": false,
-      "count": 304
+      "count": 311
     },
     {
       "id": 6345762,
@@ -782,7 +791,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 25325807,
       "name": "lelereadingstarteren",
       "detail": "Created 2026-11-02",
-      "count": 1
+      "count": 2
     },
     {
       "id": 25325782,
@@ -902,7 +911,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19246943,
       "name": "shopify-not purchased",
       "detail": "Created 2026-04-30",
-      "count": 1094
+      "count": 1091
     },
     {
       "id": 19239965,
@@ -950,13 +959,13 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239958,
       "name": "onestore_contact",
       "detail": "Created 2026-04-29",
-      "count": 181
+      "count": 179
     },
     {
       "id": 19239957,
       "name": "pf_award_source: popup",
       "detail": "Created 2026-04-29",
-      "count": 459
+      "count": 456
     },
     {
       "id": 19239956,
@@ -968,7 +977,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239955,
       "name": "lelewonderland-enrolled",
       "detail": "Created 2026-04-29",
-      "count": 1110
+      "count": 1104
     },
     {
       "id": 19239949,
@@ -998,7 +1007,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239945,
       "name": "pf_campaign: back to school reading",
       "detail": "Created 2026-04-29",
-      "count": 6
+      "count": 5
     },
     {
       "id": 19239944,
@@ -1010,7 +1019,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239943,
       "name": "created_by_one",
       "detail": "Created 2026-04-29",
-      "count": 173
+      "count": 171
     },
     {
       "id": 19239942,
@@ -1022,7 +1031,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239941,
       "name": "kit subscriber_20250919",
       "detail": "Created 2026-04-29",
-      "count": 973
+      "count": 968
     },
     {
       "id": 19239940,
@@ -1082,7 +1091,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239926,
       "name": "shopify-buyer-historical",
       "detail": "Created 2026-04-29",
-      "count": 1109
+      "count": 1103
     },
     {
       "id": 19239920,
@@ -1100,7 +1109,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239918,
       "name": "pf_campaign: lunar new year 2023",
       "detail": "Created 2026-04-29",
-      "count": 13
+      "count": 12
     },
     {
       "id": 19239917,
@@ -1124,13 +1133,13 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239914,
       "name": "pf_award_type: unknown",
       "detail": "Created 2026-04-29",
-      "count": 246
+      "count": 244
     },
     {
       "id": 19239913,
       "name": "pf_campaign: my first campaign",
       "detail": "Created 2026-04-29",
-      "count": 213
+      "count": 212
     },
     {
       "id": 19239912,
@@ -1142,13 +1151,13 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239911,
       "name": "lelefindbook-joined",
       "detail": "Created 2026-04-29",
-      "count": 1100
+      "count": 1094
     },
     {
       "id": 19239908,
       "name": "shopify-buyer",
       "detail": "Created 2026-04-29",
-      "count": 1111
+      "count": 1105
     },
     {
       "id": 19059772,
@@ -1220,7 +1229,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 16165404,
       "name": "Shopify: no marketing",
       "detail": "Created 2026-02-18",
-      "count": 808
+      "count": 806
     },
     {
       "id": 16164349,
@@ -1274,19 +1283,19 @@ window.LELE_KIT_DASHBOARD = {
       "id": 12425971,
       "name": "FA012_202512B",
       "detail": "Created 2025-11-10",
-      "count": 1360
+      "count": 1356
     },
     {
       "id": 12425968,
       "name": "FA012_202512A",
       "detail": "Created 2025-11-10",
-      "count": 944
+      "count": 941
     },
     {
       "id": 11930784,
       "name": "SA006_202511B",
       "detail": "Created 2025-10-24",
-      "count": 1357
+      "count": 1352
     },
     {
       "id": 11109067,
@@ -1334,49 +1343,49 @@ window.LELE_KIT_DASHBOARD = {
       "id": 11011026,
       "name": "SA006_202511A",
       "detail": "Created 2025-09-24",
-      "count": 967
+      "count": 963
     },
     {
       "id": 8533114,
       "name": "Le Le Pen Pal Project 202507",
       "detail": "Created 2025-06-28",
-      "count": 21
+      "count": 20
     },
     {
       "id": 8141945,
       "name": "lelechinesetw Instagram_read",
       "detail": "Created 2025-06-05",
-      "count": 32
+      "count": 31
     },
     {
       "id": 7800539,
       "name": "placed > 1 order",
       "detail": "Created 2025-05-06",
-      "count": 1033
+      "count": 1029
     },
     {
       "id": 5604603,
       "name": "LELEAFFILIATE",
       "detail": "Created 2024-11-29",
-      "count": 57
+      "count": 0
     },
     {
       "id": 5602622,
       "name": "bookclub-melbourn",
       "detail": "Created 2024-11-28",
-      "count": 1
+      "count": 0
     },
     {
       "id": 5539982,
       "name": "FA010_202510_1",
       "detail": "Created 2024-11-08",
-      "count": 987
+      "count": 0
     },
     {
       "id": 5534654,
       "name": "literacygroup",
       "detail": "Created 2024-11-07",
-      "count": 25
+      "count": 0
     }
   ],
   "sequences": [
@@ -1385,14 +1394,14 @@ window.LELE_KIT_DASHBOARD = {
       "name": "KS003EN_EXPERIENCE",
       "status": "active",
       "detail": "Send hour 20 · Asia/Taipei",
-      "count": 17
+      "count": 0
     },
     {
       "id": 2928960,
       "name": "萬聖節共讀挑戰(會員)",
       "status": "active",
       "detail": "Send hour 8 · Asia/Taipei",
-      "count": 1032
+      "count": 0
     },
     {
       "id": 2905504,
@@ -1733,35 +1742,35 @@ window.LELE_KIT_DASHBOARD = {
   ],
   "broadcasts": [
     {
-      "id": 26713212,
-      "subject": "New Broadcast",
-      "name": "New Broadcast",
-      "status": "draft",
-      "detail": "Created 2026-10-31",
+      "id": 26948610,
+      "subject": "4 hours left. A reminder for my Le Le families",
+      "name": "4 hours left. A reminder for my Le Le families",
+      "status": "scheduled",
+      "detail": "Send at 2026-11-11",
       "url": null
     },
     {
-      "id": 26712632,
-      "subject": "November theme: Colors 顏色 · 剪剪貼貼，把顏色說成中文",
-      "name": "November theme: Colors 顏色 · 剪剪貼貼，把顏色說成中文",
-      "status": "draft",
-      "detail": "Created 2026-10-31",
+      "id": 26948284,
+      "subject": "4 hours left to save $300 on Le Le",
+      "name": "4 hours left to save $300 on Le Le",
+      "status": "scheduled",
+      "detail": "Send at 2026-11-11",
       "url": null
     },
     {
-      "id": 26712631,
-      "subject": " · November theme: Colors is ready for you",
-      "name": " · November theme: Colors is ready for you",
-      "status": "draft",
-      "detail": "Created 2026-10-31",
+      "id": 26923146,
+      "subject": "A little something for our Le Le families this Double 11 ❤️",
+      "name": "A little something for our Le Le families this Double 11 ❤️",
+      "status": "scheduled",
+      "detail": "Send at 2026-11-10",
       "url": null
     },
     {
-      "id": 26712403,
-      "subject": "Important shipping update for our EU families · 歐盟出貨暫停通知",
-      "name": "Important shipping update for our EU families · 歐盟出貨暫停通知",
-      "status": "draft",
-      "detail": "Created 2026-10-31",
+      "id": 26922482,
+      "subject": "I wish someone had told me this about teaching kids to read Chinese...",
+      "name": "I wish someone had told me this about teaching kids to read Chinese...",
+      "status": "scheduled",
+      "detail": "Send at 2026-11-10",
       "url": null
     },
     {
