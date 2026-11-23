@@ -1,22 +1,52 @@
 window.LELE_KIT_DASHBOARD = {
-  "generatedAt": "2026-11-16 08:56",
+  "generatedAt": "2026-11-23 10:12",
   "source": "Kit API v4",
   "dashboard": {
     "metrics": {
-      "Active subscribers": 2902,
+      "Active subscribers": 2892,
       "Subscribers fetched": 500,
       "Tags": 100,
-      "Forms": 19,
-      "Sequences": 50,
+      "Forms": 21,
+      "Sequences": 51,
       "Broadcasts": 25
     }
   },
   "subscribers": [
     {
-      "id": 4389793075,
-      "firstName": "Phoebe",
+      "id": 4402089016,
+      "firstName": "Charlotte",
       "state": "active",
-      "created": "2026-11-16"
+      "created": "2026-11-22"
+    },
+    {
+      "id": 4402016552,
+      "firstName": "Candace",
+      "state": "active",
+      "created": "2026-11-22"
+    },
+    {
+      "id": 4401833530,
+      "firstName": "AS",
+      "state": "active",
+      "created": "2026-11-22"
+    },
+    {
+      "id": 4400899913,
+      "firstName": "Paige",
+      "state": "active",
+      "created": "2026-11-22"
+    },
+    {
+      "id": 4397034366,
+      "firstName": "Charlotte",
+      "state": "active",
+      "created": "2026-11-19"
+    },
+    {
+      "id": 4393949217,
+      "firstName": "Anco",
+      "state": "active",
+      "created": "2026-11-17"
     },
     {
       "id": 4388945332,
@@ -55,12 +85,6 @@ window.LELE_KIT_DASHBOARD = {
       "created": "2026-11-11"
     },
     {
-      "id": 4382384825,
-      "firstName": "Nicole",
-      "state": "active",
-      "created": "2026-11-11"
-    },
-    {
       "id": 4381601240,
       "firstName": "Ami",
       "state": "active",
@@ -86,7 +110,7 @@ window.LELE_KIT_DASHBOARD = {
     },
     {
       "id": 4378977296,
-      "firstName": null,
+      "firstName": "Janet",
       "state": "active",
       "created": "2026-11-08"
     },
@@ -99,12 +123,6 @@ window.LELE_KIT_DASHBOARD = {
     {
       "id": 4377798305,
       "firstName": "Jason",
-      "state": "active",
-      "created": "2026-11-07"
-    },
-    {
-      "id": 4376868356,
-      "firstName": "Vicky",
       "state": "active",
       "created": "2026-11-07"
     },
@@ -553,12 +571,6 @@ window.LELE_KIT_DASHBOARD = {
       "created": "2026-10-05"
     },
     {
-      "id": 4324559478,
-      "firstName": "Chloe",
-      "state": "active",
-      "created": "2026-10-04"
-    },
-    {
       "id": 4323898813,
       "firstName": "Madeline",
       "state": "active",
@@ -595,25 +607,31 @@ window.LELE_KIT_DASHBOARD = {
       "created": "2026-09-29"
     },
     {
-      "id": 4313644098,
-      "firstName": "杜皓白",
-      "state": "active",
-      "created": "2026-09-27"
-    },
-    {
       "id": 4313273908,
       "firstName": "Olivia",
       "state": "active",
       "created": "2026-09-27"
-    },
-    {
-      "id": 4311331740,
-      "firstName": "SHU-JU",
-      "state": "active",
-      "created": "2026-09-25"
     }
   ],
   "forms": [
+    {
+      "id": 10211382,
+      "name": "christmas gift inline",
+      "type": "embed",
+      "detail": "Created 2026-11-19",
+      "url": "https://lelec.kit.com/bf1244af07",
+      "archived": false,
+      "count": 0
+    },
+    {
+      "id": 10211371,
+      "name": "christmas gift_en",
+      "type": "embed",
+      "detail": "Created 2026-11-19",
+      "url": "https://lelec.kit.com/9429083af1",
+      "archived": false,
+      "count": 2
+    },
     {
       "id": 10172947,
       "name": "Irene Coaching｜媽媽經營者",
@@ -648,7 +666,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2026-10-21",
       "url": "https://lelec.kit.com/edeee5c4a0",
       "archived": false,
-      "count": 15
+      "count": 16
     },
     {
       "id": 9227966,
@@ -675,7 +693,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2026-03-20",
       "url": "https://lelec.kit.com/608f5f5615",
       "archived": false,
-      "count": 6
+      "count": 5
     },
     {
       "id": 9227342,
@@ -720,7 +738,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-11-02",
       "url": "https://lelec.kit.com/english_subscription",
       "archived": false,
-      "count": 76
+      "count": 75
     },
     {
       "id": 7305435,
@@ -756,7 +774,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-09-29",
       "url": "https://mail.lelechinese.com",
       "archived": false,
-      "count": 15
+      "count": 18
     },
     {
       "id": 7068766,
@@ -774,7 +792,7 @@ window.LELE_KIT_DASHBOARD = {
       "detail": "Created 2024-08-29",
       "url": "https://lelec.kit.com/bb3f49761b",
       "archived": false,
-      "count": 311
+      "count": 313
     },
     {
       "id": 6345762,
@@ -787,6 +805,18 @@ window.LELE_KIT_DASHBOARD = {
     }
   ],
   "tags": [
+    {
+      "id": 26318129,
+      "name": "christmasgift",
+      "detail": "Created 2026-11-23",
+      "count": 0
+    },
+    {
+      "id": 26253075,
+      "name": "red book no yellow+green",
+      "detail": "Created 2026-11-21",
+      "count": 84
+    },
     {
       "id": 25325807,
       "name": "lelereadingstarteren",
@@ -809,7 +839,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 25082449,
       "name": "ig_try_giften",
       "detail": "Created 2026-10-27",
-      "count": 5
+      "count": 6
     },
     {
       "id": 25041814,
@@ -845,7 +875,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 21445788,
       "name": "202607preorder",
       "detail": "Created 2026-07-24",
-      "count": 41
+      "count": 39
     },
     {
       "id": 21443672,
@@ -911,7 +941,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19246943,
       "name": "shopify-not purchased",
       "detail": "Created 2026-04-30",
-      "count": 1091
+      "count": 1087
     },
     {
       "id": 19239965,
@@ -965,7 +995,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239957,
       "name": "pf_award_source: popup",
       "detail": "Created 2026-04-29",
-      "count": 456
+      "count": 454
     },
     {
       "id": 19239956,
@@ -977,7 +1007,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239955,
       "name": "lelewonderland-enrolled",
       "detail": "Created 2026-04-29",
-      "count": 1104
+      "count": 1099
     },
     {
       "id": 19239949,
@@ -1031,7 +1061,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239941,
       "name": "kit subscriber_20250919",
       "detail": "Created 2026-04-29",
-      "count": 968
+      "count": 965
     },
     {
       "id": 19239940,
@@ -1091,7 +1121,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239926,
       "name": "shopify-buyer-historical",
       "detail": "Created 2026-04-29",
-      "count": 1103
+      "count": 1098
     },
     {
       "id": 19239920,
@@ -1139,25 +1169,25 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19239913,
       "name": "pf_campaign: my first campaign",
       "detail": "Created 2026-04-29",
-      "count": 212
+      "count": 210
     },
     {
       "id": 19239912,
       "name": "shopify-preorder",
       "detail": "Created 2026-04-29",
-      "count": 60
+      "count": 59
     },
     {
       "id": 19239911,
       "name": "lelefindbook-joined",
       "detail": "Created 2026-04-29",
-      "count": 1094
+      "count": 1089
     },
     {
       "id": 19239908,
       "name": "shopify-buyer",
       "detail": "Created 2026-04-29",
-      "count": 1105
+      "count": 1100
     },
     {
       "id": 19059772,
@@ -1187,7 +1217,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 19041991,
       "name": "preorder-delay-grp1",
       "detail": "Created 2026-04-21",
-      "count": 17
+      "count": 16
     },
     {
       "id": 19041952,
@@ -1229,7 +1259,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 16165404,
       "name": "Shopify: no marketing",
       "detail": "Created 2026-02-18",
-      "count": 806
+      "count": 805
     },
     {
       "id": 16164349,
@@ -1259,7 +1289,7 @@ window.LELE_KIT_DASHBOARD = {
       "id": 15821406,
       "name": "lnygift",
       "detail": "Created 2026-02-11",
-      "count": 42
+      "count": 43
     },
     {
       "id": 13909108,
@@ -1283,19 +1313,19 @@ window.LELE_KIT_DASHBOARD = {
       "id": 12425971,
       "name": "FA012_202512B",
       "detail": "Created 2025-11-10",
-      "count": 1356
+      "count": 1351
     },
     {
       "id": 12425968,
       "name": "FA012_202512A",
       "detail": "Created 2025-11-10",
-      "count": 941
+      "count": 940
     },
     {
       "id": 11930784,
       "name": "SA006_202511B",
       "detail": "Created 2025-10-24",
-      "count": 1352
+      "count": 1347
     },
     {
       "id": 11109067,
@@ -1343,25 +1373,25 @@ window.LELE_KIT_DASHBOARD = {
       "id": 11011026,
       "name": "SA006_202511A",
       "detail": "Created 2025-09-24",
-      "count": 963
+      "count": 0
     },
     {
       "id": 8533114,
       "name": "Le Le Pen Pal Project 202507",
       "detail": "Created 2025-06-28",
-      "count": 20
+      "count": 0
     },
     {
       "id": 8141945,
       "name": "lelechinesetw Instagram_read",
       "detail": "Created 2025-06-05",
-      "count": 31
+      "count": 0
     },
     {
       "id": 7800539,
       "name": "placed > 1 order",
       "detail": "Created 2025-05-06",
-      "count": 1029
+      "count": 0
     },
     {
       "id": 5604603,
@@ -1374,21 +1404,16 @@ window.LELE_KIT_DASHBOARD = {
       "name": "bookclub-melbourn",
       "detail": "Created 2024-11-28",
       "count": 0
-    },
-    {
-      "id": 5539982,
-      "name": "FA010_202510_1",
-      "detail": "Created 2024-11-08",
-      "count": 0
-    },
-    {
-      "id": 5534654,
-      "name": "literacygroup",
-      "detail": "Created 2024-11-07",
-      "count": 0
     }
   ],
   "sequences": [
+    {
+      "id": 2982967,
+      "name": "KS001_GIFT_Christmas",
+      "status": "active",
+      "detail": "Send hour 20 · Asia/Taipei",
+      "count": 0
+    },
     {
       "id": 2942403,
       "name": "KS003EN_EXPERIENCE",
@@ -1742,203 +1767,203 @@ window.LELE_KIT_DASHBOARD = {
   ],
   "broadcasts": [
     {
-      "id": 26948610,
-      "subject": "4 hours left. A reminder for my Le Le families",
-      "name": "4 hours left. A reminder for my Le Le families",
-      "status": "scheduled",
-      "detail": "Send at 2026-11-11",
-      "url": null
-    },
-    {
-      "id": 26948284,
-      "subject": "4 hours left to save $300 on Le Le",
-      "name": "4 hours left to save $300 on Le Le",
-      "status": "scheduled",
-      "detail": "Send at 2026-11-11",
-      "url": null
-    },
-    {
-      "id": 26923146,
-      "subject": "A little something for our Le Le families this Double 11 ❤️",
-      "name": "A little something for our Le Le families this Double 11 ❤️",
-      "status": "scheduled",
-      "detail": "Send at 2026-11-10",
-      "url": null
-    },
-    {
-      "id": 26922482,
-      "subject": "I wish someone had told me this about teaching kids to read Chinese...",
-      "name": "I wish someone had told me this about teaching kids to read Chinese...",
-      "status": "scheduled",
-      "detail": "Send at 2026-11-10",
-      "url": null
-    },
-    {
-      "id": 26695097,
-      "subject": "The simple trick to keeping kids interested in Chinese",
-      "name": "The simple trick to keeping kids interested in Chinese",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-30",
-      "url": null
-    },
-    {
-      "id": 26695011,
-      "subject": "🎃 Halloween is tomorrow!",
-      "name": "🎃 Halloween is tomorrow!",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-30",
-      "url": null
-    },
-    {
-      "id": 26651047,
-      "subject": "A Clear Folder, a Few Books, and a Halloween Win🎃",
-      "name": "A Clear Folder, a Few Books, and a Halloween Win🎃",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-28",
-      "url": null
-    },
-    {
-      "id": 26650953,
-      "subject": "What happened when my kids found the Halloween words",
-      "name": "What happened when my kids found the Halloween words",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-28",
-      "url": null
-    },
-    {
-      "id": 26402970,
-      "subject": "Halloween is this Saturday 🎃",
-      "name": "Halloween is this Saturday 🎃",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-25",
-      "url": null
-    },
-    {
-      "id": 26383056,
-      "subject": "🎃 Your Kids Already Love Halloween. Let’s Add Chinese!",
-      "name": "🎃 Your Kids Already Love Halloween. Let’s Add Chinese!",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-15",
-      "url": null
-    },
-    {
-      "id": 26228235,
-      "subject": "Speaking Chinese and reading Chinese are different",
-      "name": "Speaking Chinese and reading Chinese are different",
+      "id": 27211885,
+      "subject": "Read about a family, then match the actions",
+      "name": "Read about a family, then match the actions",
       "status": "draft",
-      "detail": "Created 2026-10-04",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26228233,
-      "subject": "You don't have to read every sentence for them",
-      "name": "You don't have to read every sentence for them",
+      "id": 27211781,
+      "subject": "Our Christmas countdown starts tomorrow",
+      "name": "Our Christmas countdown starts tomorrow",
       "status": "draft",
-      "detail": "Created 2026-10-04",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26228232,
-      "subject": "Can we read without correcting every word?",
-      "name": "Can we read without correcting every word?",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-11",
+      "id": 27211780,
+      "subject": "Let your child choose where the Chinese starts",
+      "name": "Let your child choose where the Chinese starts",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26222445,
-      "subject": "When your child says, \"I don't want to learn Chinese\"",
-      "name": "When your child says, \"I don't want to learn Chinese\"",
-      "status": "scheduled",
-      "detail": "Send at 2026-10-05",
+      "id": 27211778,
+      "subject": "Santa says, and a Christmas thank-you",
+      "name": "Santa says, and a Christmas thank-you",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26067842,
-      "subject": "The house is finally quiet｜孩子睡了，這封寫給你",
-      "name": "The house is finally quiet｜孩子睡了，這封寫給你",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-25",
+      "id": 27211777,
+      "subject": "Four hats, your child’s designs",
+      "name": "Four hats, your child’s designs",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26067639,
-      "subject": "Tonight, look up at the moon together｜今晚，和孩子一起抬頭看月亮",
-      "name": "Tonight, look up at the moon together｜今晚，和孩子一起抬頭看月亮",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-24",
+      "id": 27211776,
+      "subject": "Count the Christmas treats",
+      "name": "Count the Christmas treats",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26055665,
-      "subject": "Before I close your VIP gift｜VIP 禮物關上之前",
-      "name": "Before I close your VIP gift｜VIP 禮物關上之前",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-27",
+      "id": 27211775,
+      "subject": "Read the juice book, then match the colours",
+      "name": "Read the juice book, then match the colours",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26055496,
-      "subject": "Which book is your child on right now?｜孩子現在讀到第幾本了？",
-      "name": "Which book is your child on right now?｜孩子現在讀到第幾本了？",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-27",
+      "id": 27211774,
+      "subject": "A light hunt around your home",
+      "name": "A light hunt around your home",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26055360,
-      "subject": "Grandma's voice, one tap away｜阿嬤的聲音，一點就聽得到",
-      "name": "Grandma's voice, one tap away｜阿嬤的聲音，一點就聽得到",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-25",
+      "id": 27211773,
+      "subject": "Help the gingerbread person reach the party",
+      "name": "Help the gingerbread person reach the party",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26055205,
-      "subject": "Same moon. Different language?｜同一個月亮，孩子卻讀不懂阿嬤寫的「中秋快樂」",
-      "name": "Same moon. Different language?｜同一個月亮，孩子卻讀不懂阿嬤寫的「中秋快樂」",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-25",
+      "id": 27211771,
+      "subject": "Who does this smile belong to?",
+      "name": "Who does this smile belong to?",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26054504,
-      "subject": "This one's just for you A thank-you gift for the families who started with us.",
-      "name": "This one's just for you A thank-you gift for the families who started with us.",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-23",
+      "id": 27211770,
+      "subject": "Count the bells, one colour at a time",
+      "name": "Count the bells, one colour at a time",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26054316,
-      "subject": "What's really stopping you?｜你真正在擔心的是什麼？",
-      "name": "What's really stopping you?｜你真正在擔心的是什麼？",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-27",
+      "id": 27211769,
+      "subject": "Make a stocking for your tree",
+      "name": "Make a stocking for your tree",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26053978,
-      "subject": "Next Mid-Autumn, they'll be a year older｜明年中秋，孩子又大一歲了",
-      "name": "Next Mid-Autumn, they'll be a year older｜明年中秋，孩子又大一歲了",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-27",
+      "id": 27211768,
+      "subject": "Cake ingredients, without turning on the oven",
+      "name": "Cake ingredients, without turning on the oven",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26053712,
-      "subject": "\"Read it to me?\" — and you hesitate｜孩子拿著中文書說：「媽媽唸給我聽」",
-      "name": "\"Read it to me?\" — and you hesitate｜孩子拿著中文書說：「媽媽唸給我聽」",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-24",
+      "id": 27211766,
+      "subject": "A bow or a butterfly?",
+      "name": "A bow or a butterfly?",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     },
     {
-      "id": 26053483,
-      "subject": "🌕 Mid-Autumn: US$200 off — and why I'm still here after everything｜中秋限定直降 US$200，還有我為什麼還在這裡",
-      "name": "🌕 Mid-Autumn: US$200 off — and why I'm still here after everything｜中秋限定直降 US$200，還有我為什麼還在這裡",
-      "status": "scheduled",
-      "detail": "Send at 2026-09-23",
+      "id": 27211765,
+      "subject": "Day 12: Make a card for someone you love",
+      "name": "Day 12: Make a card for someone you love",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211764,
+      "subject": "Day 11: A paper tree that stands up",
+      "name": "Day 11: A paper tree that stands up",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211763,
+      "subject": "Day 10: What if this isn’t a deer?",
+      "name": "Day 10: What if this isn’t a deer?",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211762,
+      "subject": "Day 9: Find the stars around your home",
+      "name": "Day 9: Find the stars around your home",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211761,
+      "subject": "Day 8: Draw a wish inside Santa’s bag",
+      "name": "Day 8: Draw a wish inside Santa’s bag",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211760,
+      "subject": "Day 7: Solve a Christmas food riddle",
+      "name": "Day 7: Solve a Christmas food riddle",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211759,
+      "subject": "Day 6: Make a penguin from shapes",
+      "name": "Day 6: Make a penguin from shapes",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211758,
+      "subject": "Day 5: Guide the deer to the candy cane",
+      "name": "Day 5: Guide the deer to the candy cane",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211756,
+      "subject": "Day 4: Count the candles on Le Le’s cake",
+      "name": "Day 4: Count the candles on Le Le’s cake",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211755,
+      "subject": "Day 3: Help a snowman find its labels",
+      "name": "Day 3: Help a snowman find its labels",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
+      "url": null
+    },
+    {
+      "id": 27211754,
+      "subject": "Day 2: A candy hunt on paper",
+      "name": "Day 2: A candy hunt on paper",
+      "status": "draft",
+      "detail": "Created 2026-11-22",
       "url": null
     }
   ],
